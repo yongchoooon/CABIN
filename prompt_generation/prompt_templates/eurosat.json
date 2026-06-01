@@ -1,0 +1,281 @@
+{
+    "Annual Crop": {
+        "action_or_pose": [
+            "germinating",
+            "growing",
+            "ripening",
+            "harvested"
+        ],
+        "invariant_features": [
+            "uniform crop rows",
+            "seasonal color variation",
+            "rectangular field boundaries",
+            "consistent canopy texture"
+        ],
+        "cooccurrence": [
+            "irrigation channels",
+            "farm machinery",
+            "field boundaries",
+            "access roads"
+        ],
+        "background": [
+            "rural farmland",
+            "adjacent pastures",
+            "small villages",
+            "tree lines"
+        ]
+    },
+    "Forest": {
+        "action_or_pose": [
+            "dense canopy coverage",
+            "seasonal color variation",
+            "patchy distribution",
+            "edge formation"
+        ],
+        "invariant_features": [
+            "tree canopy clusters",
+            "green spectral signature",
+            "irregular polygonal boundaries",
+            "shadowed understory texture"
+        ],
+        "cooccurrence": [
+            "rivers",
+            "mountain slopes",
+            "grasslands",
+            "roads",
+            "clearings"
+        ],
+        "background": [
+            "European countryside",
+            "mountainous terrain",
+            "river valleys",
+            "temperate climate zones"
+        ]
+    },
+    "Herbaceous Vegetation": {
+        "action_or_pose": [
+            "dense coverage",
+            "patchy distribution",
+            "seasonal greening",
+            "drying phase"
+        ],
+        "invariant_features": [
+            "fine-textured canopy",
+            "non-woody stems",
+            "uniform green tone in summer",
+            "high NDVI response",
+            "low structural height"
+        ],
+        "cooccurrence": [
+            "bare soil patches",
+            "shrubs",
+            "agricultural fields",
+            "roads",
+            "water bodies"
+        ],
+        "background": [
+            "grasslands",
+            "meadows",
+            "pastures",
+            "open countryside",
+            "river plains"
+        ]
+    },
+    "Highway": {
+        "action_or_pose": [
+            "curving",
+            "intersecting",
+            "running straight",
+            "branching",
+            "elevated"
+        ],
+        "invariant_features": [
+            "paved surface",
+            "lane markings",
+            "guardrails",
+            "asphalt texture",
+            "median strip"
+        ],
+        "cooccurrence": [
+            "vehicles",
+            "road signs",
+            "bridges",
+            "interchanges",
+            "streetlights"
+        ],
+        "background": [
+            "urban areas",
+            "rural landscapes",
+            "forested regions",
+            "mountain valleys",
+            "coastal plains"
+        ]
+    },
+    "Industrial": {
+        "action_or_pose": [
+            "emitting smoke",
+            "idle machinery",
+            "active production",
+            "storage state"
+        ],
+        "invariant_features": [
+            "large factory roofs",
+            "rectangular building blocks",
+            "chimney stacks",
+            "metallic surfaces",
+            "organized layout of structures"
+        ],
+        "cooccurrence": [
+            "parking lots",
+            "roads",
+            "shipping containers",
+            "warehouses",
+            "power lines"
+        ],
+        "background": [
+            "urban outskirts",
+            "industrial zones",
+            "transport hubs",
+            "flat terrain",
+            "near railways"
+        ]
+    },
+    "Pasture": {
+        "action_or_pose": [
+            "uniformly green coverage",
+            "seasonal color variation",
+            "patchy distribution",
+            "mowed appearance"
+        ],
+        "invariant_features": [
+            "dense grass cover",
+            "absence of tall trees",
+            "irregular field boundaries",
+            "bright green spectral signature"
+        ],
+        "cooccurrence": [
+            "fences",
+            "farm buildings",
+            "livestock",
+            "dirt roads"
+        ],
+        "background": [
+            "rural countryside",
+            "rolling hills",
+            "agricultural landscape",
+            "adjacent cropland"
+        ]
+    },
+    "Permanent Crop": {
+        "action_or_pose": [
+            "dense canopy coverage",
+            "aligned in rows",
+            "seasonal color variation",
+            "harvested state"
+        ],
+        "invariant_features": [
+            "regular planting patterns",
+            "woody perennial vegetation",
+            "distinct orchard boundaries",
+            "consistent canopy texture"
+        ],
+        "cooccurrence": [
+            "irrigation systems",
+            "farm buildings",
+            "access roads",
+            "field boundaries"
+        ],
+        "background": [
+            "rural landscapes",
+            "agricultural plains",
+            "Mediterranean regions",
+            "valley areas"
+        ]
+    },
+    "Residential": {
+        "action_or_pose": [
+            "clustered layout",
+            "aligned along streets",
+            "scattered pattern",
+            "dense block formation"
+        ],
+        "invariant_features": [
+            "pitched rooftops",
+            "rectangular building footprints",
+            "driveways or small yards",
+            "regular street grid",
+            "light-colored roofing materials"
+        ],
+        "cooccurrence": [
+            "roads",
+            "trees",
+            "cars",
+            "sidewalks",
+            "gardens"
+        ],
+        "background": [
+            "urban area",
+            "suburban neighborhood",
+            "town outskirts",
+            "village setting",
+            "flat terrain"
+        ]
+    },
+    "River": {
+        "action_or_pose": [
+            "meandering",
+            "branching",
+            "flowing",
+            "widening at delta"
+        ],
+        "invariant_features": [
+            "curvilinear watercourse",
+            "continuous water surface",
+            "riverbanks on both sides",
+            "sediment-laden flow",
+            "visible tributary junctions"
+        ],
+        "cooccurrence": [
+            "bridges",
+            "roads",
+            "vegetation",
+            "floodplains",
+            "settlements"
+        ],
+        "background": [
+            "forested terrain",
+            "agricultural fields",
+            "mountain valleys",
+            "urban outskirts",
+            "coastal plains"
+        ]
+    },
+    "Sea/Lake": {
+        "action_or_pose": [
+            "still water surface",
+            "wave ripples",
+            "frozen state",
+            "partially covered by vegetation"
+        ],
+        "invariant_features": [
+            "blue or dark spectral signature",
+            "smooth reflective texture",
+            "irregular shoreline boundary",
+            "absence of built structures"
+        ],
+        "cooccurrence": [
+            "rivers",
+            "coastal land",
+            "boats",
+            "bridges",
+            "wetlands"
+        ],
+        "background": [
+            "coastal regions",
+            "mountain basins",
+            "inland plains",
+            "urban outskirts",
+            "river deltas"
+        ]
+    }
+}

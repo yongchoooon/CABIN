@@ -1,0 +1,3032 @@
+{
+    "Apple pie": {
+        "action_or_pose": [
+            "whole pie in tin",
+            "wedge slice on plate",
+            "lattice-topped pie cooling on rack",
+            "cut open to reveal apple layers",
+            "served a la mode with melting ice cream"
+        ],
+        "invariant_features": [
+            "semicircular peeled apple slices layered inside",
+            "cinnamon-speckled translucent syrup binding the filling",
+            "vent slits or lattice with amber apple juice stains",
+            "domed double crust from piled apple filling",
+            "granulated sugar and cinnamon dusting on golden top crust"
+        ],
+        "cooccurrence": [
+            "vanilla ice cream scoop",
+            "whipped cream dollop",
+            "pie server",
+            "dessert fork and plate",
+            "caramel sauce drizzle"
+        ],
+        "background": [
+            "kitchen countertop",
+            "bakery display case",
+            "holiday dining table",
+            "picnic table with checkered cloth",
+            "windowsill cooling spot"
+        ]
+    },
+    "Baby back ribs": {
+        "action_or_pose": [
+            "full rack, meat-side up",
+            "full rack, bone-side up",
+            "cut into individual ribs",
+            "stacked on a platter",
+            "glazed and glossy with barbecue sauce"
+        ],
+        "invariant_features": [
+            "short, tightly curved rib bones",
+            "thick loin-side meat cap",
+            "narrow, tapered rack profile",
+            "clean rounded bone tips, minimal cartilage",
+            "pronounced arch across the rack"
+        ],
+        "cooccurrence": [
+            "barbecue sauce ramekin",
+            "coleslaw",
+            "baked beans",
+            "cornbread",
+            "pickle spears"
+        ],
+        "background": [
+            "backyard grill grate",
+            "wooden cutting board",
+            "metal tray lined with butcher paper",
+            "picnic table setting",
+            "barbecue restaurant tabletop"
+        ]
+    },
+    "Baklava": {
+        "action_or_pose": [
+            "cut into diamond-shaped pieces",
+            "stacked tightly in a metal bakery tray",
+            "single piece plated on a small dessert plate",
+            "cooling in a syrup-filled baking pan",
+            "cross-section shown with visible nut layers"
+        ],
+        "invariant_features": [
+            "ultra-thin phyllo layer stack (>20 sheets)",
+            "glossy honey-citrus syrup soak",
+            "finely chopped pistachio or walnut core band",
+            "sharp-edged diamond or triangle portions",
+            "pistachio crumb dot centered on each piece"
+        ],
+        "cooccurrence": [
+            "pistachio crumbs",
+            "honey or sugar syrup pot",
+            "dessert fork",
+            "Turkish tea glass",
+            "paper pastry cup"
+        ],
+        "background": [
+            "bakery display case",
+            "metal sheet pan",
+            "cafe tabletop",
+            "festive dessert platter",
+            "home kitchen counter"
+        ]
+    },
+    "Beef carpaccio": {
+        "action_or_pose": [
+            "overlapping circular layout",
+            "single layer spread flat",
+            "fanned around plate rim",
+            "rosette-rolled slices",
+            "center-garnished with arugula"
+        ],
+        "invariant_features": [
+            "uncooked beef tenderloin rounds",
+            "pounded to near-translucency",
+            "lemon–olive oil sheen on raw beef",
+            "shaved Parmigiano-Reggiano on raw beef",
+            "capers and arugula atop raw beef"
+        ],
+        "cooccurrence": [
+            "arugula leaves",
+            "capers",
+            "shaved Parmesan",
+            "lemon wedges",
+            "toasted crostini"
+        ],
+        "background": [
+            "white ceramic plate",
+            "marble countertop",
+            "fine-dining tablecloth",
+            "rustic wooden table",
+            "bistro bar counter"
+        ]
+    },
+    "Beef tartare": {
+        "action_or_pose": [
+            "molded into a round puck",
+            "topped with an egg yolk",
+            "spread onto toast points",
+            "mixed tableside",
+            "plated as a quenelle"
+        ],
+        "invariant_features": [
+            "hand-chopped raw beef tenderloin",
+            "egg yolk set atop the mound",
+            "Dijon and Worcestershire seasoning",
+            "capers, shallots, and cornichons folded in",
+            "puck-shaped ring-mold presentation"
+        ],
+        "cooccurrence": [
+            "toast points",
+            "cornichons",
+            "capers",
+            "Dijon mustard",
+            "pommes frites"
+        ],
+        "background": [
+            "French bistro table with white tablecloth",
+            "marble restaurant tabletop",
+            "wooden bar counter",
+            "stainless steel kitchen pass",
+            "outdoor sidewalk cafe setting"
+        ]
+    },
+    "Beet salad": {
+        "action_or_pose": [
+            "tossed with vinaigrette",
+            "plated as a composed salad",
+            "layered with beet slices",
+            "stacked beet-and-cheese towers",
+            "served chilled in a shallow bowl"
+        ],
+        "invariant_features": [
+            "magenta beet juice stains on the plate rim",
+            "beetroot cubes with glossy vinaigrette sheen",
+            "sliced beets showing concentric growth rings",
+            "mix of golden and red beet pieces in one dish",
+            "cheese crumbles lightly pink-dyed from beet contact"
+        ],
+        "cooccurrence": [
+            "goat cheese crumbles",
+            "arugula or mixed greens",
+            "walnuts or pistachios",
+            "orange segments",
+            "balsamic or citrus vinaigrette"
+        ],
+        "background": [
+            "white ceramic plate on a wooden table",
+            "restaurant tabletop with cutlery and water glass",
+            "marble countertop near a salad bowl",
+            "farm-to-table bistro setting",
+            "picnic spread with other salads"
+        ]
+    },
+    "Beignets": {
+        "action_or_pose": [
+            "lying flat on a plate, dusted with sugar",
+            "stacked in a small pyramid",
+            "torn open, exposing airy interior",
+            "freshly fried, draining on a wire rack",
+            "inside a paper bag, sugar-coated"
+        ],
+        "invariant_features": [
+            "square, pillow-shaped fried dough without a hole",
+            "thick blanket of powdered sugar covering surface",
+            "airy, hollow interior with large alveoli",
+            "thin, crisp golden crust with tiny oil blisters",
+            "slightly rounded square corners with puffed seams"
+        ],
+        "cooccurrence": [
+            "mug of chicory café au lait",
+            "powdered sugar shaker or sifter",
+            "paper-lined serving plate or basket",
+            "white napkins dusted with sugar",
+            "metal tongs or fryer basket"
+        ],
+        "background": [
+            "New Orleans cafe setting",
+            "checkered-tablecloth breakfast table",
+            "bakery or cafe display counter",
+            "home kitchen countertop near stove",
+            "street-side cafe patio"
+        ]
+    },
+    "Bibimbap": {
+        "action_or_pose": [
+            "served in hot stone bowl (dolsot)",
+            "toppings arranged in radial spokes",
+            "egg perched at center",
+            "gochujang dollop centered",
+            "thoroughly mixed into uniform bowl"
+        ],
+        "invariant_features": [
+            "radial namul arrangement over white rice",
+            "central gochujang dollop for mixing",
+            "egg crown with visible yolk",
+            "dolsot crispy rice crust (nurungji)",
+            "rice base hidden beneath toppings before mixing"
+        ],
+        "cooccurrence": [
+            "kimchi",
+            "small banchan plates",
+            "stainless steel spoon",
+            "metal chopsticks",
+            "wooden trivet for hot bowl"
+        ],
+        "background": [
+            "Korean restaurant tabletop",
+            "home dining table",
+            "cafeteria tray in a Korean eatery",
+            "food court seating area",
+            "wooden table with banchan spread"
+        ]
+    },
+    "Bread pudding": {
+        "action_or_pose": [
+            "cut into square slice",
+            "scooped from baking dish",
+            "served warm with sauce drizzled",
+            "in individual ramekin",
+            "topped with powdered sugar"
+        ],
+        "invariant_features": [
+            "fused cubes of bread bound by custard",
+            "rippled caramelized top crust",
+            "porous custard-soaked interior on cut face",
+            "irregular torn bread crust embedded throughout",
+            "dense, spoonable slab with glossy custard sheen"
+        ],
+        "cooccurrence": [
+            "vanilla sauce",
+            "whipped cream",
+            "vanilla ice cream",
+            "ceramic baking dish",
+            "dessert fork"
+        ],
+        "background": [
+            "home kitchen countertop",
+            "restaurant dessert plate setting",
+            "rustic wooden dining table",
+            "bakery display area",
+            "holiday buffet table"
+        ]
+    },
+    "Breakfast burrito": {
+        "action_or_pose": [
+            "wrapped in foil",
+            "cut in half revealing cross-section",
+            "unwrapped with one end open",
+            "smothered in green chile sauce",
+            "grilled with press marks"
+        ],
+        "invariant_features": [
+            "burrito-style closed ends on flour tortilla encasing scrambled eggs",
+            "cross-section of egg curds interspersed with bacon or breakfast sausage inside wrap",
+            "hash-brown or diced potato chunks sealed within the tortilla with eggs",
+            "melted cheddar threading through the egg-and-potato filling inside the burrito",
+            "foil-wrapped cylinder with one eating end unwrapped exposing egg filling"
+        ],
+        "cooccurrence": [
+            "disposable coffee cup",
+            "hot sauce packets",
+            "small salsa cup",
+            "napkins",
+            "paper-lined basket or takeout box"
+        ],
+        "background": [
+            "diner countertop",
+            "food truck service window",
+            "office desk in the morning",
+            "home kitchen island",
+            "cafeteria tray"
+        ]
+    },
+    "Bruschetta": {
+        "action_or_pose": [
+            "neatly lined on a platter",
+            "stacked slightly overlapping",
+            "drizzled with olive oil",
+            "garnished with basil leaves",
+            "single slice close-up on a plate"
+        ],
+        "invariant_features": [
+            "garlic-rubbed, char-marked rustic bread slice",
+            "mound of fresh diced tomato with basil",
+            "olive oil pooling into toasted crumb",
+            "open-faced topping on thick-cut country toast",
+            "coarse sea salt sprinkled over tomato-basil mix"
+        ],
+        "cooccurrence": [
+            "olive oil bottle",
+            "balsamic vinegar cruet",
+            "fresh basil sprigs",
+            "garlic cloves",
+            "ripe tomatoes bowl"
+        ],
+        "background": [
+            "wooden cutting board",
+            "Italian trattoria table",
+            "white ceramic plate",
+            "rustic kitchen countertop",
+            "antipasti platter spread"
+        ]
+    },
+    "Caesar salad": {
+        "action_or_pose": [
+            "tossed in dressing",
+            "arranged as whole romaine leaves",
+            "served in a wooden salad bowl",
+            "plated as a side portion",
+            "topped with croutons and Parmesan"
+        ],
+        "invariant_features": [
+            "romaine hearts coated in creamy anchovy-garlic dressing",
+            "shaved Parmesan ribbons over leaves",
+            "golden garlic croutons on top",
+            "visible anchovy flecks or occasional fillets",
+            "monochrome romaine-only base without other vegetables"
+        ],
+        "cooccurrence": [
+            "lemon wedge",
+            "wooden salad bowl",
+            "microplane Parmesan grater",
+            "black pepper mill",
+            "grilled chicken slices"
+        ],
+        "background": [
+            "restaurant tabletop",
+            "home kitchen counter",
+            "salad bar station",
+            "rustic bistro table",
+            "catering buffet spread"
+        ]
+    },
+    "Cannoli": {
+        "action_or_pose": [
+            "freshly filled with a piping bag",
+            "ends dipped in chopped pistachios",
+            "dusted with powdered sugar",
+            "arranged in a neat row on a tray",
+            "stacked in a bakery display case"
+        ],
+        "invariant_features": [
+            "crisp fried pastry tube with fluted edges",
+            "sweet ricotta cream visibly domed at both open ends",
+            "longitudinal overlap seam along the shell",
+            "bubbly, blistered shell surface from frying",
+            "endcaps crusted with mini chocolate chips or pistachios"
+        ],
+        "cooccurrence": [
+            "espresso cup",
+            "piping bag with ricotta cream",
+            "powdered sugar sifter",
+            "metal cannoli molds",
+            "pastry box with tissue paper"
+        ],
+        "background": [
+            "bakery display case",
+            "Italian pastry shop counter",
+            "cafe table with dessert plate",
+            "home kitchen prep counter",
+            "wedding or party dessert table"
+        ]
+    },
+    "Caprese salad": {
+        "action_or_pose": [
+            "layered in alternating slices",
+            "fanned in a circle on a plate",
+            "stacked into a vertical tower",
+            "skewered as bite-size pieces",
+            "drizzled with olive oil or balsamic glaze"
+        ],
+        "invariant_features": [
+            "raw tomato–mozzarella–basil triad in slice form",
+            "alternating red tomato and white fresh mozzarella discs",
+            "whole basil leaves nested between slices",
+            "extra-virgin olive oil sheen on each layer",
+            "arranged to evoke Italian flag colors"
+        ],
+        "cooccurrence": [
+            "crusty bread or crostini",
+            "olive oil bottle",
+            "balsamic glaze",
+            "sea salt flakes",
+            "pepper mill"
+        ],
+        "background": [
+            "white ceramic plate on a wooden table",
+            "rustic wooden cutting board",
+            "white marble countertop",
+            "Italian trattoria table setting",
+            "outdoor picnic table"
+        ]
+    },
+    "Carrot cake": {
+        "action_or_pose": [
+            "whole frosted round on cake stand",
+            "single triangular slice on plate",
+            "cross-section showing carrot-flecked crumb",
+            "partially sliced with a wedge missing",
+            "two-layer cake with visible frosting seam"
+        ],
+        "invariant_features": [
+            "visible grated carrot shreds in crumb",
+            "cream cheese frosting with carrot-shaped toppers",
+            "orange-brown spiced crumb tinted by carrot",
+            "dense moist crumb with carrot strands at cut edge",
+            "piped cream cheese rosettes capped with mini carrots"
+        ],
+        "cooccurrence": [
+            "cake stand",
+            "dessert fork",
+            "cake server",
+            "coffee cup",
+            "paper napkin"
+        ],
+        "background": [
+            "bakery display case",
+            "home kitchen countertop",
+            "cafe table",
+            "party dessert table",
+            "restaurant dessert plate"
+        ]
+    },
+    "Ceviche": {
+        "action_or_pose": [
+            "served chilled in a shallow bowl",
+            "marinating in lime juice",
+            "plated with sweet potato and choclo",
+            "garnished with red onion and cilantro",
+            "presented in a cocktail glass"
+        ],
+        "invariant_features": [
+            "leche de tigre citrus marinade",
+            "acid-opaque raw fish cubes",
+            "aji limo or rocoto chili rings",
+            "thin red onion plumes on top",
+            "Peruvian sides: camote and choclo"
+        ],
+        "cooccurrence": [
+            "lime wedges",
+            "cilantro sprigs",
+            "sweet potato slices",
+            "choclo corn kernels",
+            "aji peppers"
+        ],
+        "background": [
+            "cevichería countertop",
+            "seafood restaurant table",
+            "beachside stall",
+            "home kitchen counter",
+            "fish market stand with limes"
+        ]
+    },
+    "Cheesecake": {
+        "action_or_pose": [
+            "whole round on cake stand",
+            "single slice plated",
+            "partially sliced with one wedge removed",
+            "topped with fruit compote",
+            "chilling in a springform pan"
+        ],
+        "invariant_features": [
+            "cream cheese–based tangy custard filling",
+            "tall, straight sides from springform mold",
+            "detachable metal base disc beneath crust",
+            "pressed crumb crust only at bottom with sharp 90° seam",
+            "slightly golden rim halo on top surface"
+        ],
+        "cooccurrence": [
+            "strawberry topping",
+            "blueberry compote",
+            "whipped cream",
+            "dessert fork",
+            "coffee cup"
+        ],
+        "background": [
+            "bakery display case",
+            "restaurant table setting",
+            "home kitchen countertop",
+            "cafe pastry counter",
+            "refrigerator shelf"
+        ]
+    },
+    "Cheese plate": {
+        "action_or_pose": [
+            "neatly arranged wedges",
+            "slices fanned in an arc",
+            "stacked semi-hard slices",
+            "grouped by cheese type",
+            "labeled with toothpick flags"
+        ],
+        "invariant_features": [
+            "assortment of cheeses only on a single serving board",
+            "triangular wedges showing natural rinds",
+            "bloomy-rind brie/camembert wedge with creamy paste",
+            "blue-veined piece with mold marbling",
+            "Swiss-style slice with round eyes"
+        ],
+        "cooccurrence": [
+            "crackers",
+            "baguette slices",
+            "grapes",
+            "honeycomb",
+            "fig jam"
+        ],
+        "background": [
+            "wine bar countertop",
+            "rustic wooden table",
+            "picnic blanket",
+            "tasting room counter",
+            "restaurant appetizer spread"
+        ]
+    },
+    "Chicken curry": {
+        "action_or_pose": [
+            "served in a deep bowl",
+            "simmering in a pot",
+            "ladled over rice",
+            "garnished with cilantro on top",
+            "packed in a takeout container"
+        ],
+        "invariant_features": [
+            "white-fibred chicken chunks",
+            "turmeric-orange curry coating chicken",
+            "bone-in chicken drumettes in sauce",
+            "shiny oil layer from chicken fat on gravy",
+            "visible chicken cartilage or marrow tips"
+        ],
+        "cooccurrence": [
+            "steamed basmati rice",
+            "naan bread",
+            "raita yogurt",
+            "stainless-steel serving spoon",
+            "mango pickle"
+        ],
+        "background": [
+            "restaurant dining table",
+            "home kitchen stovetop",
+            "buffet chafing dish line",
+            "wooden table with thali plate",
+            "takeout counter surface"
+        ]
+    },
+    "Chicken quesadilla": {
+        "action_or_pose": [
+            "folded semicircle on griddle",
+            "cut into triangular wedges",
+            "stacked wedges on plate",
+            "lying flat with grill marks",
+            "cheese stretching between separated wedges"
+        ],
+        "invariant_features": [
+            "folded flour tortilla half-moon with chicken–cheese filling",
+            "triangular wedges exposing shredded chicken strands",
+            "golden browned tortilla with chicken juices at cut edges",
+            "melted cheese binding diced chicken to tortilla",
+            "cheese–chicken stretch when wedges separated"
+        ],
+        "cooccurrence": [
+            "salsa roja",
+            "guacamole",
+            "sour cream dollop",
+            "pico de gallo",
+            "lime wedges"
+        ],
+        "background": [
+            "taqueria table",
+            "casual dining plate",
+            "home kitchen countertop",
+            "wooden cutting board",
+            "takeout clamshell container"
+        ]
+    },
+    "Chicken wings": {
+        "action_or_pose": [
+            "arranged in a ring on a plate",
+            "piled in a paper-lined basket",
+            "tossed to coat evenly in sauce",
+            "laid out on a baking sheet",
+            "stacked around a ramekin of dip"
+        ],
+        "invariant_features": [
+            "assortment of drumettes and flats in one serving",
+            "double-boned flats with parallel radius and ulna",
+            "single-boned drumettes shaped like mini drumsticks",
+            "rounded cartilage knob at drumette joint",
+            "tapered wing tips or trimmed nub ends"
+        ],
+        "cooccurrence": [
+            "celery sticks",
+            "carrot sticks",
+            "ranch dressing cup",
+            "blue cheese dressing cup",
+            "wet wipes"
+        ],
+        "background": [
+            "sports bar tabletop",
+            "home kitchen counter",
+            "backyard picnic table",
+            "stadium concourse",
+            "casual restaurant booth"
+        ]
+    },
+    "Chocolate cake": {
+        "action_or_pose": [
+            "whole uncut on stand",
+            "sliced into wedges",
+            "single slice plated",
+            "layered cross-section exposed",
+            "frosted with ganache drip"
+        ],
+        "invariant_features": [
+            "dark-brown cocoa sponge crumb",
+            "glossy chocolate ganache coating",
+            "chocolate drip rim down the sides",
+            "chocolate crumb-coated sides",
+            "chocolate curls garnish on top"
+        ],
+        "cooccurrence": [
+            "cake stand",
+            "dessert plate",
+            "fork",
+            "cake server",
+            "birthday candles"
+        ],
+        "background": [
+            "bakery display counter",
+            "home kitchen countertop",
+            "birthday party table",
+            "cafe tabletop",
+            "restaurant dessert plating"
+        ]
+    },
+    "Chocolate mousse": {
+        "action_or_pose": [
+            "piped into stemmed glass",
+            "dolloped in ceramic ramekin",
+            "quenelle on dessert plate",
+            "layered as parfait with cream",
+            "partially scooped with spoon"
+        ],
+        "invariant_features": [
+            "aerated chocolate foam with fine microbubbles visible on cut edge",
+            "spoonable soft peaks that retain star-tip ridges when piped",
+            "satin-sheen cocoa-brown surface without a baked crust",
+            "chilled, non-frozen chocolate emulsion that collapses slightly under spoon",
+            "quenelle-able texture forming smooth oval without melting"
+        ],
+        "cooccurrence": [
+            "whipped cream dollop",
+            "chocolate shavings",
+            "fresh raspberries",
+            "mint sprig",
+            "cocoa powder dusting"
+        ],
+        "background": [
+            "white tablecloth in fine-dining setting",
+            "rustic wooden table",
+            "patisserie display case",
+            "home kitchen countertop",
+            "restaurant dessert plate presentation"
+        ]
+    },
+    "Churros": {
+        "action_or_pose": [
+            "stacked in a paper cone",
+            "lying flat on a plate",
+            "standing upright in a cup",
+            "partially dipped in chocolate",
+            "broken to show airy interior"
+        ],
+        "invariant_features": [
+            "five-point star cross-section",
+            "pronounced longitudinal ridges",
+            "tapered piped ends",
+            "fried choux-dough stick",
+            "cinnamon-sugar crusted surface"
+        ],
+        "cooccurrence": [
+            "thick hot chocolate dip",
+            "paper cone or wax paper bag",
+            "dulce de leche sauce",
+            "cinnamon-sugar shaker",
+            "serving plate with napkins"
+        ],
+        "background": [
+            "churrería counter",
+            "street market stall",
+            "theme park snack stand",
+            "festival food truck area",
+            "home kitchen frying station"
+        ]
+    },
+    "Clam chowder": {
+        "action_or_pose": [
+            "steaming in a ceramic bowl",
+            "served in a sourdough bread bowl",
+            "topped with oyster crackers",
+            "garnished with chopped parsley",
+            "partially eaten with a spoon inserted"
+        ],
+        "invariant_features": [
+            "chopped quahog clam pieces",
+            "clam-juice chowder broth",
+            "diced potatoes in clam chowder",
+            "creamy dairy clam chowder (New England style)",
+            "tomato-based clam chowder (Manhattan style)"
+        ],
+        "cooccurrence": [
+            "oyster crackers",
+            "spoon",
+            "saltine crackers",
+            "sourdough bread bowl",
+            "parsley garnish"
+        ],
+        "background": [
+            "seafood restaurant table",
+            "New England clam shack",
+            "home kitchen countertop",
+            "soup bar at cafeteria",
+            "coastal diner booth"
+        ]
+    },
+    "Club sandwich": {
+        "action_or_pose": [
+            "diagonally cut into triangular halves",
+            "quartered and stacked with cross-sections facing",
+            "skewered upright with frilled toothpicks",
+            "halves fanned out on plate",
+            "wrapped in deli paper with one end open"
+        ],
+        "invariant_features": [
+            "triple-decker toasted white bread with central slice",
+            "turkey-and-bacon combo with lettuce, tomato, mayo",
+            "diagonally quartered triangles",
+            "frilled toothpicks securing each piece",
+            "alternating toast–mayo–lettuce–tomato–turkey–bacon bands"
+        ],
+        "cooccurrence": [
+            "french fries",
+            "potato chips",
+            "dill pickle spear",
+            "coleslaw cup",
+            "iced tea glass"
+        ],
+        "background": [
+            "diner tabletop",
+            "deli counter display",
+            "paper-lined basket on wooden table",
+            "cafeteria tray",
+            "room-service plate on hotel linen"
+        ]
+    },
+    "Crab cakes": {
+        "action_or_pose": [
+            "single patty, seared side up",
+            "two patties stacked",
+            "halved, interior exposed",
+            "in a brioche bun as a sandwich",
+            "resting on a bed of mixed greens"
+        ],
+        "invariant_features": [
+            "puck-shaped patty of lump crab meat",
+            "visible jumbo lump crab flakes in cross-section",
+            "irregular edges with crab strands protruding",
+            "Old Bay seasoning specks within crab mixture",
+            "binder-light mix where crab chunks outnumber filler"
+        ],
+        "cooccurrence": [
+            "lemon wedge",
+            "remoulade sauce",
+            "coleslaw",
+            "brioche bun",
+            "parsley garnish"
+        ],
+        "background": [
+            "white ceramic plate at seafood restaurant",
+            "paper-lined metal basket",
+            "wooden table at coastal crab house",
+            "buffet platter at catered event",
+            "cast-iron skillet on stovetop"
+        ]
+    },
+    "Creme brulee": {
+        "action_or_pose": [
+            "freshly torched with glossy top",
+            "fully set and chilled in ramekin",
+            "top intact and uncracked",
+            "partially cracked surface revealing custard",
+            "spoonful removed showing custard layer"
+        ],
+        "invariant_features": [
+            "brittle, glassy caramelized sugar lid",
+            "shallow, wide crème brûlée ramekin with low straight sides",
+            "silky, pale-yellow baked custard beneath crust",
+            "torch-mottled amber to mahogany spots on top",
+            "distinct two-layer contrast that cracks into sharp sugar shards"
+        ],
+        "cooccurrence": [
+            "dessert spoon",
+            "culinary torch",
+            "fresh raspberries",
+            "mint sprig",
+            "vanilla bean pod"
+        ],
+        "background": [
+            "white tablecloth restaurant setting",
+            "marble countertop close-up",
+            "rustic wooden bistro table",
+            "professional pastry kitchen station",
+            "cafe dessert plate with napkin"
+        ]
+    },
+    "Croque madame": {
+        "action_or_pose": [
+            "plated whole with centered egg",
+            "cut diagonally, halves separated",
+            "yolk broken, oozing down sides",
+            "unsliced on wooden board",
+            "half-eaten with visible bite"
+        ],
+        "invariant_features": [
+            "fried egg atop gratinéed ham-and-béchamel sandwich",
+            "square pain de mie, closed two-slice build",
+            "jambon de Paris layer beneath melted Gruyère",
+            "bubbled béchamel-and-cheese crust on top slice",
+            "stacked strata: bread–cheese/béchamel–ham–bread, egg on roof"
+        ],
+        "cooccurrence": [
+            "side green salad with vinaigrette",
+            "pommes frites",
+            "Dijon mustard",
+            "cornichons",
+            "café au lait"
+        ],
+        "background": [
+            "French bistro tabletop",
+            "brunch café setting",
+            "white tablecloth service",
+            "home kitchen table",
+            "sidewalk café patio"
+        ]
+    },
+    "Cup cakes": {
+        "action_or_pose": [
+            "frosted with swirl",
+            "partially unwrapped liner",
+            "arranged in a box grid",
+            "stacked on a tiered stand",
+            "topped with a candle"
+        ],
+        "invariant_features": [
+            "fluted paper cupcake liner encasing the base",
+            "piped buttercream swirl crown with star-tip ridges",
+            "frosting cap slightly overhanging the liner rim",
+            "clear frosting-to-cake boundary ring at the wrapper edge",
+            "single-serve cylindrical sponge base sized to a muffin cup"
+        ],
+        "cooccurrence": [
+            "piping bag with star tip",
+            "rainbow sprinkles jar",
+            "tiered cupcake stand",
+            "cupcake carry box with inserts",
+            "birthday candles"
+        ],
+        "background": [
+            "bakery display case",
+            "home kitchen countertop",
+            "party dessert table",
+            "cafe pastry counter",
+            "cooling rack on a baking tray"
+        ]
+    },
+    "Deviled eggs": {
+        "action_or_pose": [
+            "halved with filling facing up",
+            "arranged in concentric ring on platter",
+            "nested in egg-well serving tray",
+            "dusted with paprika",
+            "covered with plastic wrap for transport"
+        ],
+        "invariant_features": [
+            "halved hard-boiled egg white cups",
+            "piped creamy yolk filling with star-tip ridges",
+            "paprika-speckled yellow mound",
+            "bright white rim surrounding central filling",
+            "lengthwise oval cut exposing smooth albumen"
+        ],
+        "cooccurrence": [
+            "deviled-egg serving tray",
+            "piping bag with star tip",
+            "paprika shaker",
+            "mayonnaise jar",
+            "mustard jar"
+        ],
+        "background": [
+            "potluck buffet table",
+            "picnic table",
+            "holiday appetizer spread",
+            "kitchen countertop during prep",
+            "brunch table setting"
+        ]
+    },
+    "Donuts": {
+        "action_or_pose": [
+            "top-down view of single ring",
+            "stacked in a tower",
+            "arranged in a dozen box",
+            "half-eaten with bite mark",
+            "cut in half revealing filling"
+        ],
+        "invariant_features": [
+            "fried sweet-dough torus",
+            "side fry-line halo",
+            "sugar-glaze crackle pattern",
+            "icing with rainbow sprinkles on ring",
+            "side injection dimple for jelly filling"
+        ],
+        "cooccurrence": [
+            "coffee cup",
+            "bakery box with wax paper",
+            "display case tray",
+            "paper napkins",
+            "serving tongs"
+        ],
+        "background": [
+            "bakery counter",
+            "cafe table",
+            "office break room",
+            "home kitchen countertop",
+            "donut shop display"
+        ]
+    },
+    "Dumplings": {
+        "action_or_pose": [
+            "nestled in bamboo steamer",
+            "pan-fried with crispy lacy skirt",
+            "boiled and glistening in broth",
+            "arranged in a crescent row on plate",
+            "held by chopsticks mid-air"
+        ],
+        "invariant_features": [
+            "pleated crimp seal",
+            "thin dough wrapper enclosing minced filling",
+            "topknot pleats at crown",
+            "translucent wrapper revealing filling silhouette",
+            "crescent potsticker profile with flat browned base"
+        ],
+        "cooccurrence": [
+            "bamboo steamer basket",
+            "chopsticks",
+            "small dipping sauce dish",
+            "black vinegar",
+            "chili oil"
+        ],
+        "background": [
+            "dim sum restaurant table",
+            "home kitchen countertop dusted with flour",
+            "street food stall counter",
+            "casual noodle house table",
+            "night market with steam rising"
+        ]
+    },
+    "Edamame": {
+        "action_or_pose": [
+            "whole pods piled in a small bowl",
+            "pods split open to reveal beans",
+            "shelled beans scattered on a plate",
+            "pods stacked with coarse salt on top",
+            "frozen beans sealed in a clear bag"
+        ],
+        "invariant_features": [
+            "hairy green soybean pods",
+            "two or three soybeans per short pod",
+            "oval bright green soybean seeds with pale hilum",
+            "stubby curved soybean pods with beadlike bulges",
+            "non-edible fibrous soybean pod walls"
+        ],
+        "cooccurrence": [
+            "sea salt flakes",
+            "small ceramic bowl",
+            "soy sauce dipping dish",
+            "chopsticks",
+            "sushi platter"
+        ],
+        "background": [
+            "Japanese restaurant tabletop",
+            "sushi bar counter",
+            "home kitchen countertop",
+            "bento lunch tray",
+            "izakaya setting with wooden table"
+        ]
+    },
+    "Eggs benedict": {
+        "action_or_pose": [
+            "stacked on split English muffin halves",
+            "hollandaise cascading down the sides",
+            "cut open to reveal runny yolk",
+            "garnished on top with chopped chives",
+            "plated as two symmetrical stacks"
+        ],
+        "invariant_features": [
+            "two separate stacks on toasted English muffin halves",
+            "round Canadian bacon medallion on each muffin base",
+            "poached egg placed directly atop the Canadian bacon",
+            "lemony hollandaise poured over the poached eggs and bacon",
+            "open-faced muffin-Canadian bacon-poached egg-hollandaise assembly"
+        ],
+        "cooccurrence": [
+            "breakfast potatoes",
+            "coffee cup",
+            "mimosa flute",
+            "side salad greens",
+            "fork and knife"
+        ],
+        "background": [
+            "white ceramic plate on wooden table",
+            "brunch restaurant table setting",
+            "diner countertop with stainless accents",
+            "kitchen pass window",
+            "buffet chafing dish at brunch service"
+        ]
+    },
+    "Escargots": {
+        "action_or_pose": [
+            "nestled in spiral shells",
+            "arranged in six- or twelve-well plate",
+            "broiled with butter bubbling",
+            "de-shelled and served in a ramekin",
+            "topped with parsley garnish"
+        ],
+        "invariant_features": [
+            "spiral snail shells used as serving vessels",
+            "porcelain escargot plate with six or twelve round wells",
+            "slender two-prong snail fork for extraction",
+            "spring-loaded snail tongs for gripping hot shells",
+            "garlic–parsley beurre d’escargots bubbling from shell openings"
+        ],
+        "cooccurrence": [
+            "baguette slices",
+            "white wine glass",
+            "parsley sprigs",
+            "snail tongs",
+            "snail fork"
+        ],
+        "background": [
+            "white tablecloth restaurant setting",
+            "rustic wooden bistro table",
+            "Parisian sidewalk café table",
+            "stainless-steel kitchen pass",
+            "oven broiler rack"
+        ]
+    },
+    "Falafel": {
+        "action_or_pose": [
+            "piled in a bowl",
+            "tucked inside a pita pocket",
+            "arranged on a platter",
+            "resting on salad greens",
+            "split open to show green interior"
+        ],
+        "invariant_features": [
+            "deep-fried chickpea/fava-bean herb mash",
+            "vivid green, parsley-cilantro–flecked interior",
+            "unbreaded, pebbly crust formed from the mixture",
+            "flattened patty variant with small central dimple",
+            "3–5 cm balls/discs with coarse legume crumb"
+        ],
+        "cooccurrence": [
+            "pita bread",
+            "tahini sauce",
+            "pickled turnips",
+            "Israeli salad (tomato-cucumber)",
+            "hummus"
+        ],
+        "background": [
+            "street food stall counter",
+            "Middle Eastern restaurant table",
+            "food truck service window",
+            "home kitchen countertop",
+            "takeout tray on picnic table"
+        ]
+    },
+    "Filet mignon": {
+        "action_or_pose": [
+            "seared with crosshatch grill marks",
+            "sliced to reveal rare center",
+            "topped with melting compound butter",
+            "bacon-wrapped and tied with twine",
+            "resting after sear with juices pooling"
+        ],
+        "invariant_features": [
+            "center-cut beef tenderloin medallion (psoas major)",
+            "barrel-shaped, uniformly cylindrical steak",
+            "small round diameter (about 5–7 cm) with 3–5 cm height",
+            "boneless, fat-capless, smooth-trimmed exterior (silverskin and chain removed)",
+            "ultra-fine, tight muscle grain with near-zero intramuscular marbling"
+        ],
+        "cooccurrence": [
+            "compound herb butter",
+            "peppercorn sauce (au poivre)",
+            "mashed potatoes",
+            "grilled asparagus",
+            "steak knife"
+        ],
+        "background": [
+            "white tablecloth restaurant plate",
+            "cast-iron skillet surface",
+            "backyard grill grates",
+            "wooden cutting board",
+            "professional kitchen pass"
+        ]
+    },
+    "Fish and chips": {
+        "action_or_pose": [
+            "served in paper wrap",
+            "plated with chips alongside",
+            "in takeaway box, lid open",
+            "fish laid across chips",
+            "drizzled with malt vinegar"
+        ],
+        "invariant_features": [
+            "boneless cod or haddock fillet in crisp batter",
+            "thick-cut British chips",
+            "malt vinegar sprinkle on chips",
+            "mushy peas scoop",
+            "newspaper-style greaseproof wrap"
+        ],
+        "cooccurrence": [
+            "lemon wedge",
+            "tartar sauce ramekin",
+            "malt vinegar bottle",
+            "salt shaker",
+            "curry sauce tub"
+        ],
+        "background": [
+            "British chip shop counter",
+            "seaside pier bench",
+            "pub wooden table",
+            "street takeaway window",
+            "home kitchen table"
+        ]
+    },
+    "Foie gras": {
+        "action_or_pose": [
+            "seared medallion with caramelized crust",
+            "torchon cylinder slice standing on edge",
+            "terrine slice lying flat on plate",
+            "whole lobe resting on butcher paper",
+            "mousse quenelle atop toast"
+        ],
+        "invariant_features": [
+            "bilobed enlarged duck/goose liver shape",
+            "pale ivory-beige interior with satiny sheen",
+            "torchon cylinder with cheesecloth imprint",
+            "fine homogeneous terrine matrix without muscle grain",
+            "shallow fissure lines from deveining across lobe"
+        ],
+        "cooccurrence": [
+            "toasted brioche",
+            "fig chutney",
+            "Sauternes wine glass",
+            "sea salt flakes",
+            "balsamic reduction"
+        ],
+        "background": [
+            "white fine-dining plate",
+            "French bistro table setting",
+            "charcuterie board",
+            "tasting menu presentation",
+            "gourmet market deli counter"
+        ]
+    },
+    "French fries": {
+        "action_or_pose": [
+            "piled on a plate",
+            "held upright in a paper carton",
+            "served in a paper cone",
+            "scattered on a paper-lined tray",
+            "partially dipped in ketchup"
+        ],
+        "invariant_features": [
+            "straight-cut potato batons (batonnet)",
+            "rectangular four-face cross-section",
+            "flat cut ends exposing pale potato core",
+            "golden Maillard-blistered surface without breading",
+            "clustered bundle of many uniform sticks"
+        ],
+        "cooccurrence": [
+            "ketchup cup",
+            "burger",
+            "salt packet",
+            "soda cup",
+            "paper napkins"
+        ],
+        "background": [
+            "fast-food tray",
+            "diner tabletop",
+            "takeout bag interior",
+            "pub bar table",
+            "food truck counter"
+        ]
+    },
+    "French onion soup": {
+        "action_or_pose": [
+            "piping hot with visible steam",
+            "cheese cap freshly broiled and blistered",
+            "baguette slice visible beneath cheese",
+            "cheese pull from a lifted spoon",
+            "served in a crock on a small plate"
+        ],
+        "invariant_features": [
+            "caramelized onion-rich deep-brown broth",
+            "floating baguette crouton under cheese",
+            "Gruyère gratin crust sealing the top",
+            "cheese melted and draped over crock rim",
+            "brown handled soup crock presentation"
+        ],
+        "cooccurrence": [
+            "soup spoon",
+            "small plate or saucer under the crock",
+            "linen napkin",
+            "bread basket",
+            "wine glass"
+        ],
+        "background": [
+            "French bistro tabletop",
+            "cozy restaurant interior",
+            "home dining table",
+            "kitchen counter near stovetop",
+            "marble cafe table"
+        ]
+    },
+    "French toast": {
+        "action_or_pose": [
+            "stacked slices",
+            "single slice on plate",
+            "cut into triangles",
+            "drizzled with syrup",
+            "dusted with powdered sugar"
+        ],
+        "invariant_features": [
+            "egg-custard–soaked bread slice",
+            "intact crust ring around edges",
+            "custard-set porous crumb interior",
+            "mottled pan-fried golden surface",
+            "rectangular loaf-slice profile"
+        ],
+        "cooccurrence": [
+            "maple syrup",
+            "powdered sugar",
+            "butter pat",
+            "fresh berries",
+            "bacon strips"
+        ],
+        "background": [
+            "breakfast plate on dining table",
+            "brunch cafe tabletop",
+            "home kitchen counter",
+            "restaurant buffet station",
+            "wooden serving board"
+        ]
+    },
+    "Fried calamari": {
+        "action_or_pose": [
+            "piled in a paper-lined basket",
+            "arranged in a ring stack on a plate",
+            "scattered around a dipping sauce ramekin",
+            "garnished with parsley and lemon wedges",
+            "half-eaten with a bite exposing squid interior"
+        ],
+        "invariant_features": [
+            "ring-shaped cross-sections of squid mantle",
+            "small tentacle clusters with visible suction cups",
+            "smooth, opaque white squid flesh inside rings",
+            "irregular O- and C-shaped squid pieces",
+            "batter-coated squid with no onion layers or bones"
+        ],
+        "cooccurrence": [
+            "lemon wedges",
+            "marinara sauce ramekin",
+            "garlic aioli",
+            "parsley sprigs",
+            "paper napkins"
+        ],
+        "background": [
+            "white ceramic plate on wooden table",
+            "paper-lined metal basket on pub tabletop",
+            "seafood restaurant setting",
+            "tapas bar counter",
+            "outdoor patio dining table"
+        ]
+    },
+    "Fried rice": {
+        "action_or_pose": [
+            "mounded dome on plate",
+            "heaped in wok",
+            "packed in takeout box",
+            "served in bowl with spoon",
+            "topped with fried egg"
+        ],
+        "invariant_features": [
+            "wok-hei seared rice grains",
+            "soy-sauce browned color",
+            "scrambled egg curds mixed-in",
+            "diced peas and carrots throughout",
+            "scallion rings garnish"
+        ],
+        "cooccurrence": [
+            "wok",
+            "wok spatula",
+            "soy sauce bottle",
+            "chopsticks",
+            "spring rolls"
+        ],
+        "background": [
+            "Chinese restaurant dining table",
+            "takeout counter with menu boards",
+            "home kitchen near stovetop",
+            "buffet line with steam trays",
+            "street food stall counter"
+        ]
+    },
+    "Frozen yogurt": {
+        "action_or_pose": [
+            "freshly swirled in a cup with a peak",
+            "under soft-serve nozzle mid-dispense",
+            "two-flavor twist stack",
+            "partially melted along the rim",
+            "heaped with assorted toppings"
+        ],
+        "invariant_features": [
+            "fermented yogurt dairy base",
+            "live probiotic cultures (Lactobacillus, S. thermophilus)",
+            "distinct tangy lactic acidity",
+            "acetaldehyde yogurt aroma note",
+            "tart \"original\" flavor profile"
+        ],
+        "cooccurrence": [
+            "paper cup",
+            "plastic spoon",
+            "fresh fruit toppings",
+            "mochi cubes",
+            "rainbow sprinkles"
+        ],
+        "background": [
+            "self-serve frozen yogurt shop interior",
+            "toppings bar counter",
+            "mall food court",
+            "dessert cafe counter",
+            "home kitchen countertop"
+        ]
+    },
+    "Garlic bread": {
+        "action_or_pose": [
+            "halved lengthwise, cut-face up",
+            "partially sliced loaf, butter in slits",
+            "sliced rounds fanned on plate",
+            "wrapped in foil, opened for serving",
+            "on baking tray, freshly broiled"
+        ],
+        "invariant_features": [
+            "halved baguette smeared with garlic-parsley butter",
+            "hinged slices stuffed with garlic butter",
+            "butter pooling in crosswise score lines",
+            "toasted cut-face glistening with garlic oil",
+            "crumb surface dotted with parsley and garlic mince"
+        ],
+        "cooccurrence": [
+            "marinara dipping sauce",
+            "spaghetti plate",
+            "lasagna",
+            "parmesan cheese shaker",
+            "salad bowl"
+        ],
+        "background": [
+            "Italian restaurant table",
+            "home kitchen counter",
+            "baking sheet on oven rack",
+            "checkered tablecloth pizzeria setting",
+            "buffet warming tray"
+        ]
+    },
+    "Gnocchi": {
+        "action_or_pose": [
+            "resting raw on a floured board",
+            "boiling in salted water",
+            "draining in a colander",
+            "pan-seared in butter",
+            "plated in a bowl with sauce"
+        ],
+        "invariant_features": [
+            "potato-based dumpling dough from riced potatoes",
+            "small oval pillow pieces (about 2–3 cm)",
+            "fork-ridged or thumb-dimpled surface to hold sauce",
+            "cut ends from slicing hand-rolled ropes",
+            "gnocchi-board groove pattern on the surface"
+        ],
+        "cooccurrence": [
+            "sage brown butter",
+            "grated Parmigiano-Reggiano",
+            "tomato marinara sauce",
+            "fresh sage leaves",
+            "stainless-steel pot of salted water"
+        ],
+        "background": [
+            "floured wooden countertop in a home kitchen",
+            "Italian trattoria plate setting",
+            "stovetop with a boiling pot",
+            "grocery shelf with vacuum-packed gnocchi",
+            "marble prep surface with a rolling board"
+        ]
+    },
+    "Greek salad": {
+        "action_or_pose": [
+            "arranged with a feta slab on top",
+            "drizzled with extra-virgin olive oil",
+            "served in a shallow white bowl",
+            "tossed just before serving",
+            "garnished with dried oregano"
+        ],
+        "invariant_features": [
+            "feta cheese slab on top",
+            "kalamata olives (often unpitted)",
+            "no lettuce (village-style)",
+            "large tomato wedges and cucumber chunks",
+            "dried oregano sprinkled over feta"
+        ],
+        "cooccurrence": [
+            "pita bread",
+            "tzatziki sauce",
+            "grilled souvlaki skewers",
+            "olive oil cruet",
+            "red wine vinegar bottle"
+        ],
+        "background": [
+            "Greek taverna tabletop with checkered cloth",
+            "Mediterranean seaside restaurant",
+            "home kitchen dining table",
+            "al fresco patio dining",
+            "restaurant buffet counter"
+        ]
+    },
+    "Grilled cheese sandwich": {
+        "action_or_pose": [
+            "lying flat on plate",
+            "diagonally sliced into halves",
+            "being pulled apart with cheese stretch",
+            "stacked halves offset",
+            "on griddle being pressed"
+        ],
+        "invariant_features": [
+            "cheese-only filling between two sandwich-bread slices",
+            "butter-glossed pan-toasted crust",
+            "flat pressed profile with sealed edges",
+            "melted cheese oozing at seam",
+            "distinct cheese-pull strands when separated"
+        ],
+        "cooccurrence": [
+            "tomato soup",
+            "pickle spear",
+            "cast-iron skillet",
+            "spatula",
+            "butter dish"
+        ],
+        "background": [
+            "home kitchen countertop",
+            "diner griddle",
+            "cafe table",
+            "school cafeteria tray",
+            "wooden cutting board"
+        ]
+    },
+    "Grilled salmon": {
+        "action_or_pose": [
+            "skin-side down on grill grates",
+            "flesh-side down with sear",
+            "plated fillet with garnish",
+            "flaked open with fork",
+            "cut into center-cut portions"
+        ],
+        "invariant_features": [
+            "orange-pink flesh with pale fat marbling",
+            "crosshatched dark grill marks on flesh side",
+            "white albumin beads on cooked surface",
+            "large moist flakes along muscle striations",
+            "silver-gray skin edge often crisped"
+        ],
+        "cooccurrence": [
+            "lemon wedges",
+            "dill sprigs",
+            "asparagus spears",
+            "steamed rice",
+            "capers"
+        ],
+        "background": [
+            "white ceramic plate",
+            "charcoal grill grates",
+            "wooden cutting board",
+            "restaurant tabletop",
+            "outdoor patio table"
+        ]
+    },
+    "Guacamole": {
+        "action_or_pose": [
+            "served in a small bowl",
+            "in a stone molcajete",
+            "dolloped atop tacos",
+            "spread on toast",
+            "with a tortilla chip partially dipped"
+        ],
+        "invariant_features": [
+            "mashed Hass avocado base",
+            "creamy-chunky texture with visible avocado pieces",
+            "bright green surface that browns if uncovered",
+            "avocado pit left in bowl to slow browning",
+            "prepared or served in a basalt molcajete"
+        ],
+        "cooccurrence": [
+            "tortilla chips",
+            "lime wedges",
+            "cilantro sprigs",
+            "diced red onion",
+            "jalapeño slices"
+        ],
+        "background": [
+            "Mexican restaurant tabletop",
+            "party appetizer platter",
+            "home kitchen countertop",
+            "taqueria counter",
+            "picnic table"
+        ]
+    },
+    "Gyoza": {
+        "action_or_pose": [
+            "pan-seared side down on plate",
+            "arranged in a circular fan",
+            "lined in a row with edges touching",
+            "steamed in a bamboo steamer",
+            "half-bitten exposing filling"
+        ],
+        "invariant_features": [
+            "crescent half-moon shape with tight single-side pleats",
+            "flat, uniformly browned base from pan-frying",
+            "thin semi-translucent wheat wrapper on the steamed side",
+            "crispy lace skirt (hanetsuki) connecting multiple dumplings",
+            "elongated profile with crimped seam offset from center"
+        ],
+        "cooccurrence": [
+            "soy-vinegar dipping sauce",
+            "chili oil",
+            "chopsticks",
+            "ramen bowl",
+            "cast-iron skillet"
+        ],
+        "background": [
+            "izakaya tabletop",
+            "ramen shop counter",
+            "home kitchen plate setting",
+            "street food stall counter",
+            "bento-style lunch tray"
+        ]
+    },
+    "Hamburger": {
+        "action_or_pose": [
+            "stacked neatly",
+            "wrapped in paper",
+            "unwrapped on tray",
+            "cut in half (cross-section)",
+            "partially eaten (bite taken)"
+        ],
+        "invariant_features": [
+            "bare seared ground-beef patty (no cheese)",
+            "round split burger bun with domed crown and flat heel",
+            "dill pickle slices above the patty",
+            "ketchup and mustard directly on patty or bun",
+            "lettuce and tomato layered beneath the crown bun"
+        ],
+        "cooccurrence": [
+            "french fries",
+            "soda cup",
+            "ketchup packets",
+            "paper napkins",
+            "paper tray liner"
+        ],
+        "background": [
+            "fast-food counter",
+            "diner booth table",
+            "backyard picnic table",
+            "drive-thru car interior with tray",
+            "restaurant serving tray on tabletop"
+        ]
+    },
+    "Hot and sour soup": {
+        "action_or_pose": [
+            "steaming in a bowl",
+            "served in a white porcelain bowl",
+            "in a clear plastic takeout container",
+            "being ladled into a bowl",
+            "surface swirled with chili oil"
+        ],
+        "invariant_features": [
+            "dark-brown, glossy, cornstarch-thickened broth",
+            "pale egg ribbons threading through the soup",
+            "julienned tofu matchsticks (not cubes)",
+            "thin black wood ear mushroom strips",
+            "bamboo shoot slivers mixed in"
+        ],
+        "cooccurrence": [
+            "Chinese ceramic soup spoon",
+            "chopsticks",
+            "soy sauce bottle",
+            "black vinegar bottle",
+            "chili oil jar"
+        ],
+        "background": [
+            "Chinese restaurant table with red paper placemat",
+            "home kitchen countertop",
+            "buffet steam table station",
+            "wooden dining table in a takeout setting",
+            "lacquered restaurant table with teacup"
+        ]
+    },
+    "Hot dog": {
+        "action_or_pose": [
+            "resting in bun",
+            "lying on grill grates",
+            "sliced into rounds",
+            "spiral-cut on skewer",
+            "wrapped in foil or paper"
+        ],
+        "invariant_features": [
+            "smooth emulsified frankfurter texture",
+            "rounded bullet-shaped sausage tips",
+            "uniform pale pink interior cross-section",
+            "thin taut casing with snap",
+            "hinged long bun cradling a single frank"
+        ],
+        "cooccurrence": [
+            "mustard bottle",
+            "ketchup bottle",
+            "relish",
+            "diced onions",
+            "sauerkraut"
+        ],
+        "background": [
+            "ballpark concession stand",
+            "backyard barbecue",
+            "street food cart",
+            "picnic table",
+            "diner counter"
+        ]
+    },
+    "Huevos rancheros": {
+        "action_or_pose": [
+            "served on whole corn tortillas",
+            "ranchero salsa ladled over eggs",
+            "runny yolks exposed and pooling",
+            "refried beans spooned alongside",
+            "garnished with cilantro, queso fresco, and avocado"
+        ],
+        "invariant_features": [
+            "pair of sunny-side eggs set atop whole corn tortillas",
+            "ranchero tomato–chile salsa coating the eggs",
+            "runny yolks centered on tortilla rounds",
+            "refried bean smear beside the tortilla–egg stack",
+            "crumbled queso fresco with fresh cilantro over the sauced eggs"
+        ],
+        "cooccurrence": [
+            "avocado slices",
+            "lime wedges",
+            "hot sauce bottle",
+            "warm stack of corn tortillas",
+            "Mexican rice"
+        ],
+        "background": [
+            "colorful Talavera ceramic plate",
+            "rustic wooden breakfast table",
+            "serape-patterned tablecloth",
+            "taquería countertop setting",
+            "outdoor mercado stall table"
+        ]
+    },
+    "Hummus": {
+        "action_or_pose": [
+            "served in a shallow bowl with spoon-made swirls",
+            "spread as a layer inside pita",
+            "scooped onto a plate as a dollop",
+            "packaged in a plastic tub with lid off",
+            "smeared on a cracker or veggie stick"
+        ],
+        "invariant_features": [
+            "chickpea–tahini emulsified puree",
+            "concentric swirls with a central olive‑oil well",
+            "garnished with whole chickpeas and chopped parsley",
+            "ultra‑smooth texture from peeled chickpeas",
+            "lemon–garlic seasoned chickpea spread served cold"
+        ],
+        "cooccurrence": [
+            "pita wedges",
+            "olive oil cruet",
+            "carrot and cucumber sticks",
+            "falafel balls",
+            "lemon wedges"
+        ],
+        "background": [
+            "mezze platter setting",
+            "Middle Eastern restaurant table",
+            "home kitchen countertop",
+            "buffet spread",
+            "refrigerated deli case"
+        ]
+    },
+    "Ice cream": {
+        "action_or_pose": [
+            "single scoop on waffle cone",
+            "double scoops stacked",
+            "soft-serve spiral",
+            "sundae in bowl",
+            "melting with drip trails"
+        ],
+        "invariant_features": [
+            "scooped hemisphere with scalloped edges",
+            "frozen milkfat-sugar emulsion",
+            "creamy texture with microbubbles",
+            "rapidly melting glossy surface",
+            "cold frost sheen on surface"
+        ],
+        "cooccurrence": [
+            "waffle cone",
+            "spoon",
+            "sprinkles",
+            "chocolate syrup",
+            "cherry on top"
+        ],
+        "background": [
+            "ice cream parlor counter",
+            "glass-top freezer case",
+            "street vendor cart",
+            "beach boardwalk",
+            "picnic table in park"
+        ]
+    },
+    "Lasagna": {
+        "action_or_pose": [
+            "freshly baked in casserole dish",
+            "single slice plated",
+            "partially sliced in pan",
+            "slice being lifted with spatula",
+            "cooling on countertop"
+        ],
+        "invariant_features": [
+            "ruffled-edged lasagna noodles",
+            "visible strata of pasta, ragù, and cheese",
+            "tomato ragù between flat pasta sheets",
+            "browned mozzarella–parmesan top",
+            "ricotta pockets between layers"
+        ],
+        "cooccurrence": [
+            "rectangular baking dish",
+            "serving spatula",
+            "garlic bread",
+            "fresh basil leaves",
+            "red wine glass"
+        ],
+        "background": [
+            "Italian restaurant table",
+            "home kitchen counter",
+            "oven rack",
+            "buffet or potluck spread",
+            "trattoria dining table"
+        ]
+    },
+    "Lobster bisque": {
+        "action_or_pose": [
+            "served in a shallow white bowl",
+            "steaming hot with visible wisps",
+            "drizzled with cream in a spiral",
+            "garnished with lobster claw meat and chives",
+            "presented in a two-handled soup cup"
+        ],
+        "invariant_features": [
+            "lobster shell–infused stock base",
+            "orange-coral hue from lobster roe (coral)",
+            "lobster tomalley–enriched flavor",
+            "garnish of lobster claw and knuckle meat",
+            "cream and butter emulsified into lobster reduction"
+        ],
+        "cooccurrence": [
+            "crusty baguette slices",
+            "soup spoon",
+            "white wine glass",
+            "fresh chives",
+            "soup tureen"
+        ],
+        "background": [
+            "white tablecloth fine-dining setting",
+            "coastal seafood restaurant",
+            "hotel banquet service",
+            "holiday dinner table",
+            "cruise ship dining room"
+        ]
+    },
+    "Lobster roll sandwich": {
+        "action_or_pose": [
+            "served in a top-split New England roll",
+            "chilled mayo-dressed (Maine style)",
+            "warm buttered (Connecticut style)",
+            "cut in half on a plate",
+            "wrapped in a paper sleeve"
+        ],
+        "invariant_features": [
+            "lobster claw medallion pieces",
+            "chunky lobster knuckle meat",
+            "red-edged white lobster flesh",
+            "split-top roll stuffed with lobster chunks",
+            "drawn-butter gloss on meat"
+        ],
+        "cooccurrence": [
+            "lemon wedge",
+            "ramekin of melted butter",
+            "pickle spear",
+            "kettle-cooked potato chips",
+            "cup of coleslaw"
+        ],
+        "background": [
+            "seafood shack counter",
+            "paper-lined basket on a tray",
+            "dockside picnic table",
+            "casual restaurant tabletop",
+            "food truck service window"
+        ]
+    },
+    "Macaroni and cheese": {
+        "action_or_pose": [
+            "bubbling hot in a casserole dish",
+            "baked with a golden-brown crust",
+            "piled in a bowl",
+            "scooped serving with cheese pull",
+            "creamy stovetop in a saucepan"
+        ],
+        "invariant_features": [
+            "elbow macaroni in cheese sauce",
+            "cheddar-forward mornay-style sauce",
+            "neon-orange powdered cheese variant (boxed)",
+            "cheese pooled inside hollow elbows",
+            "golden breadcrumb-cheese crust on top (baked)"
+        ],
+        "cooccurrence": [
+            "fork",
+            "baking dish",
+            "saucepan",
+            "cheddar cheese block",
+            "milk"
+        ],
+        "background": [
+            "kitchen countertop",
+            "home dining table",
+            "school cafeteria tray",
+            "barbecue buffet table",
+            "casual diner setting"
+        ]
+    },
+    "Macarons": {
+        "action_or_pose": [
+            "stacked in a tower",
+            "arranged in a neat row",
+            "displayed in a partitioned gift box",
+            "split open to reveal filling",
+            "resting on a tiered dessert stand"
+        ],
+        "invariant_features": [
+            "ruffled \"feet\" ring encircling each shell base",
+            "glossy, smooth, slightly domed shell tops",
+            "almond–meringue shells sandwiching a thin filling layer",
+            "perfectly round, uniform discs from piped batter",
+            "color-matched twin shells with a narrow filling seam"
+        ],
+        "cooccurrence": [
+            "teacup and saucer",
+            "pastry box with clear window",
+            "piping bag with round tip",
+            "parchment-lined baking tray",
+            "doily-lined dessert plate"
+        ],
+        "background": [
+            "patisserie display case",
+            "marble cafe tabletop",
+            "home kitchen countertop",
+            "wedding dessert table",
+            "pastel paper food photography backdrop"
+        ]
+    },
+    "Miso soup": {
+        "action_or_pose": [
+            "steaming hot in bowl",
+            "clouded after stirring",
+            "miso settled at bottom",
+            "tofu and wakame floating on surface",
+            "covered with small bowl lid"
+        ],
+        "invariant_features": [
+            "cloudy fermented soybean paste broth",
+            "fine miso sediment swirling",
+            "umami dashi stock base",
+            "wakame seaweed flakes floating",
+            "small silken tofu cubes"
+        ],
+        "cooccurrence": [
+            "rice bowl",
+            "chopsticks",
+            "sushi platter",
+            "soy sauce dispenser",
+            "pickled vegetables (tsukemono)"
+        ],
+        "background": [
+            "Japanese restaurant table",
+            "wooden teishoku tray",
+            "sushi bar counter",
+            "home dining table",
+            "izakaya tabletop setting"
+        ]
+    },
+    "Mussels": {
+        "action_or_pose": [
+            "closed and stacked on ice",
+            "steamed open in a pot",
+            "piled in a bowl with broth",
+            "arranged on half-shell on a plate",
+            "de-bearded and draining in a colander"
+        ],
+        "invariant_features": [
+            "blue-black, wedge-shaped bivalve shells",
+            "fibrous byssal \"beard\" at hinge end",
+            "smooth purple-blue inner shell surface",
+            "elongated shell with straight dorsal hinge edge and pointed umbo",
+            "clusters still attached together by byssus threads"
+        ],
+        "cooccurrence": [
+            "white wine",
+            "garlic",
+            "parsley",
+            "lemon wedges",
+            "crusty bread"
+        ],
+        "background": [
+            "fishmonger ice display",
+            "stovetop with steaming pot",
+            "bistro table setting",
+            "coastal seafood shack counter",
+            "home kitchen sink area"
+        ]
+    },
+    "Nachos": {
+        "action_or_pose": [
+            "piled high on a round plate",
+            "spread in a single layer on a sheet pan",
+            "served in a paper concession tray",
+            "arranged on a large sharing platter",
+            "partially eaten with broken chips and exposed toppings"
+        ],
+        "invariant_features": [
+            "triangular corn tortilla chips base",
+            "melted cheese blanketing chips",
+            "jalapeño coin slices over cheese-covered chips",
+            "guacamole and sour cream dollops on the mound",
+            "open-layered toppings on discrete chips"
+        ],
+        "cooccurrence": [
+            "salsa bowl",
+            "guacamole ramekin",
+            "sour cream cup",
+            "hot sauce bottle",
+            "margarita glass"
+        ],
+        "background": [
+            "Mexican restaurant table",
+            "sports bar tabletop",
+            "stadium concession counter",
+            "home kitchen island",
+            "party buffet table"
+        ]
+    },
+    "Omelette": {
+        "action_or_pose": [
+            "half-moon folded on plate",
+            "open-faced in skillet",
+            "rolled cylindrical",
+            "tri-folded rectangle",
+            "folded over fillings"
+        ],
+        "invariant_features": [
+            "folded egg sheet (not tortilla or crepe)",
+            "smooth, slightly glossy egg exterior",
+            "hinge seam along curved fold",
+            "fillings enclosed by set egg",
+            "tender yellow curd matrix inside"
+        ],
+        "cooccurrence": [
+            "nonstick frying pan",
+            "spatula",
+            "grated cheese",
+            "chopped chives",
+            "breakfast toast"
+        ],
+        "background": [
+            "home kitchen stovetop",
+            "diner counter",
+            "brunch cafe table",
+            "hotel breakfast buffet station",
+            "home breakfast table"
+        ]
+    },
+    "Onion rings": {
+        "action_or_pose": [
+            "piled on a plate",
+            "stacked into a tower",
+            "arranged in a paper-lined basket",
+            "being dipped into a sauce cup",
+            "draining in a fryer basket"
+        ],
+        "invariant_features": [
+            "visible concentric onion layers in cross-section",
+            "hollow circular center from sliced onion",
+            "golden-brown batter around pale onion interior",
+            "varying ring diameters from different onion layers",
+            "cracked inner rim revealing onion edge"
+        ],
+        "cooccurrence": [
+            "dipping sauce cup (ketchup or ranch)",
+            "burgers",
+            "french fries",
+            "paper napkins",
+            "salt shaker"
+        ],
+        "background": [
+            "fast-food tray on table",
+            "pub or bar tabletop",
+            "diner booth tabletop",
+            "restaurant kitchen pass",
+            "takeout counter with menu board"
+        ]
+    },
+    "Oysters": {
+        "action_or_pose": [
+            "served on the half shell over crushed ice",
+            "shucked and resting in the cupped valve",
+            "baked Rockefeller on a rimmed tray",
+            "grilled in-shell over open flame",
+            "breaded and fried in a basket"
+        ],
+        "invariant_features": [
+            "asymmetric bivalve: deep cupped bottom valve and flat top valve",
+            "chalky, craggy shell with fused, irregular growth ridges",
+            "iridescent nacre lining inside the shell",
+            "single central adductor muscle scar on interior",
+            "occasional natural pearl within flesh or shell"
+        ],
+        "cooccurrence": [
+            "lemon wedges",
+            "mignonette sauce",
+            "cocktail sauce",
+            "oyster knife",
+            "crushed ice"
+        ],
+        "background": [
+            "raw bar counter with metal trays",
+            "seafood restaurant platter",
+            "fish market display bedded on ice",
+            "home kitchen prep board",
+            "coastal oyster farm racks or tidal flats"
+        ]
+    },
+    "Pad thai": {
+        "action_or_pose": [
+            "mounded on a round plate",
+            "served in a shallow bowl",
+            "boxed in a paper takeout carton",
+            "plated on banana leaf",
+            "in a wok just off the stove"
+        ],
+        "invariant_features": [
+            "tamarind-glazed flat rice noodles",
+            "crushed peanuts–bean sprouts–lime trio",
+            "scrambled egg ribbons",
+            "garlic chive batons",
+            "tofu cubes with prawns"
+        ],
+        "cooccurrence": [
+            "Thai condiment caddy (chili flakes, sugar, vinegar, fish sauce)",
+            "stainless fork and spoon",
+            "lime wedges dish",
+            "roasted peanut bowl",
+            "wok and spatula"
+        ],
+        "background": [
+            "Thai street-food stall",
+            "night market table",
+            "casual Thai restaurant tabletop",
+            "home kitchen counter",
+            "takeout counter with to-go bags"
+        ]
+    },
+    "Paella": {
+        "action_or_pose": [
+            "served in paellera at table",
+            "cooking over open flame",
+            "resting on a trivet",
+            "rice spread in a thin even layer",
+            "garnished with lemon wedges on rim"
+        ],
+        "invariant_features": [
+            "socarrat crispy rice crust",
+            "paellera: wide shallow pan with twin loop handles",
+            "single thin layer of short-grain rice (finger-depth)",
+            "bomba or calasparra grains swollen yet separate",
+            "toppings arranged on surface in a radial pattern"
+        ],
+        "cooccurrence": [
+            "lemon wedges",
+            "mussels in shell",
+            "whole prawns",
+            "aioli",
+            "paella burner ring"
+        ],
+        "background": [
+            "Spanish restaurant table",
+            "Valencian backyard cookout",
+            "beachside chiringuito",
+            "market food stall in Spain",
+            "home patio with open-fire setup"
+        ]
+    },
+    "Pancakes": {
+        "action_or_pose": [
+            "stacked short stack",
+            "single pancake on plate",
+            "syrup-drizzled with butter melting",
+            "cut wedge removed showing interior",
+            "on griddle with bubbles forming"
+        ],
+        "invariant_features": [
+            "circular, flat leavened batter disk ~0.5–1 cm thick",
+            "top face dotted with shallow burst-bubble pores",
+            "even golden-brown on both faces without grill marks",
+            "soft, fluffy interior crumb with tiny air pockets",
+            "slightly darker smooth edge ring from griddle contact"
+        ],
+        "cooccurrence": [
+            "maple syrup bottle",
+            "butter pat",
+            "fork and knife",
+            "fresh berries",
+            "bacon strips"
+        ],
+        "background": [
+            "breakfast table setting",
+            "diner countertop",
+            "home kitchen stovetop",
+            "brunch café plate",
+            "campfire griddle setup"
+        ]
+    },
+    "Panna cotta": {
+        "action_or_pose": [
+            "chilled and set",
+            "unmolded dome on plate",
+            "served in glass ramekin",
+            "topped with berry coulis",
+            "sliced to show interior"
+        ],
+        "invariant_features": [
+            "gelatin-set heavy cream base (no eggs)",
+            "smooth, opaque ivory body with gentle wobble",
+            "unmolded shallow dome from dariole mold",
+            "plain cream surface without caramel layer",
+            "subtle vanilla bean specks suspended in cream"
+        ],
+        "cooccurrence": [
+            "dariole mold or ramekin",
+            "gelatin sheets",
+            "vanilla bean pod",
+            "berry coulis",
+            "fresh berries"
+        ],
+        "background": [
+            "white dessert plate on restaurant table",
+            "pastry kitchen counter",
+            "rustic wooden tabletop",
+            "buffet dessert station",
+            "cafe display case"
+        ]
+    },
+    "Peking duck": {
+        "action_or_pose": [
+            "whole lacquered duck presented on platter",
+            "thin skin slices fanned on plate",
+            "meat and skin rolled in pancake",
+            "skin-only pieces stacked neatly",
+            "carved tableside on wooden board"
+        ],
+        "invariant_features": [
+            "glossy maltose-lacquered crispy skin",
+            "air-inflated skin separated from meat",
+            "tableside carving into many thin slices",
+            "Mandarin pancakes as standard wrap",
+            "tianmianjiang sauce with julienned scallions"
+        ],
+        "cooccurrence": [
+            "stack of Mandarin pancakes",
+            "small dish of tianmianjiang or hoisin",
+            "julienned scallions and cucumber sticks",
+            "carving knife and board",
+            "bamboo steamer basket"
+        ],
+        "background": [
+            "Chinese banquet table with lazy Susan",
+            "Beijing restaurant dining room",
+            "white tablecloth fine-dining setting",
+            "tableside carving station",
+            "family-style round table"
+        ]
+    },
+    "Pho": {
+        "action_or_pose": [
+            "steaming in a deep bowl",
+            "noodles submerged beneath clear broth",
+            "garnished with Thai basil and bean sprouts",
+            "raw beef slices turning pink in hot broth",
+            "chopsticks resting across the bowl rim"
+        ],
+        "invariant_features": [
+            "flat banh pho rice noodles",
+            "clear amber broth with star anise and charred ginger/onion",
+            "side herb-and-sprout plate served separately",
+            "white onion slivers and scallion rings on top",
+            "hoisin–sriracha condiment pairing"
+        ],
+        "cooccurrence": [
+            "chopsticks",
+            "ceramic soup spoon",
+            "small dipping dish for sauces",
+            "plate of bean sprouts and Thai basil",
+            "lime wedges and sliced jalapeños"
+        ],
+        "background": [
+            "Vietnamese noodle shop table",
+            "street-food stall counter",
+            "casual restaurant setting with condiment caddy",
+            "home dining table",
+            "food court seating area"
+        ]
+    },
+    "Pizza": {
+        "action_or_pose": [
+            "whole pie uncut",
+            "sliced into wedges",
+            "single slice on plate",
+            "boxed with lid open",
+            "on wooden peel"
+        ],
+        "invariant_features": [
+            "cornicione (raised outer pizza rim)",
+            "flat circular pizza crust base",
+            "sauce-under-cheese layering",
+            "radial slice lines from center to rim",
+            "leopard-spot char on cornicione"
+        ],
+        "cooccurrence": [
+            "pizza box",
+            "pizza cutter wheel",
+            "parmesan cheese shaker",
+            "crushed red pepper flakes",
+            "fresh basil leaves"
+        ],
+        "background": [
+            "pizzeria countertop",
+            "wood-fired oven opening",
+            "restaurant dining table",
+            "home kitchen counter",
+            "delivery box interior"
+        ]
+    },
+    "Pork chop": {
+        "action_or_pose": [
+            "lying flat on plate",
+            "seared with crosshatch grill marks",
+            "sliced to reveal cooked center",
+            "bone-in edge facing outward",
+            "smothered in pan sauce"
+        ],
+        "invariant_features": [
+            "pale pink loin eye with fine grain",
+            "off-white fat cap along the long edge",
+            "small T-shaped bone showing both loin and tenderloin",
+            "short, round rib bone with white cartilage button",
+            "thin pork rind strip on edge"
+        ],
+        "cooccurrence": [
+            "mashed potatoes",
+            "applesauce",
+            "green beans",
+            "sprig of rosemary",
+            "steak knife"
+        ],
+        "background": [
+            "wooden cutting board",
+            "cast-iron skillet",
+            "charcoal grill grate",
+            "white restaurant plate",
+            "home kitchen countertop"
+        ]
+    },
+    "Poutine": {
+        "action_or_pose": [
+            "served in a paper boat",
+            "presented in a shallow bowl",
+            "freshly ladled with hot gravy",
+            "steaming with visible curd melt",
+            "topped to order with layered curds and gravy"
+        ],
+        "invariant_features": [
+            "fries topped with white squeaky cheese curds and brown gravy",
+            "distinct, irregular curd chunks visible atop gravy-coated fries",
+            "tri-layer composition: crispy fries, curds, then ladled gravy",
+            "gravy pooling at the bottom while curds remain in whole pieces",
+            "contrast of pale curds against dark gravy on golden fries"
+        ],
+        "cooccurrence": [
+            "plastic fork",
+            "paper napkins",
+            "food tray",
+            "soft drink cup",
+            "salt and pepper shakers"
+        ],
+        "background": [
+            "diner countertop",
+            "food truck counter",
+            "fast-casual restaurant table",
+            "hockey arena concession stand",
+            "Quebec snack bar (casse-croute) interior"
+        ]
+    },
+    "Prime rib": {
+        "action_or_pose": [
+            "thick slice resting on cutting board",
+            "bone-in slice lying flat with rib curved outward",
+            "whole roast standing on ribs (standing rib roast)",
+            "plated with au jus pooling beneath",
+            "tented and resting after roasting"
+        ],
+        "invariant_features": [
+            "bone-in ribeye roast from ribs 6–12",
+            "cross-section shows ribeye eye and spinalis cap separated by a fat seam",
+            "pronounced fat cap over the rib primal",
+            "curved rib bone attached along one edge of slice",
+            "served as thick slabs carved from a standing rib roast"
+        ],
+        "cooccurrence": [
+            "au jus",
+            "creamy horseradish sauce",
+            "Yorkshire pudding",
+            "carving knife and fork",
+            "rosemary and garlic rub"
+        ],
+        "background": [
+            "steakhouse dining table",
+            "holiday feast setting",
+            "chef’s carving station",
+            "home kitchen countertop",
+            "white restaurant plate"
+        ]
+    },
+    "Pulled pork sandwich": {
+        "action_or_pose": [
+            "open-faced on bun",
+            "sliced in half with cross-section visible",
+            "wrapped in butcher paper",
+            "topped with coleslaw mound",
+            "deconstructed with top bun aside"
+        ],
+        "invariant_features": [
+            "shredded smoked pork shoulder",
+            "barbecue-sauced pork strands",
+            "coleslaw topping on bun",
+            "soft bun soaked with juices",
+            "smoke-ring flecks in meat"
+        ],
+        "cooccurrence": [
+            "pickle spear",
+            "coleslaw cup",
+            "barbecue sauce bottle",
+            "french fries",
+            "paper-lined metal tray"
+        ],
+        "background": [
+            "barbecue restaurant table",
+            "food truck counter",
+            "picnic table outdoors",
+            "backyard cookout",
+            "casual diner setting"
+        ]
+    },
+    "Ramen": {
+        "action_or_pose": [
+            "steaming hot in deep bowl",
+            "brothless mixed style (mazemen) in shallow bowl",
+            "cold hiyashi presentation with chilled noodles",
+            "instant cup with lid peeled back",
+            "half-eaten with noodles exposed above broth"
+        ],
+        "invariant_features": [
+            "kansui-alkaline wheat noodles",
+            "pink-spiral narutomaki slice",
+            "seasoned menma bamboo shoots",
+            "soy-marinated jammy egg halves",
+            "sheet of nori tucked on bowl rim"
+        ],
+        "cooccurrence": [
+            "chopsticks",
+            "ramen spoon (renge)",
+            "condiment set (chili oil, vinegar, sesame)",
+            "side plate of gyoza",
+            "water glass"
+        ],
+        "background": [
+            "ramen shop counter with bar stools",
+            "ticket-vending machine foyer",
+            "home dining table",
+            "office desk during lunch",
+            "yatai street food stall"
+        ]
+    },
+    "Ravioli": {
+        "action_or_pose": [
+            "arranged in a single layer on a plate",
+            "tossed in brown butter and sage",
+            "floating in light broth",
+            "piled uncooked on a floured wooden board",
+            "half-cut to reveal filling"
+        ],
+        "invariant_features": [
+            "two-sheet pasta construction enclosing filling",
+            "square or round pillow shape with flat faces",
+            "crimped fluted edge from ravioli stamp or wheel",
+            "continuous sealed perimeter seam outlining each piece",
+            "central filling dome with thinner translucent edge"
+        ],
+        "cooccurrence": [
+            "tomato sauce",
+            "brown butter and sage",
+            "grated Parmesan",
+            "fork",
+            "basil leaves"
+        ],
+        "background": [
+            "white ceramic plate on a restaurant table",
+            "stainless-steel pot on a stovetop",
+            "wooden pasta board in a home kitchen",
+            "Italian trattoria table setting",
+            "market deli counter display tray"
+        ]
+    },
+    "Red velvet cake": {
+        "action_or_pose": [
+            "whole frosted cake on stand",
+            "single slice on plate",
+            "partially sliced with knife",
+            "cross-section showing red–white layers",
+            "topped with lit candles"
+        ],
+        "invariant_features": [
+            "crimson cocoa crumb from buttermilk–vinegar reaction",
+            "stark red–white layered cross-section",
+            "smooth white cream cheese frosting contrasting red crumb",
+            "red cake-crumb sprinkle on frosting surface",
+            "vivid red crumbs visible on cut edges"
+        ],
+        "cooccurrence": [
+            "cake stand",
+            "dessert plate",
+            "fork",
+            "cake server or knife",
+            "bakery box"
+        ],
+        "background": [
+            "bakery display case",
+            "home kitchen countertop",
+            "cafe tabletop",
+            "wedding or party dessert table",
+            "white marble backdrop"
+        ]
+    },
+    "Risotto": {
+        "action_or_pose": [
+            "plated in a shallow bowl",
+            "spooned into a loose mound",
+            "spread all'onda on a flat plate",
+            "resting in a wide sauté pan",
+            "topped with a central garnish"
+        ],
+        "invariant_features": [
+            "short-grain Arborio/Carnaroli/Vialone Nano rice",
+            "glossy, starchy cream coating each discrete grain",
+            "mantecatura finish with butter and grated aged cheese",
+            "all'onda wavelike spread when shaken or plated",
+            "soft, spoonable mound with no free liquid pooling"
+        ],
+        "cooccurrence": [
+            "Parmigiano-Reggiano wedge",
+            "wooden spoon",
+            "ladle of hot stock",
+            "saffron threads",
+            "porcini mushrooms"
+        ],
+        "background": [
+            "home kitchen stovetop with saucepan",
+            "stainless-steel professional kitchen line",
+            "Italian trattoria dining table",
+            "fine-dining restaurant plating pass",
+            "alfresco patio table at an Italian café"
+        ]
+    },
+    "Samosa": {
+        "action_or_pose": [
+            "standing upright on flat base",
+            "lying on its side",
+            "stacked in a pyramid",
+            "cut open showing filling",
+            "partially dipped in chutney"
+        ],
+        "invariant_features": [
+            "triangular pyramid pastry with pointed apex",
+            "flat base that lets pastry stand upright",
+            "single folded seam running down one face",
+            "spiced potato-and-green pea filling",
+            "ajwain specks in wheat-flour crust"
+        ],
+        "cooccurrence": [
+            "mint-coriander chutney",
+            "tamarind-date chutney",
+            "masala chai glass",
+            "red onion slices",
+            "lemon wedge"
+        ],
+        "background": [
+            "street food stall counter",
+            "stainless-steel display tray",
+            "restaurant appetizer plate on wooden table",
+            "home kitchen countertop",
+            "buffet chafing dish setup"
+        ]
+    },
+    "Sashimi": {
+        "action_or_pose": [
+            "fanned slices",
+            "overlapped row on plate",
+            "spiraled rose fold",
+            "kaku-zukuri cubes",
+            "usu-zukuri circular layout"
+        ],
+        "invariant_features": [
+            "neta-only serving, no shari (rice)",
+            "hira-zukuri rectangular cuts",
+            "usu-zukuri paper-thin whitefish slices",
+            "saku-cut uniform thickness",
+            "sashimi-grade raw fish quality"
+        ],
+        "cooccurrence": [
+            "soy sauce dish",
+            "fresh wasabi",
+            "shredded daikon (tsuma)",
+            "shiso leaves",
+            "pickled ginger (gari)"
+        ],
+        "background": [
+            "sushi bar counter",
+            "kaiseki lacquer tray",
+            "wooden geta platter",
+            "ceramic plate on tatami",
+            "omakase chef's counter"
+        ]
+    },
+    "Scallops": {
+        "action_or_pose": [
+            "pan-seared, caramelized side up",
+            "nestled in half-shell",
+            "stacked medallions",
+            "scattered on crushed ice",
+            "skewered and grilled"
+        ],
+        "invariant_features": [
+            "round adductor muscle medallion",
+            "radial grain lines in muscle",
+            "small tough side-muscle tab",
+            "fan-shaped shell with radiating ribs and auricles",
+            "optional orange 'coral' roe lobe"
+        ],
+        "cooccurrence": [
+            "lemon wedges",
+            "beurre blanc sauce",
+            "cast-iron skillet",
+            "cauliflower puree",
+            "bacon lardons"
+        ],
+        "background": [
+            "white restaurant plate",
+            "stainless steel kitchen line",
+            "bed of crushed ice at seafood counter",
+            "wooden cutting board",
+            "coastal fine-dining setting"
+        ]
+    },
+    "Seaweed salad": {
+        "action_or_pose": [
+            "piled in a small bowl",
+            "tossed with sesame dressing",
+            "garnished with toasted sesame seeds",
+            "chilled and glistening",
+            "served as a bento side compartment"
+        ],
+        "invariant_features": [
+            "julienned wakame ribbons with ruffled edges",
+            "emerald, semi-translucent seaweed strands",
+            "sesame–soy–rice vinegar glaze",
+            "toasted sesame seeds atop glossy seaweed",
+            "cold marinated seaweed mound"
+        ],
+        "cooccurrence": [
+            "sushi rolls",
+            "miso soup",
+            "pickled ginger",
+            "soy sauce dish",
+            "chopsticks"
+        ],
+        "background": [
+            "sushi bar counter",
+            "bento box tray",
+            "restaurant tabletop with lacquerware",
+            "takeout plastic clamshell",
+            "refrigerated deli case"
+        ]
+    },
+    "Shrimp and grits": {
+        "action_or_pose": [
+            "plated in a shallow bowl",
+            "served on a wide-rimmed plate",
+            "steaming hot",
+            "sauced with pan gravy",
+            "garnished with sliced scallions"
+        ],
+        "invariant_features": [
+            "shrimp arranged atop creamy stone-ground grits",
+            "Lowcountry-style bacon or tasso gravy over grits",
+            "coarse cornmeal grits texture beneath shrimp",
+            "paprika-cajun seared shrimp centered on grits",
+            "green scallion slices scattered across shrimp and grits"
+        ],
+        "cooccurrence": [
+            "hot sauce bottle",
+            "lemon wedge",
+            "buttermilk biscuit",
+            "crispy bacon or andouille pieces",
+            "cast-iron skillet"
+        ],
+        "background": [
+            "Southern brunch table",
+            "Lowcountry seafood restaurant",
+            "home kitchen countertop",
+            "rustic wooden dining table",
+            "outdoor patio dining table"
+        ]
+    },
+    "Spaghetti bolognese": {
+        "action_or_pose": [
+            "served on a white plate",
+            "twirled on a fork",
+            "simmering in a saucepan",
+            "piled in a bowl with sauce on top",
+            "packed as leftovers in a takeaway container"
+        ],
+        "invariant_features": [
+            "spaghetti pasta paired with minced-meat ragù alla bolognese",
+            "soffritto flecks of carrot, celery, and onion in the sauce",
+            "brick-red ragù clinging to long cylindrical noodles",
+            "fine-grated Parmigiano-Reggiano sprinkled over ragù",
+            "tomato-beef sauce with a reddish oil sheen from slow cooking"
+        ],
+        "cooccurrence": [
+            "fork",
+            "spoon",
+            "parmesan shaker",
+            "garlic bread",
+            "red wine glass"
+        ],
+        "background": [
+            "Italian trattoria table",
+            "checkered red-and-white tablecloth",
+            "home kitchen countertop",
+            "dining table place setting",
+            "stovetop with a simmering pot nearby"
+        ]
+    },
+    "Spaghetti carbonara": {
+        "action_or_pose": [
+            "plated in a shallow bowl",
+            "twirled into a nest on a fork",
+            "freshly tossed with glossy coating",
+            "steaming hot",
+            "garnished with Pecorino and black pepper"
+        ],
+        "invariant_features": [
+            "spaghetti coated in egg yolk–Pecorino Romano emulsion (no cream, no tomato)",
+            "crisp guanciale cracklings distributed among strands",
+            "glossy golden coating from emulsified pork fat and cheese",
+            "fresh black pepper flecks embedded in the egg‑cheese glaze",
+            "Pecorino Romano dusting over egg‑bound, guanciale‑studded spaghetti"
+        ],
+        "cooccurrence": [
+            "fork",
+            "Pecorino Romano wedge",
+            "pepper mill",
+            "egg shells",
+            "guanciale slab"
+        ],
+        "background": [
+            "Italian trattoria table",
+            "home kitchen counter",
+            "restaurant marble tabletop",
+            "wooden dining table",
+            "stovetop with skillet"
+        ]
+    },
+    "Spring rolls": {
+        "action_or_pose": [
+            "arranged in a row on a plate",
+            "stacked in a small pile",
+            "sliced on a diagonal to show cross-section",
+            "being dipped into sauce",
+            "wrapped in plastic for takeaway"
+        ],
+        "invariant_features": [
+            "translucent rice paper wrapper",
+            "shrimp halves visible through wrap",
+            "rice vermicelli noodles core",
+            "whole herb leaves pressed against wrapper",
+            "tightly rolled cylinder with tucked ends"
+        ],
+        "cooccurrence": [
+            "nuoc cham dipping sauce",
+            "peanut hoisin sauce",
+            "lettuce leaves",
+            "fresh mint sprigs",
+            "chopsticks"
+        ],
+        "background": [
+            "Vietnamese restaurant tabletop",
+            "home kitchen counter during prep",
+            "bamboo serving tray",
+            "street food stall counter",
+            "banquet appetizer platter"
+        ]
+    },
+    "Steak": {
+        "action_or_pose": [
+            "raw on butcher paper",
+            "searing in cast-iron skillet",
+            "grilled with crosshatch marks",
+            "resting under foil",
+            "sliced and fanned on plate"
+        ],
+        "invariant_features": [
+            "beef-steak intramuscular marbling web",
+            "doneness gradient from seared crust to warm pink center",
+            "strip-style fat cap along one edge",
+            "T-shaped bone dividing tenderloin and strip",
+            "ribeye eye muscle with surrounding spinalis dorsi cap"
+        ],
+        "cooccurrence": [
+            "steak knife",
+            "grill grates",
+            "cast-iron skillet",
+            "meat thermometer",
+            "compound butter"
+        ],
+        "background": [
+            "butcher block counter",
+            "white tablecloth restaurant plate",
+            "backyard barbecue grill",
+            "stovetop range",
+            "steakhouse wooden table"
+        ]
+    },
+    "Strawberry shortcake": {
+        "action_or_pose": [
+            "whole round cake on stand",
+            "individual split biscuit shortcake assembled",
+            "sliced wedge plated",
+            "cross-section exposed with one slice missing",
+            "lightly dusted with powdered sugar"
+        ],
+        "invariant_features": [
+            "macerated strawberry slices with red syrup",
+            "whipped cream filling and topping (no buttercream)",
+            "crumbly shortcake layers (biscuit-style)",
+            "naked sides showing berries, cream, and cake",
+            "strawberry crown atop central whipped cream dollop"
+        ],
+        "cooccurrence": [
+            "dessert plate",
+            "cake stand",
+            "dessert fork",
+            "piping bag for whipped cream",
+            "bowl of fresh whole strawberries"
+        ],
+        "background": [
+            "bakery display case",
+            "home kitchen countertop",
+            "cafe table",
+            "picnic table with gingham cloth",
+            "summer fair or festival booth"
+        ]
+    },
+    "Sushi": {
+        "action_or_pose": [
+            "arranged in a neat row",
+            "stacked roll slices with exposed cross-sections",
+            "nigiri topped with fish on oblong rice pads",
+            "gunkan pieces upright with roe filling",
+            "assorted platter fanned on a wooden board"
+        ],
+        "invariant_features": [
+            "glossy vinegared short-grain rice (shari)",
+            "nigiri: raw fish draped over hand-pressed rice",
+            "maki: nori-wrapped roll with visible cross-section",
+            "gunkan: nori 'battleship' cup holding soft toppings",
+            "wasabi smear hidden between topping and rice"
+        ],
+        "cooccurrence": [
+            "soy sauce dipping dish",
+            "chopsticks",
+            "pickled ginger (gari)",
+            "wasabi mound",
+            "small sake cup"
+        ],
+        "background": [
+            "sushi bar counter",
+            "wooden sushi geta board",
+            "conveyor-belt (kaiten) setting",
+            "plastic takeout tray with clear lid",
+            "bento box tray"
+        ]
+    },
+    "Tacos": {
+        "action_or_pose": [
+            "folded U-shape with open top",
+            "standing upright in a taco holder",
+            "arranged side-by-side on a platter",
+            "partially wrapped in foil or paper",
+            "being assembled with fillings added"
+        ],
+        "invariant_features": [
+            "single tortilla folded into an open-top U-shaped shell",
+            "fillings aligned in a visible longitudinal trough",
+            "hard-shell variant with ruffled crispy corn rim",
+            "soft street-taco base using two stacked small corn tortillas",
+            "chopped onion and cilantro sprinkled directly on exposed filling"
+        ],
+        "cooccurrence": [
+            "lime wedges",
+            "salsa roja or verde bowls",
+            "taco holder/stand",
+            "hot sauce bottle",
+            "diced onion and cilantro ramekins"
+        ],
+        "background": [
+            "taqueria countertop with stainless pans",
+            "street food cart with griddle",
+            "food truck service window",
+            "casual Mexican restaurant table with colorful tiles",
+            "backyard picnic table at a fiesta"
+        ]
+    },
+    "Takoyaki": {
+        "action_or_pose": [
+            "resting in cast-iron pan wells",
+            "served in a disposable boat tray",
+            "pierced with a bamboo pick",
+            "clustered in a set of six or eight",
+            "topped and steaming with moving bonito flakes"
+        ],
+        "invariant_features": [
+            "spherical wheat batter ball with octopus chunk center",
+            "browned crispy shell with molten interior",
+            "zigzag okonomi sauce stripes",
+            "Kewpie mayo crosshatch",
+            "aonori and dancing katsuobushi topping"
+        ],
+        "cooccurrence": [
+            "takoyaki pan (cast-iron, hemispherical wells)",
+            "bamboo toothpicks",
+            "paper boat tray",
+            "okonomi sauce bottle",
+            "katsuobushi flakes packet"
+        ],
+        "background": [
+            "Japanese street festival yatai stall",
+            "Osaka street food counter",
+            "izakaya tabletop setting",
+            "home kitchen stovetop",
+            "night market food court"
+        ]
+    },
+    "Tiramisu": {
+        "action_or_pose": [
+            "whole slab in glass dish",
+            "single square slice plated",
+            "individual layered cup portion",
+            "half-eaten slice with fork marks",
+            "freshly cocoa-dusted top"
+        ],
+        "invariant_features": [
+            "espresso-soaked savoiardi (ladyfingers) layers",
+            "mascarpone sabayon cream filling",
+            "unsweetened cocoa powder top dusting (no glaze)",
+            "clean, alternating light-cream and coffee-brown strata",
+            "marsala or rum-laced espresso soak in biscuits"
+        ],
+        "cooccurrence": [
+            "espresso cup",
+            "dessert fork",
+            "fine-mesh cocoa sieve",
+            "glass baking dish (pan)",
+            "ladyfinger biscuits package"
+        ],
+        "background": [
+            "Italian café table",
+            "white tablecloth restaurant setting",
+            "home kitchen countertop",
+            "bakery display case",
+            "rustic wooden table"
+        ]
+    },
+    "Tuna tartare": {
+        "action_or_pose": [
+            "molded into a cylinder with a ring mold",
+            "formed as a quenelle",
+            "layered over diced avocado",
+            "spooned onto a crispy wonton chip",
+            "presented in a martini glass"
+        ],
+        "invariant_features": [
+            "ruby-red diced ahi tuna",
+            "glossy soy-citrus dressing sheen",
+            "fine chive and shallot specks",
+            "black sesame seed scatter on surface",
+            "ring-mold cylinder plating"
+        ],
+        "cooccurrence": [
+            "avocado cubes",
+            "wonton crisps or toast points",
+            "microgreens",
+            "lime or yuzu wedges",
+            "soy sauce and sesame oil"
+        ],
+        "background": [
+            "white porcelain appetizer plate",
+            "black slate serving board",
+            "sushi bar counter",
+            "fine-dining restaurant table",
+            "seafood raw bar setting"
+        ]
+    },
+    "Waffles": {
+        "action_or_pose": [
+            "lying flat on plate",
+            "stacked two or more high",
+            "quartered and fanned",
+            "syrup pooled in wells",
+            "freshly pressed in waffle iron"
+        ],
+        "invariant_features": [
+            "uniform grid of deep wells",
+            "raised perpendicular ridges forming squares",
+            "identical grid imprint on both sides",
+            "right-angled cell walls between pockets",
+            "pocketed surface that traps syrups"
+        ],
+        "cooccurrence": [
+            "maple syrup",
+            "butter pats",
+            "fresh berries",
+            "whipped cream",
+            "fried chicken"
+        ],
+        "background": [
+            "home breakfast table",
+            "diner countertop",
+            "brunch restaurant table",
+            "street vendor stall",
+            "kitchen countertop near waffle maker"
+        ]
+    }
+}

@@ -1,0 +1,1105 @@
+{
+    "Abyssinian": {
+        "action_or_pose": [
+            "stretching",
+            "jumping",
+            "grooming",
+            "climbing",
+            "resting"
+        ],
+        "invariant_features": [
+            "ticked coat pattern",
+            "large almond-shaped eyes",
+            "slender muscular body",
+            "arched neck",
+            "ruddy warm coat color"
+        ],
+        "cooccurrence": [
+            "cat toys",
+            "scratching post",
+            "food bowl",
+            "human owner",
+            "soft blanket"
+        ],
+        "background": [
+            "living room",
+            "sunlit window",
+            "couch",
+            "cat tree",
+            "indoor apartment"
+        ]
+    },
+    "american bulldog": {
+        "action_or_pose": [
+            "running",
+            "sitting",
+            "playing fetch",
+            "standing alert",
+            "lying down"
+        ],
+        "invariant_features": [
+            "broad chest",
+            "muscular build",
+            "short smooth coat",
+            "wide head",
+            "strong jawline"
+        ],
+        "cooccurrence": [
+            "dog collar",
+            "leash",
+            "owner",
+            "dog bowl",
+            "tennis ball"
+        ],
+        "background": [
+            "backyard",
+            "dog park",
+            "living room",
+            "training field",
+            "suburban neighborhood"
+        ]
+    },
+    "american pit bull terrier": {
+        "action_or_pose": [
+            "running",
+            "playing",
+            "guarding",
+            "jumping",
+            "resting"
+        ],
+        "invariant_features": [
+            "muscular build",
+            "broad head",
+            "short smooth coat",
+            "strong jawline",
+            "medium-sized frame"
+        ],
+        "cooccurrence": [
+            "dog leash",
+            "owner",
+            "dog collar",
+            "toy ball",
+            "food bowl"
+        ],
+        "background": [
+            "backyard",
+            "dog park",
+            "urban sidewalk",
+            "training ground",
+            "living room"
+        ]
+    },
+    "basset hound": {
+        "action_or_pose": [
+            "sitting",
+            "running",
+            "sniffing",
+            "lying down",
+            "wagging tail"
+        ],
+        "invariant_features": [
+            "long droopy ears",
+            "short legs",
+            "elongated body",
+            "loose skin around face",
+            "tricolor coat pattern"
+        ],
+        "cooccurrence": [
+            "dog leash",
+            "food bowl",
+            "owner",
+            "dog bed",
+            "collar"
+        ],
+        "background": [
+            "living room",
+            "backyard",
+            "park",
+            "sidewalk",
+            "dog show ring"
+        ]
+    },
+    "beagle": {
+        "action_or_pose": [
+            "running",
+            "sniffing",
+            "wagging tail",
+            "sitting",
+            "playing fetch"
+        ],
+        "invariant_features": [
+            "tri-colored coat",
+            "long floppy ears",
+            "square muzzle",
+            "compact muscular body",
+            "white-tipped tail"
+        ],
+        "cooccurrence": [
+            "dog leash",
+            "tennis ball",
+            "dog bowl",
+            "owner",
+            "collar"
+        ],
+        "background": [
+            "backyard",
+            "dog park",
+            "living room",
+            "walking trail",
+            "suburban neighborhood"
+        ]
+    },
+    "Bengal": {
+        "action_or_pose": [
+            "stalking",
+            "leaping",
+            "stretching",
+            "grooming",
+            "resting"
+        ],
+        "invariant_features": [
+            "rosetted coat pattern",
+            "muscular build",
+            "green or gold eyes",
+            "sleek short fur",
+            "long tail with dark rings"
+        ],
+        "cooccurrence": [
+            "cat tree",
+            "food bowl",
+            "toy mouse",
+            "scratching post",
+            "human owner"
+        ],
+        "background": [
+            "living room",
+            "garden",
+            "window sill",
+            "sofa",
+            "sunlit floor"
+        ]
+    },
+    "Birman": {
+        "action_or_pose": [
+            "stretching",
+            "purring",
+            "jumping onto furniture",
+            "curling up",
+            "grooming"
+        ],
+        "invariant_features": [
+            "silky medium-length coat",
+            "blue almond-shaped eyes",
+            "color-point pattern",
+            "white-gloved paws"
+        ],
+        "cooccurrence": [
+            "cat bed",
+            "scratching post",
+            "food bowl",
+            "human owner"
+        ],
+        "background": [
+            "living room",
+            "bedroom",
+            "cat café",
+            "pet grooming salon"
+        ]
+    },
+    "Bombay": {
+        "action_or_pose": [
+            "stretching",
+            "purring",
+            "leaping",
+            "curled up",
+            "stalking"
+        ],
+        "invariant_features": [
+            "short glossy black coat",
+            "copper-gold eyes",
+            "muscular medium body",
+            "rounded head shape",
+            "short muzzle"
+        ],
+        "cooccurrence": [
+            "cat toy",
+            "food bowl",
+            "scratching post",
+            "owner",
+            "sofa"
+        ],
+        "background": [
+            "living room",
+            "bedroom",
+            "cat tree area",
+            "window sill",
+            "garden patio"
+        ]
+    },
+    "boxer": {
+        "action_or_pose": [
+            "running",
+            "jumping",
+            "sitting alert",
+            "playing",
+            "standing on hind legs"
+        ],
+        "invariant_features": [
+            "short muzzle",
+            "muscular build",
+            "square jaw",
+            "smooth short coat",
+            "drooping jowls"
+        ],
+        "cooccurrence": [
+            "dog collar",
+            "tennis ball",
+            "leash",
+            "dog bowl",
+            "owner"
+        ],
+        "background": [
+            "backyard",
+            "dog park",
+            "living room",
+            "training field",
+            "sidewalk"
+        ]
+    },
+    "British Shorthair": {
+        "action_or_pose": [
+            "sitting gracefully",
+            "stretching",
+            "playing with a toy",
+            "walking slowly",
+            "curling up to sleep"
+        ],
+        "invariant_features": [
+            "round face",
+            "dense plush coat",
+            "copper eyes",
+            "broad chest",
+            "short thick tail"
+        ],
+        "cooccurrence": [
+            "cat bed",
+            "scratching post",
+            "food bowl",
+            "human owner",
+            "toy mouse"
+        ],
+        "background": [
+            "living room",
+            "bedroom",
+            "cat café",
+            "pet show",
+            "garden patio"
+        ]
+    },
+    "chihuahua": {
+        "action_or_pose": [
+            "running",
+            "barking",
+            "playing",
+            "sitting",
+            "tilting head"
+        ],
+        "invariant_features": [
+            "small body size",
+            "large round eyes",
+            "short smooth coat",
+            "apple-shaped head",
+            "upright ears"
+        ],
+        "cooccurrence": [
+            "dog collar",
+            "pet bed",
+            "toy bone",
+            "food bowl",
+            "owner"
+        ],
+        "background": [
+            "living room",
+            "backyard",
+            "park",
+            "sidewalk",
+            "pet carrier"
+        ]
+    },
+    "Egyptian Mau": {
+        "action_or_pose": [
+            "stretching",
+            "pouncing",
+            "grooming",
+            "leaping",
+            "resting"
+        ],
+        "invariant_features": [
+            "silver-spotted coat",
+            "green almond-shaped eyes",
+            "medium-length muscular body",
+            "large ears set high",
+            "banded tail tip"
+        ],
+        "cooccurrence": [
+            "cat toy",
+            "food bowl",
+            "scratching post",
+            "human owner",
+            "soft blanket"
+        ],
+        "background": [
+            "living room",
+            "sunlit window",
+            "garden patio",
+            "cat show arena",
+            "indoor apartment"
+        ]
+    },
+    "english cocker spaniel": {
+        "action_or_pose": [
+            "running",
+            "sitting",
+            "fetching",
+            "wagging tail",
+            "sniffing"
+        ],
+        "invariant_features": [
+            "long silky ears",
+            "feathered legs",
+            "medium-length wavy coat",
+            "square muzzle",
+            "expressive dark eyes"
+        ],
+        "cooccurrence": [
+            "dog leash",
+            "tennis ball",
+            "food bowl",
+            "owner",
+            "dog bed"
+        ],
+        "background": [
+            "park",
+            "living room",
+            "backyard",
+            "beach",
+            "dog show ring"
+        ]
+    },
+    "english setter": {
+        "action_or_pose": [
+            "running through a field",
+            "sitting attentively",
+            "pointing at prey",
+            "swimming",
+            "lying down"
+        ],
+        "invariant_features": [
+            "feathered coat pattern",
+            "long silky ears",
+            "white coat with orange or blue ticking",
+            "feathered tail",
+            "medium athletic build"
+        ],
+        "cooccurrence": [
+            "bird hunter",
+            "dog leash",
+            "training whistle",
+            "dog bowl",
+            "tennis ball"
+        ],
+        "background": [
+            "grassy meadow",
+            "hunting field",
+            "suburban backyard",
+            "dog training ground",
+            "forest edge"
+        ]
+    },
+    "german shorthaired": {
+        "action_or_pose": [
+            "running",
+            "pointing",
+            "retrieving",
+            "swimming",
+            "standing alert"
+        ],
+        "invariant_features": [
+            "short liver-and-white coat",
+            "ticked or patched markings",
+            "lean athletic build",
+            "long muzzle with brown nose",
+            "high-set tail"
+        ],
+        "cooccurrence": [
+            "hunter",
+            "shotgun",
+            "duck",
+            "field vest",
+            "dog leash"
+        ],
+        "background": [
+            "grassy field",
+            "wetland",
+            "forest edge",
+            "hunting ground",
+            "training field"
+        ]
+    },
+    "great pyrenees": {
+        "action_or_pose": [
+            "guarding",
+            "lying down",
+            "running",
+            "barking",
+            "herding"
+        ],
+        "invariant_features": [
+            "thick white double coat",
+            "large muscular build",
+            "dark expressive eyes",
+            "broad head with strong muzzle",
+            "plumed tail carried over back"
+        ],
+        "cooccurrence": [
+            "sheep",
+            "farmers",
+            "barns",
+            "dog collars",
+            "mountain livestock"
+        ],
+        "background": [
+            "mountain pastures",
+            "farmyards",
+            "snowy fields",
+            "rural countryside",
+            "open meadows"
+        ]
+    },
+    "havanese": {
+        "action_or_pose": [
+            "running",
+            "playing",
+            "sitting",
+            "tilting head",
+            "wagging tail"
+        ],
+        "invariant_features": [
+            "long silky coat",
+            "plumed tail",
+            "dark round eyes",
+            "compact body",
+            "floppy ears"
+        ],
+        "cooccurrence": [
+            "dog toys",
+            "leash",
+            "dog bed",
+            "food bowl",
+            "owner"
+        ],
+        "background": [
+            "living room",
+            "backyard",
+            "dog park",
+            "grooming salon",
+            "sidewalk"
+        ]
+    },
+    "japanese chin": {
+        "action_or_pose": [
+            "sitting",
+            "running",
+            "tilting head",
+            "playing",
+            "sleeping"
+        ],
+        "invariant_features": [
+            "short muzzle",
+            "feathered ears",
+            "broad face",
+            "silky long coat",
+            "plumed tail carried over back"
+        ],
+        "cooccurrence": [
+            "dog bed",
+            "toy ball",
+            "food bowl",
+            "owner",
+            "grooming brush"
+        ],
+        "background": [
+            "living room",
+            "garden",
+            "dog show ring",
+            "park",
+            "pet grooming salon"
+        ]
+    },
+    "keeshond": {
+        "action_or_pose": [
+            "running",
+            "sitting",
+            "playing",
+            "barking"
+        ],
+        "invariant_features": [
+            "thick double coat",
+            "plumed curled tail",
+            "fox-like face",
+            "distinctive ruff around neck"
+        ],
+        "cooccurrence": [
+            "dog leash",
+            "owner",
+            "dog bowl",
+            "grooming brush"
+        ],
+        "background": [
+            "home living room",
+            "backyard",
+            "dog park",
+            "snowy landscape"
+        ]
+    },
+    "leonberger": {
+        "action_or_pose": [
+            "running",
+            "sitting",
+            "lying down",
+            "playing",
+            "standing alert"
+        ],
+        "invariant_features": [
+            "thick double coat",
+            "large muscular build",
+            "black facial mask",
+            "long feathery tail",
+            "broad head"
+        ],
+        "cooccurrence": [
+            "dog leash",
+            "owner",
+            "food bowl",
+            "dog brush",
+            "collar"
+        ],
+        "background": [
+            "backyard",
+            "dog park",
+            "living room",
+            "training field",
+            "mountain trail"
+        ]
+    },
+    "Maine Coon": {
+        "action_or_pose": [
+            "stretching",
+            "pouncing",
+            "grooming",
+            "sleeping curled up",
+            "climbing"
+        ],
+        "invariant_features": [
+            "long tufted ears",
+            "bushy raccoon-like tail",
+            "large muscular body",
+            "square-shaped muzzle",
+            "thick shaggy coat"
+        ],
+        "cooccurrence": [
+            "cat tree",
+            "food bowl",
+            "human owner",
+            "toy mouse",
+            "scratching post"
+        ],
+        "background": [
+            "living room",
+            "bedroom",
+            "cat café",
+            "backyard garden",
+            "animal shelter"
+        ]
+    },
+    "miniature pinscher": {
+        "action_or_pose": [
+            "running",
+            "alert stance",
+            "jumping",
+            "playing",
+            "barking"
+        ],
+        "invariant_features": [
+            "sleek short coat",
+            "pointed ears",
+            "narrow muzzle",
+            "compact muscular body",
+            "high-set tail"
+        ],
+        "cooccurrence": [
+            "dog collar",
+            "leash",
+            "dog toy",
+            "owner",
+            "dog bed"
+        ],
+        "background": [
+            "home interior",
+            "backyard",
+            "city park",
+            "sidewalk",
+            "dog show ring"
+        ]
+    },
+    "newfoundland": {
+        "action_or_pose": [
+            "swimming",
+            "retrieving",
+            "running",
+            "sitting",
+            "shaking off water"
+        ],
+        "invariant_features": [
+            "thick water-resistant double coat",
+            "large webbed paws",
+            "broad head with gentle expression",
+            "massive muscular build",
+            "drooping jowls"
+        ],
+        "cooccurrence": [
+            "owner",
+            "leash",
+            "water body",
+            "dog brush",
+            "food bowl"
+        ],
+        "background": [
+            "beach",
+            "lake shore",
+            "backyard",
+            "dog park",
+            "snowy field"
+        ]
+    },
+    "Persian": {
+        "action_or_pose": [
+            "stretching",
+            "purring",
+            "grooming",
+            "sleeping curled up",
+            "walking gracefully"
+        ],
+        "invariant_features": [
+            "long silky coat",
+            "flat face",
+            "large round eyes",
+            "short muzzle",
+            "bushy tail"
+        ],
+        "cooccurrence": [
+            "cat bed",
+            "food bowl",
+            "scratching post",
+            "toy mouse",
+            "human owner"
+        ],
+        "background": [
+            "living room",
+            "bedroom",
+            "pet grooming salon",
+            "cat show stage",
+            "home sofa"
+        ]
+    },
+    "pomeranian": {
+        "action_or_pose": [
+            "running",
+            "barking",
+            "playing fetch",
+            "sitting",
+            "wagging tail"
+        ],
+        "invariant_features": [
+            "fluffy double coat",
+            "fox-like face",
+            "plumed tail curling over back",
+            "small compact body",
+            "pointed ears"
+        ],
+        "cooccurrence": [
+            "dog leash",
+            "dog toy",
+            "food bowl",
+            "owner",
+            "dog bed"
+        ],
+        "background": [
+            "living room",
+            "park",
+            "backyard",
+            "sidewalk",
+            "pet grooming salon"
+        ]
+    },
+    "pug": {
+        "action_or_pose": [
+            "running",
+            "sitting",
+            "tilting head",
+            "sleeping",
+            "playing"
+        ],
+        "invariant_features": [
+            "wrinkled face",
+            "short muzzle",
+            "curly tail",
+            "compact body",
+            "large round eyes"
+        ],
+        "cooccurrence": [
+            "dog collar",
+            "food bowl",
+            "leash",
+            "dog bed",
+            "owner"
+        ],
+        "background": [
+            "living room",
+            "backyard",
+            "park",
+            "sidewalk",
+            "pet grooming salon"
+        ]
+    },
+    "Ragdoll": {
+        "action_or_pose": [
+            "stretching",
+            "purring",
+            "playing with a toy",
+            "sleeping curled up",
+            "jumping onto furniture"
+        ],
+        "invariant_features": [
+            "blue eyes",
+            "semi-long silky fur",
+            "colorpoint coat pattern",
+            "large muscular body",
+            "soft rounded face"
+        ],
+        "cooccurrence": [
+            "cat bed",
+            "scratching post",
+            "food bowl",
+            "human owner",
+            "toy mouse"
+        ],
+        "background": [
+            "living room",
+            "bedroom",
+            "cat café",
+            "pet show",
+            "home interior"
+        ]
+    },
+    "Russian Blue": {
+        "action_or_pose": [
+            "stretching",
+            "purring",
+            "leaping",
+            "curled up",
+            "grooming"
+        ],
+        "invariant_features": [
+            "short blue-gray coat",
+            "vivid green eyes",
+            "slender body",
+            "triangular face",
+            "silvery sheen fur"
+        ],
+        "cooccurrence": [
+            "cat bed",
+            "scratching post",
+            "food bowl",
+            "toy mouse",
+            "human companion"
+        ],
+        "background": [
+            "living room",
+            "sunlit window",
+            "sofa",
+            "bedroom",
+            "garden patio"
+        ]
+    },
+    "saint bernard": {
+        "action_or_pose": [
+            "running",
+            "sitting",
+            "lying down",
+            "playing",
+            "barking"
+        ],
+        "invariant_features": [
+            "thick double coat",
+            "large droopy jowls",
+            "broad head with short muzzle",
+            "distinct white and brown markings",
+            "massive muscular build"
+        ],
+        "cooccurrence": [
+            "dog collar",
+            "water bowl",
+            "owner",
+            "leash",
+            "dog house"
+        ],
+        "background": [
+            "mountain lodge",
+            "snowy landscape",
+            "backyard",
+            "living room",
+            "dog park"
+        ]
+    },
+    "samoyed": {
+        "action_or_pose": [
+            "running through snow",
+            "sitting attentively",
+            "playing fetch",
+            "lying down",
+            "jumping excitedly"
+        ],
+        "invariant_features": [
+            "thick white double coat",
+            "curved fluffy tail",
+            "black lips forming a 'Sammy smile'",
+            "dark almond-shaped eyes",
+            "upright triangular ears"
+        ],
+        "cooccurrence": [
+            "dog leash",
+            "owner",
+            "snowy ground",
+            "dog toys",
+            "food bowl"
+        ],
+        "background": [
+            "snow-covered field",
+            "suburban backyard",
+            "dog park",
+            "mountain trail",
+            "living room floor"
+        ]
+    },
+    "scottish terrier": {
+        "action_or_pose": [
+            "running",
+            "sitting",
+            "standing alert",
+            "playing",
+            "digging"
+        ],
+        "invariant_features": [
+            "distinctive beard and eyebrows",
+            "black wiry coat",
+            "short sturdy legs",
+            "erect pointed ears",
+            "elongated muzzle"
+        ],
+        "cooccurrence": [
+            "dog collar",
+            "leash",
+            "owner",
+            "dog bowl",
+            "toy ball"
+        ],
+        "background": [
+            "home garden",
+            "living room",
+            "dog park",
+            "sidewalk",
+            "grassy yard"
+        ]
+    },
+    "shiba inu": {
+        "action_or_pose": [
+            "running",
+            "sitting",
+            "tilting head",
+            "playing",
+            "barking"
+        ],
+        "invariant_features": [
+            "curled tail",
+            "fox-like face",
+            "upright triangular ears",
+            "thick double coat",
+            "compact body"
+        ],
+        "cooccurrence": [
+            "dog leash",
+            "owner",
+            "dog bowl",
+            "collar",
+            "toy ball"
+        ],
+        "background": [
+            "home interior",
+            "park",
+            "backyard",
+            "sidewalk",
+            "dog training area"
+        ]
+    },
+    "Siamese": {
+        "action_or_pose": [
+            "stretching",
+            "purring",
+            "jumping onto furniture",
+            "grooming",
+            "sleeping curled up"
+        ],
+        "invariant_features": [
+            "slender body",
+            "short cream-colored coat",
+            "dark points on ears, face, paws, and tail",
+            "blue almond-shaped eyes",
+            "triangular face shape"
+        ],
+        "cooccurrence": [
+            "cat bed",
+            "food bowl",
+            "scratching post",
+            "human owner",
+            "toy mouse"
+        ],
+        "background": [
+            "living room",
+            "bedroom",
+            "sunny window sill",
+            "sofa",
+            "indoor apartment"
+        ]
+    },
+    "Sphynx": {
+        "action_or_pose": [
+            "stretching",
+            "grooming",
+            "leaping",
+            "curling up",
+            "playing"
+        ],
+        "invariant_features": [
+            "hairless skin",
+            "wrinkled body",
+            "large ears",
+            "prominent cheekbones",
+            "slender tail"
+        ],
+        "cooccurrence": [
+            "cat bed",
+            "food bowl",
+            "scratching post",
+            "human companion",
+            "blanket"
+        ],
+        "background": [
+            "living room",
+            "bedroom",
+            "cat café",
+            "pet show",
+            "veterinary clinic"
+        ]
+    },
+    "staffordshire bull terrier": {
+        "action_or_pose": [
+            "running",
+            "playing fetch",
+            "sitting alert",
+            "jumping",
+            "wagging tail"
+        ],
+        "invariant_features": [
+            "muscular build",
+            "broad head",
+            "short smooth coat",
+            "strong jawline",
+            "medium-sized body"
+        ],
+        "cooccurrence": [
+            "dog leash",
+            "tennis ball",
+            "owner",
+            "dog collar",
+            "food bowl"
+        ],
+        "background": [
+            "backyard",
+            "dog park",
+            "living room",
+            "training field",
+            "sidewalk"
+        ]
+    },
+    "wheaten terrier": {
+        "action_or_pose": [
+            "running",
+            "sitting",
+            "playing",
+            "jumping",
+            "standing alert"
+        ],
+        "invariant_features": [
+            "wheaten-colored coat",
+            "soft silky fur",
+            "medium-sized terrier build",
+            "bearded muzzle",
+            "upright ears"
+        ],
+        "cooccurrence": [
+            "dog leash",
+            "owner",
+            "dog bowl",
+            "grooming brush",
+            "tennis ball"
+        ],
+        "background": [
+            "home backyard",
+            "dog park",
+            "living room",
+            "grassy field",
+            "sidewalk"
+        ]
+    },
+    "yorkshire terrier": {
+        "action_or_pose": [
+            "running",
+            "sitting",
+            "playing",
+            "barking",
+            "tilting head"
+        ],
+        "invariant_features": [
+            "silky tan and blue coat",
+            "small compact body",
+            "erect V-shaped ears",
+            "dark button eyes",
+            "long fine hair on muzzle"
+        ],
+        "cooccurrence": [
+            "dog collar",
+            "leash",
+            "dog bed",
+            "toy ball",
+            "grooming brush"
+        ],
+        "background": [
+            "living room",
+            "backyard",
+            "dog park",
+            "grooming salon",
+            "sidewalk"
+        ]
+    }
+}

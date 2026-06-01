@@ -1,0 +1,3062 @@
+{
+    "pink primrose": {
+        "action_or_pose": [
+            "fully open bloom facing upward",
+            "partially opened bud",
+            "midday partially closed petals",
+            "wilted drooping flower",
+            "cluster of adjacent blooms on a stem"
+        ],
+        "invariant_features": [
+            "four satiny pale-pink petals with darker pink veins",
+            "bright yellow throat at flower center",
+            "protruding X-shaped stigma",
+            "white filaments with yellow anthers encircling the stigma",
+            "cup-shaped bloom on slender reddish-green stems"
+        ],
+        "cooccurrence": [
+            "honeybee",
+            "butterfly",
+            "unopened flower buds",
+            "elongated seed pods",
+            "garden mulch or gravel"
+        ],
+        "background": [
+            "sunny roadside verge",
+            "prairie meadow",
+            "xeriscape garden bed",
+            "suburban lawn edge",
+            "rocky slope with sparse grass"
+        ]
+    },
+    "hard-leaved pocket orchid": {
+        "action_or_pose": [
+            "inflorescence in tight bud cluster",
+            "umbel fully open and facing outward",
+            "vegetative state with leafed pseudobulbs only",
+            "spent blooms with withering perianths",
+            "developing seed capsule on a persistent pedicel"
+        ],
+        "invariant_features": [
+            "single stiff, leathery leaf per small ovoid pseudobulb",
+            "slender erect scape bearing a many-flowered umbel",
+            "hinged, tongue-like labellum on each tiny flower",
+            "creeping wiry rhizome with widely spaced pseudobulbs",
+            "exposed aerial roots clinging to bark (epiphytic habit)"
+        ],
+        "cooccurrence": [
+            "moss-covered tree bark",
+            "lichens on host branch",
+            "sphagnum-wrapped cork or tree-fern mount",
+            "small fly pollinators hovering nearby",
+            "orchid label tag"
+        ],
+        "background": [
+            "shaded tropical rainforest canopy",
+            "greenhouse or orchidarium bench",
+            "mossy tree trunk in humid understory",
+            "cloud-forest mist with diffused light",
+            "indoor grow shelf with humidifier"
+        ]
+    },
+    "canterbury bells": {
+        "action_or_pose": [
+            "upright stem with outward-facing bells",
+            "nodding bell clusters along upper stem",
+            "tightly closed flower buds at stem tips",
+            "cut stems arranged in a vase",
+            "spent blooms forming seed capsules"
+        ],
+        "invariant_features": [
+            "cup-and-saucer bloom (double calyx beneath bell)",
+            "one-sided spike lined with large campanulate flowers",
+            "4–6 cm bell with five shallowly notched lobes",
+            "basal rosette in year one, flowering spire in year two",
+            "three-poricidal capsule below persistent calyx"
+        ],
+        "cooccurrence": [
+            "bumblebees",
+            "garden stakes",
+            "foxgloves",
+            "sweet william",
+            "plant label"
+        ],
+        "background": [
+            "cottage garden border",
+            "mulched herbaceous bed",
+            "florist bouquet setting",
+            "nursery greenhouse benches",
+            "stone pathway edge"
+        ]
+    },
+    "sweet pea": {
+        "action_or_pose": [
+            "climbing up a trellis",
+            "twining tendrils around a stake",
+            "in full bloom on long peduncles",
+            "tight buds before opening",
+            "cut stems arranged in a vase"
+        ],
+        "invariant_features": [
+            "intensely sweet fragrance",
+            "ruffled, papery petals",
+            "papilionaceous blossom with broad banner and narrow keel",
+            "long peduncles with 2–4 florets",
+            "winged, climbing stems with terminal coiling tendrils"
+        ],
+        "cooccurrence": [
+            "trellis",
+            "bamboo stake",
+            "garden twine",
+            "seed packet",
+            "vase"
+        ],
+        "background": [
+            "cottage garden border",
+            "picket fence backdrop",
+            "greenhouse bench",
+            "cut-flower plot rows",
+            "patio container by a wall"
+        ]
+    },
+    "english marigold": {
+        "action_or_pose": [
+            "in full bloom with open ray florets",
+            "in tight green bud",
+            "drooping after rainfall",
+            "forming seed heads with curved achenes",
+            "freshly cut and placed in a vase"
+        ],
+        "invariant_features": [
+            "heteromorphic, C-shaped to boat-shaped achenes lacking pappus",
+            "simple oblong leaves with slight teeth; upper leaves sessile",
+            "resinous, slightly sticky glandular hairs on stems and foliage",
+            "flat, golden-orange capitulum with squared, notched ray tips",
+            "multi-row green phyllaries tightly cupping the flower head"
+        ],
+        "cooccurrence": [
+            "bees",
+            "ladybugs",
+            "tomato plants",
+            "terracotta pots",
+            "seed packets"
+        ],
+        "background": [
+            "cottage garden border",
+            "raised vegetable bed",
+            "patio planter on stone",
+            "greenhouse bench",
+            "allotment plot with tilled soil"
+        ]
+    },
+    "tiger lily": {
+        "action_or_pose": [
+            "in full bloom with petals fully recurved",
+            "in bud with sepals closed",
+            "nodding downward on a tall stem",
+            "rain-soaked and drooping slightly",
+            "spent bloom with withering tepals"
+        ],
+        "invariant_features": [
+            "vivid orange, strongly recurved tepals densely covered with dark purplish-black freckles",
+            "dark purple-black bulbils forming in upper leaf axils",
+            "pendant turk’s-cap blossom with petals curled back to near the pedicel",
+            "six long exserted stamens with chocolate-brown anthers beneath the bloom",
+            "tall unbranched stem bearing lanceolate leaves and multiple drooping flowers"
+        ],
+        "cooccurrence": [
+            "bumblebees",
+            "swallowtail butterflies",
+            "red lily beetle",
+            "garden plant label",
+            "bamboo stake"
+        ],
+        "background": [
+            "cottage garden border",
+            "roadside verge",
+            "woodland edge clearing",
+            "backyard perennial bed with mulch",
+            "rain-wet foliage after a shower"
+        ]
+    },
+    "moon orchid": {
+        "action_or_pose": [
+            "budding along spike",
+            "full bloom with arching raceme",
+            "single forward-facing flower",
+            "side profile showing labellum",
+            "keiki developing on node"
+        ],
+        "invariant_features": [
+            "large white rounded tepals forming moth-like face",
+            "trilobed yellow labellum with magenta speckles",
+            "long arching raceme with widely spaced blooms",
+            "thick obovate basal leaves without pseudobulbs",
+            "silvery aerial roots with green velamen tips"
+        ],
+        "cooccurrence": [
+            "bamboo stake with orchid clips",
+            "sphagnum moss topdressing",
+            "clear ventilated orchid pot",
+            "pollinating noctuid moth",
+            "plastic plant label"
+        ],
+        "background": [
+            "humid greenhouse bench",
+            "rainforest understory on tree bark",
+            "bright east-facing windowsill",
+            "botanical garden orchid house",
+            "orchid show display stand"
+        ]
+    },
+    "bird of paradise": {
+        "action_or_pose": [
+            "single bloom emerging from the spathe",
+            "fully open flower with petals splayed",
+            "tight unopened bud with closed spathe",
+            "drooping mature inflorescence",
+            "freshly cut stem arranged in a tall vase"
+        ],
+        "invariant_features": [
+            "orange crest-like sepals",
+            "cobalt-blue tongue-shaped petals",
+            "stiff green boat-shaped spathe with red margin",
+            "bird-head silhouette perpendicular to the stem",
+            "sequential florets emerging from one spathe"
+        ],
+        "cooccurrence": [
+            "broad paddle-shaped leaves",
+            "tall glass vase",
+            "florist wrapping paper",
+            "terracotta planter",
+            "plant label stake"
+        ],
+        "background": [
+            "tropical garden bed",
+            "hotel lobby floral arrangement",
+            "greenhouse or conservatory",
+            "sunlit patio or terrace",
+            "botanical garden display"
+        ]
+    },
+    "monkshood": {
+        "action_or_pose": [
+            "upright flowering raceme",
+            "nodding hooded blooms",
+            "in tight bud",
+            "fully open hooded flower",
+            "with dried seed pods"
+        ],
+        "invariant_features": [
+            "helmet-like upper sepal forming a monk’s cowl",
+            "nectar concealed; no external spur, two spurred nectaries hidden under hood",
+            "deeply cut palmate leaves with glossy dark-green lobes",
+            "tall erect raceme of hooded blue‑violet flowers",
+            "post-bloom cluster of 3–5 leathery curved follicles"
+        ],
+        "cooccurrence": [
+            "bumblebees",
+            "plant label with toxicity warning",
+            "garden stakes",
+            "ferns",
+            "mulch"
+        ],
+        "background": [
+            "shaded woodland edge",
+            "moist garden border",
+            "alpine meadow",
+            "streambank thicket",
+            "mountain cottage garden"
+        ]
+    },
+    "globe thistle": {
+        "action_or_pose": [
+            "single upright stem with spherical bloom",
+            "clump of multiple stems in bloom",
+            "spiny bud stage before opening",
+            "dried spherical seedhead standing rigid",
+            "cut stem arranged in a vase"
+        ],
+        "invariant_features": [
+            "steel-blue spherical flowerhead",
+            "spiny radial bracts forming a globe",
+            "star-shaped blue florets densely packed",
+            "deeply lobed prickly leaves with white-felted undersides",
+            "persistent papery spherical seedheads"
+        ],
+        "cooccurrence": [
+            "honeybees",
+            "butterflies",
+            "hoverflies",
+            "ornamental grasses",
+            "lavender"
+        ],
+        "background": [
+            "sunny perennial border",
+            "dry meadow garden",
+            "rock garden",
+            "roadside verge",
+            "xeriscape planting bed"
+        ]
+    },
+    "snapdragon": {
+        "action_or_pose": [
+            "upright flowering spike",
+            "buds tightly closed along the stem",
+            "closed 'mouth' blossoms at rest",
+            "gaping 'mouth' blossoms after pressure",
+            "cut stems arranged in a vase"
+        ],
+        "invariant_features": [
+            "hinged bilabiate corolla that snaps open when pressed",
+            "bearded palate sealing the flower’s throat",
+            "skull-like dry seed capsule",
+            "erect raceme of dragon-head shaped blooms",
+            "2-lobed hooded upper lip and 3-lobed lower lip landing platform"
+        ],
+        "cooccurrence": [
+            "bumblebee",
+            "terracotta pot",
+            "watering can",
+            "plant label tag",
+            "garden trowel"
+        ],
+        "background": [
+            "cottage garden border",
+            "greenhouse bench",
+            "balcony planter box",
+            "rocky Mediterranean slope",
+            "florist shop display"
+        ]
+    },
+    "colt's foot": {
+        "action_or_pose": [
+            "solitary flower head open",
+            "closed scaly bud on leafless stem",
+            "seed head with white pappus",
+            "basal leaf rosette only",
+            "spent head nodding on stem"
+        ],
+        "invariant_features": [
+            "solitary yellow head on leafless stem clad in overlapping reddish scales",
+            "flowers appear before any leaves emerge",
+            "basal leaves hoof-shaped with angular lobes and straight basal edge",
+            "leaf undersides densely white‑tomentose, upper surface smooth green",
+            "fluffy spherical pappus head replacing flower on same scaly stem"
+        ],
+        "cooccurrence": [
+            "honey bees",
+            "bumblebees",
+            "hoverflies",
+            "bare disturbed soil",
+            "dead leaf litter"
+        ],
+        "background": [
+            "roadside verge",
+            "riverbank or stream bank",
+            "railway embankment",
+            "waste ground and rubble",
+            "damp clay field margin"
+        ]
+    },
+    "king protea": {
+        "action_or_pose": [
+            "tight bud",
+            "partially open head",
+            "full bloom facing upward",
+            "nodding downward bloom",
+            "cut stem in vase"
+        ],
+        "invariant_features": [
+            "giant bowl-shaped inflorescence (15–30 cm)",
+            "stiff triangular pink bracts with silvery-white fringed tips",
+            "high domed central mound of cream florets",
+            "artichoke-like overlapping bracts in bud",
+            "single massive head on a thick woody stem"
+        ],
+        "cooccurrence": [
+            "eucalyptus foliage",
+            "waxflower sprigs",
+            "glass vase",
+            "florist wrapping paper",
+            "wedding bouquet ribbon"
+        ],
+        "background": [
+            "South African fynbos shrubland",
+            "rocky, sandy garden bed",
+            "botanical garden display",
+            "florist studio tabletop",
+            "wedding venue decor"
+        ]
+    },
+    "spear thistle": {
+        "action_or_pose": [
+            "basal rosette on ground",
+            "erect flowering stem",
+            "closed spiny flower bud",
+            "open purple bloom facing upward",
+            "dried seedhead releasing pappus"
+        ],
+        "invariant_features": [
+            "continuous spiny leaf-wings down the stem",
+            "spear-lobed basal rosette with pale spine tips",
+            "purple heads with outward-curving spine-tipped bracts",
+            "rough bristly uppersides, white-woolly leaf undersides",
+            "cobwebby hairs on grooved, erect stems"
+        ],
+        "cooccurrence": [
+            "bumblebees",
+            "honey bees",
+            "butterflies",
+            "hoverflies",
+            "goldfinches"
+        ],
+        "background": [
+            "roadside verge",
+            "pasture field",
+            "field margin",
+            "hedgerow edge",
+            "disturbed wasteland"
+        ]
+    },
+    "yellow iris": {
+        "action_or_pose": [
+            "upright single stalk with open bloom",
+            "bud enclosed in green spathe",
+            "clump of swordlike leaves without flowers",
+            "wilted petals drooping post-bloom",
+            "erect three-sided seed pods maturing above foliage"
+        ],
+        "invariant_features": [
+            "bright yellow iris flower with three drooping falls and three upright standards",
+            "falls marked by dense brown-purple veining forming a dark signal patch",
+            "beardless falls bearing a raised crest instead of a fuzzy beard",
+            "fans of flat, swordlike leaves with a strong central midrib",
+            "erect, three-angled green seed pods held above the leaves"
+        ],
+        "cooccurrence": [
+            "cattails",
+            "reeds and rushes",
+            "dragonflies",
+            "frogs",
+            "water lilies"
+        ],
+        "background": [
+            "marsh edge",
+            "pond shoreline",
+            "slow stream bank",
+            "wet meadow",
+            "bog garden"
+        ]
+    },
+    "globe-flower": {
+        "action_or_pose": [
+            "tight bud",
+            "partially closed globe",
+            "fully globose bloom",
+            "sepals parted revealing stamens",
+            "spent bloom with forming seed head"
+        ],
+        "invariant_features": [
+            "near-spherical bloom formed by 10–15 overlapping petaloid sepals",
+            "claw-shaped nectary petals hidden inside sepal globe",
+            "numerous free carpels maturing into a multi-follicle seed head",
+            "deeply palmately lobed basal leaves with serrate margins",
+            "sepals largely closed at anthesis concealing most stamens"
+        ],
+        "cooccurrence": [
+            "hoverflies",
+            "meadow grasses",
+            "sedges",
+            "marsh marigold",
+            "buttercups (Ranunculus)"
+        ],
+        "background": [
+            "wet meadow",
+            "bog margin",
+            "stream bank",
+            "alpine or subalpine pasture",
+            "damp forest clearing"
+        ]
+    },
+    "purple coneflower": {
+        "action_or_pose": [
+            "in full bloom with reflexed rays",
+            "budding with green bracts closed",
+            "petals drooping around raised cone",
+            "petals shed, spiky seed head standing",
+            "rain-dappled at dawn"
+        ],
+        "invariant_features": [
+            "spiny copper-orange domed cone",
+            "drooping rosy-purple ray florets",
+            "rough tri-veined ovate leaves",
+            "cone of stiff triangular paleae with sharp tips",
+            "persistent bristly seed head after bloom"
+        ],
+        "cooccurrence": [
+            "honeybee",
+            "monarch butterfly",
+            "goldfinch",
+            "black-eyed susan",
+            "bee balm"
+        ],
+        "background": [
+            "prairie meadow",
+            "pollinator garden bed",
+            "roadside verge",
+            "native wildflower meadow",
+            "suburban perennial border"
+        ]
+    },
+    "peruvian lily": {
+        "action_or_pose": [
+            "in bud cluster",
+            "fully open blossoms",
+            "partially opened with curled tepals",
+            "freshly cut stems in a vase",
+            "drooping from age or heat"
+        ],
+        "invariant_features": [
+            "resupinate twisted leaves with underside facing up",
+            "bilateral symmetry with two upper tepals prominently streaked",
+            "yellow or cream throat lined with fine dark freckles",
+            "terminal umbels of multiple funnel-shaped blooms per stem",
+            "slender unbranched stems rising above foliage"
+        ],
+        "cooccurrence": [
+            "glass vase",
+            "florist wrapping paper",
+            "fern foliage",
+            "roses in mixed bouquets",
+            "pollinating bees"
+        ],
+        "background": [
+            "florist shop display",
+            "garden border bed",
+            "greenhouse bench rows",
+            "wedding reception table",
+            "macro garden foliage bokeh"
+        ]
+    },
+    "balloon flower": {
+        "action_or_pose": [
+            "unopened balloon bud",
+            "partially inflated bud",
+            "fully open, upward-facing star bloom",
+            "cluster of blooms along an erect stem",
+            "withered bloom transitioning to seed pod"
+        ],
+        "invariant_features": [
+            "inflated, balloon-like flower buds with five seam lines",
+            "five-pointed star corolla formed by fused lobes",
+            "deep blue-violet petals with dark, netted venation",
+            "five radial ridges running from center to lobe tips",
+            "five-parted, star-shaped stigma at bloom center"
+        ],
+        "cooccurrence": [
+            "bees",
+            "butterflies",
+            "garden mulch or soil",
+            "plant label stake",
+            "terracotta pot"
+        ],
+        "background": [
+            "perennial border",
+            "rock garden",
+            "cottage garden bed",
+            "patio container display",
+            "sunny herbaceous flower bed"
+        ]
+    },
+    "giant white arum lily": {
+        "action_or_pose": [
+            "in full bloom with flared spathe",
+            "tight rolled bud",
+            "upright inflorescence above foliage",
+            "nodding flower after rain",
+            "spadix dusted with pollen"
+        ],
+        "invariant_features": [
+            "waxy white trumpet spathe",
+            "thick golden-yellow spadix",
+            "glossy sagittate leaves on long petioles",
+            "flared, slightly asymmetric spathe rim",
+            "faint green blush at spathe throat"
+        ],
+        "cooccurrence": [
+            "reeds and sedges",
+            "pond edge stones",
+            "water droplets",
+            "pollinating flies",
+            "florist vase"
+        ],
+        "background": [
+            "pond margin",
+            "marshy wetland",
+            "shaded garden bed",
+            "botanical garden display",
+            "florist studio backdrop"
+        ]
+    },
+    "fire lily": {
+        "action_or_pose": [
+            "in bud (closed green bud)",
+            "full bloom with strongly reflexed tepals",
+            "climbing on support via leaf-tip tendrils",
+            "flower drooping on long pedicel",
+            "forming dry seed capsule"
+        ],
+        "invariant_features": [
+            "tendril-tipped leaves used to climb",
+            "flame-like bicolor tepals: scarlet centers with bright yellow margins",
+            "strongly reflexed, rippled tepals",
+            "paired, fingerlike V-shaped tubers",
+            "non-woody climbing lily habit"
+        ],
+        "cooccurrence": [
+            "trellis or support stake",
+            "garden fence or wire mesh",
+            "butterflies",
+            "mulch or leaf litter",
+            "potted container with potting mix"
+        ],
+        "background": [
+            "tropical garden bed",
+            "forest edge thicket",
+            "savanna grassland margin",
+            "rocky slope in warm climate",
+            "greenhouse or conservatory bench"
+        ]
+    },
+    "pincushion flower": {
+        "action_or_pose": [
+            "in tight bud on long stem",
+            "fully open bloom with domed center",
+            "partially open with ruffled outer florets",
+            "nodding on slender stem",
+            "dried spherical seed head"
+        ],
+        "invariant_features": [
+            "domed pincushion-like flower head of many small florets",
+            "exserted stamens dotting the dome like pins",
+            "enlarged, scalloped outer florets forming a ruffled collar",
+            "solitary bloom borne on a long, wiry, leafless peduncle",
+            "bristly spherical seed head with persistent calyx teeth"
+        ],
+        "cooccurrence": [
+            "bees",
+            "butterflies",
+            "flower buds",
+            "seed heads",
+            "garden plant label"
+        ],
+        "background": [
+            "cottage garden border",
+            "wildflower meadow",
+            "rock or alpine garden bed",
+            "pollinator garden",
+            "florist studio tabletop"
+        ]
+    },
+    "fritillary": {
+        "action_or_pose": [
+            "nodding solitary bloom",
+            "bell fully open facing down",
+            "bell partially open",
+            "closed drooping bud",
+            "wilted bell after flowering"
+        ],
+        "invariant_features": [
+            "chessboard-patterned tepals",
+            "snake-skin-like tessellation on petals",
+            "maroon-purple with pale pink square checkers",
+            "white morph showing faint ghost checkering",
+            "checkered pattern continuous across inner and outer tepals"
+        ],
+        "cooccurrence": [
+            "meadow grasses",
+            "bumblebees",
+            "snowdrops",
+            "daffodils",
+            "dew droplets"
+        ],
+        "background": [
+            "wet meadow",
+            "river floodplain",
+            "woodland edge",
+            "cottage garden border",
+            "wildflower lawn"
+        ]
+    },
+    "red ginger": {
+        "action_or_pose": [
+            "standing upright spike",
+            "tight bud spike",
+            "arching stem",
+            "cut stem in a vase",
+            "clustered clump in foliage"
+        ],
+        "invariant_features": [
+            "tall, torch-like spike of waxy crimson bracts",
+            "tiny white tubular flowers hidden among red bracts",
+            "narrow, tapered bract spike with sharply pointed tips",
+            "glossy lanceolate leaves on cane-like pseudostems",
+            "persistent red bracts long after true flowers fade"
+        ],
+        "cooccurrence": [
+            "ti leaves",
+            "anthurium blooms",
+            "bird-of-paradise flowers",
+            "palm fronds",
+            "florist's vase"
+        ],
+        "background": [
+            "tropical garden bed",
+            "rainforest understory",
+            "botanical greenhouse",
+            "landscaped resort garden",
+            "florist shop display"
+        ]
+    },
+    "grape hyacinth": {
+        "action_or_pose": [
+            "upright flowering spike",
+            "early bud stage with tight beads",
+            "drooping after rain or dew",
+            "dense clump with multiple spikes",
+            "cut stems arranged in a small vase"
+        ],
+        "invariant_features": [
+            "bead-like, urn-shaped blue florets",
+            "white-rimmed floret mouths",
+            "leafless flowering scape above basal leaves",
+            "grape-bunch conical flower spike",
+            "sterile, paler florets at spike tip"
+        ],
+        "cooccurrence": [
+            "tulips",
+            "daffodils",
+            "crocuses",
+            "bees",
+            "garden edging stones"
+        ],
+        "background": [
+            "spring garden borders",
+            "rock gardens",
+            "naturalized grassy lawns",
+            "woodland edges under deciduous trees",
+            "terracotta patio pots"
+        ]
+    },
+    "corn poppy": {
+        "action_or_pose": [
+            "nodding bud on a curved, hairy peduncle",
+            "full bloom with petals held cup-shaped",
+            "freshly opened with crumpled, crepe-like petals",
+            "petals shed, upright seed capsule exposed",
+            "single erect stalk flowering among cereal stems"
+        ],
+        "invariant_features": [
+            "four scarlet, crepe-textured petals with black basal blotches",
+            "narrow pale halo edging each black petal blotch",
+            "dark purple-black anthers in a tight central ring",
+            "hairless ovoid seed capsule topped by a flat star-rayed disc",
+            "slender green stems with backward-pointing bristles"
+        ],
+        "cooccurrence": [
+            "wheat stalks",
+            "barley heads",
+            "cornflower",
+            "oxeye daisy",
+            "honeybee or hoverfly"
+        ],
+        "background": [
+            "grain field margins",
+            "wildflower meadows",
+            "fallow or disturbed farmland",
+            "roadside verges",
+            "open temperate fields"
+        ]
+    },
+    "prince of wales feathers": {
+        "action_or_pose": [
+            "in full bloom with upright conical plumes",
+            "developing tight buds at plume tips",
+            "spent plumes drying to papery seedheads",
+            "plumes slightly drooping after rainfall",
+            "clustered, uniform-height bedding display"
+        ],
+        "invariant_features": [
+            "upright conical, plume-like inflorescences of the plumosa cockscomb type (non-cristata)",
+            "silky feathery texture from densely packed filamentous florets",
+            "compact bedding habit with multiple terminal and upper axillary plumes",
+            "plumes that retain shape and much of their color when dried",
+            "glabrous lanceolate leaves with faint maroon midrib beneath vivid plumes"
+        ],
+        "cooccurrence": [
+            "marigolds",
+            "coleus",
+            "dusty miller",
+            "plant labels",
+            "pollinator bees"
+        ],
+        "background": [
+            "formal public park flowerbeds",
+            "sunny ornamental borders",
+            "nursery greenhouse benches",
+            "container gardens on patios",
+            "urban roundabout plantings"
+        ]
+    },
+    "stemless gentian": {
+        "action_or_pose": [
+            "in bloom with fully open trumpet",
+            "closed corolla under overcast light",
+            "bud emerging from basal rosette",
+            "dew-covered morning flower",
+            "partially shaded beneath alpine grasses"
+        ],
+        "invariant_features": [
+            "solitary, stemless trumpet flower at ground level",
+            "corolla throat marked with olive-green spots or stripes",
+            "five blue lobes separated by folded plicae",
+            "tight basal rosette of glossy, leathery lanceolate leaves",
+            "intense gentian-blue funnel with a five-pointed mouth"
+        ],
+        "cooccurrence": [
+            "alpine bumblebees",
+            "moss cushions",
+            "alpine grasses",
+            "saxifrage plants",
+            "granitic rocks"
+        ],
+        "background": [
+            "alpine meadow on acidic soil",
+            "subalpine pasture with scattered rocks",
+            "mossy turf near snowmelt patches",
+            "open coniferous forest edge in mountains",
+            "rocky alpine garden bed"
+        ]
+    },
+    "artichoke": {
+        "action_or_pose": [
+            "closed bud on upright stem",
+            "partially opened bracts",
+            "fully opened purple florets",
+            "harvested head on cut stem",
+            "dried seed head on stalk"
+        ],
+        "invariant_features": [
+            "globose head of overlapping fleshy bracts",
+            "spiny-tipped triangular bracts",
+            "thick edible receptacle (heart)",
+            "silvery-green deeply lobed leaves with white tomentum",
+            "central fibrous choke above the heart"
+        ],
+        "cooccurrence": [
+            "bees on florets",
+            "aphids on stems",
+            "plant label stakes",
+            "drip irrigation tubing",
+            "mulch at the base"
+        ],
+        "background": [
+            "cultivated field rows",
+            "backyard garden beds",
+            "botanical garden plots with ID signs",
+            "greenhouse benches",
+            "Mediterranean-climate landscapes"
+        ]
+    },
+    "sweet william": {
+        "action_or_pose": [
+            "tight bud stage",
+            "full domed cluster in bloom",
+            "post-bloom seed set",
+            "upright stems holding flat-topped head",
+            "drooping cluster after rain"
+        ],
+        "invariant_features": [
+            "flat-topped capitate cyme of tightly packed five-petaled florets",
+            "petals with fine serrations and a contrasting central 'eye' ring",
+            "green lanceolate epicalyx bracts forming a ruff beneath the cluster",
+            "spicy clove fragrance characteristic of Dianthus barbatus",
+            "biennial habit: first-year basal rosette, second-year flowering stems"
+        ],
+        "cooccurrence": [
+            "honeybees",
+            "butterflies",
+            "plant label stakes",
+            "mulch",
+            "vase of cut stems"
+        ],
+        "background": [
+            "cottage garden border",
+            "rock garden",
+            "sunny flower bed",
+            "nursery greenhouse bench",
+            "indoor bouquet setting"
+        ]
+    },
+    "carnation": {
+        "action_or_pose": [
+            "tight bud on stem",
+            "half-open bloom",
+            "full ruffled bloom",
+            "wilted head drooping",
+            "cut stem upright in vase"
+        ],
+        "invariant_features": [
+            "deeply fringed petal margins",
+            "clove-like spicy scent",
+            "glaucous blue-green opposite linear leaves",
+            "slender wiry stem with distinct nodes",
+            "tubular calyx with 4–8 epicalyx bracts"
+        ],
+        "cooccurrence": [
+            "baby's breath",
+            "florist ribbon",
+            "cellophane wrap",
+            "corsage pin",
+            "floral foam"
+        ],
+        "background": [
+            "florist shop display cooler",
+            "wedding reception hall",
+            "home dining table",
+            "garden border",
+            "memorial wreath at cemetery"
+        ]
+    },
+    "garden phlox": {
+        "action_or_pose": [
+            "in full bloom",
+            "forming tight buds",
+            "upright multi-stem clump",
+            "flower clusters drooping after rain",
+            "partially wilted in midday heat"
+        ],
+        "invariant_features": [
+            "domed terminal panicles of salverform five-lobed florets",
+            "opposite lanceolate leaves, mostly sessile on smooth tall stems",
+            "clump-forming, non-creeping habit (no stolons)",
+            "sweet evening fragrance from narrow-tubed corollas",
+            "contrasting darker central eye on each floret"
+        ],
+        "cooccurrence": [
+            "butterflies",
+            "bees",
+            "hummingbirds",
+            "mulch",
+            "plant stakes"
+        ],
+        "background": [
+            "perennial border",
+            "cottage garden",
+            "backyard flower bed",
+            "botanical garden bed",
+            "along a picket fence"
+        ]
+    },
+    "love in the mist": {
+        "action_or_pose": [
+            "upright stem in full bloom",
+            "tight bud with bract collar visible",
+            "spent blossom transitioning to seed pod",
+            "inflated seed capsule standing erect",
+            "freshly cut stem arranged in a vase"
+        ],
+        "invariant_features": [
+            "dense, feathery bract collar forming a 'mist' around bloom",
+            "star-shaped petaloid sepals (showy sepals, not petals)",
+            "crown of 5–10 curved, hornlike styles",
+            "inflated, ribbed seed capsule with long horned projections",
+            "slender threadleaf foliage along upright stems"
+        ],
+        "cooccurrence": [
+            "honeybee",
+            "butterfly",
+            "vase",
+            "plant label stake",
+            "cornflower"
+        ],
+        "background": [
+            "cottage garden border",
+            "wildflower meadow patch",
+            "raised garden bed",
+            "terracotta pot on patio",
+            "indoor table as cut-flower arrangement"
+        ]
+    },
+    "mexican aster": {
+        "action_or_pose": [
+            "single upright stem with solitary bloom",
+            "branching spray with multiple blooms",
+            "bud stage before opening",
+            "spent flower forming spiky seed head",
+            "drooping flower head after rain"
+        ],
+        "invariant_features": [
+            "featherlike bipinnate opposite leaves",
+            "solitary daisy-like head on long hairless peduncle",
+            "broad ray florets with a distinct central notch",
+            "yellow button-like disc with 8–10 surrounding rays",
+            "long needle-like achenes with two awns on seed head"
+        ],
+        "cooccurrence": [
+            "honeybee",
+            "butterfly",
+            "hoverfly",
+            "watering can",
+            "garden stake"
+        ],
+        "background": [
+            "sunny cottage garden bed",
+            "wildflower meadow",
+            "community garden plot",
+            "roadside verge",
+            "cut-flower bouquet indoors"
+        ]
+    },
+    "alpine sea holly": {
+        "action_or_pose": [
+            "upright flowering stalks",
+            "basal rosette of leaves",
+            "full bloom with frilled bract ruff displayed",
+            "spent seedhead drying on stem",
+            "clump-forming between rocks"
+        ],
+        "invariant_features": [
+            "steel-blue feathery bract ruff encircling cone",
+            "ovoid spiky central cone of tiny blue florets",
+            "metallic blue to blue-green stems",
+            "basal rosette of heart-shaped toothed leaves",
+            "bracts longer than cone, finely fringed and prickly"
+        ],
+        "cooccurrence": [
+            "bees",
+            "butterflies",
+            "hoverflies",
+            "alpine grasses",
+            "angular scree stones"
+        ],
+        "background": [
+            "alpine meadow",
+            "rock garden",
+            "scree slope",
+            "mountain hillside",
+            "sunny perennial border"
+        ]
+    },
+    "ruby-lipped cattleya": {
+        "action_or_pose": [
+            "in bud sheath",
+            "single bloom fully open with flared lip",
+            "newly opened flower with slightly cupped petals",
+            "multi-flower spike held upright",
+            "spent blossoms with browning margins"
+        ],
+        "invariant_features": [
+            "deep ruby-crimson ruffled lip with golden-yellow throat ‘eyes’",
+            "broad lavender‑pink petals larger than sepals",
+            "single thick leathery leaf per pseudobulb",
+            "terminal inflorescence emerging from a papery bud sheath",
+            "wavy petal margins on large corsage-sized flowers"
+        ],
+        "cooccurrence": [
+            "orchid bark potting mix",
+            "bamboo stake and orchid clips",
+            "plastic nursery pot",
+            "plant name tag",
+            "humidity tray with pebbles"
+        ],
+        "background": [
+            "tropical greenhouse bench",
+            "orchid show display table",
+            "nursery shade house",
+            "indoor windowsill grow area",
+            "rainforest tree trunk or branch (epiphytic setting)"
+        ]
+    },
+    "cape flower": {
+        "action_or_pose": [
+            "in full bloom",
+            "bud stage",
+            "partially open flower",
+            "wilted bloom drooping",
+            "cut stem displayed in water"
+        ],
+        "invariant_features": [
+            "scarlet hooded dorsal sepal",
+            "long backward-pointing nectar spur",
+            "single large flower on a leafless stalk",
+            "broad veined lateral sepals spreading like wings",
+            "yellow-green central column recessed under the hood"
+        ],
+        "cooccurrence": [
+            "Table Mountain Beauty butterfly",
+            "sphagnum moss",
+            "wet sandstone rocks",
+            "ferns and restios",
+            "plant identification label"
+        ],
+        "background": [
+            "fynbos stream margins",
+            "rocky seepage on mountain slopes",
+            "botanical garden greenhouse bench",
+            "shaded ravine with dripping water",
+            "close-up studio black backdrop"
+        ]
+    },
+    "great masterwort": {
+        "action_or_pose": [
+            "umbels fully open and upward-facing",
+            "tight bud stage before bracts spread",
+            "drooping slightly under raindrops",
+            "multiple starry umbels on a branched stem",
+            "freshly cut stems standing in a vase"
+        ],
+        "invariant_features": [
+            "flat, star-shaped collar of 8–20 papery bracts around each umbel",
+            "hemispherical pincushion of densely packed tiny florets",
+            "translucent bracts with dark, radiating green-to-rose veins",
+            "sharply pointed bract tips extending beyond the outer florets",
+            "long protruding stamens giving a pinhead appearance"
+        ],
+        "cooccurrence": [
+            "bees",
+            "hoverflies",
+            "hosta leaves",
+            "ferns",
+            "vase"
+        ],
+        "background": [
+            "shaded woodland border",
+            "moist, humus-rich garden bed",
+            "European mountain meadow",
+            "cottage garden planting",
+            "florist workbench backdrop"
+        ]
+    },
+    "siam tulip": {
+        "action_or_pose": [
+            "upright conical inflorescence",
+            "bud stage with compact green bracts",
+            "full bloom with pink bracts",
+            "slightly drooping after rain",
+            "cut stem in a vase"
+        ],
+        "invariant_features": [
+            "conical spike of pink sterile bracts",
+            "green-tipped bract apices",
+            "tiny white to lilac flowers hidden in bract axils",
+            "upper bracts vivid pink, lower bracts greenish",
+            "tight, overlapping bracts forming a smooth turret"
+        ],
+        "cooccurrence": [
+            "terracotta pot",
+            "plant label stake",
+            "greenhouse bench",
+            "watering can",
+            "butterfly"
+        ],
+        "background": [
+            "Thai meadow during rainy season",
+            "tropical garden bed with mulch",
+            "nursery greenhouse rows",
+            "indoor windowsill display",
+            "floral market stall"
+        ]
+    },
+    "lenten rose": {
+        "action_or_pose": [
+            "in bud",
+            "nodding downward in bloom",
+            "outward-facing bloom",
+            "clustered basal clump",
+            "green seed pods forming"
+        ],
+        "invariant_features": [
+            "ring of tubular nectaries around stamens",
+            "five thick, persistent petaloid sepals",
+            "acaulescent basal clump; blooms from ground-level crown",
+            "evergreen palmate leaves with 7–9 serrated leathery leaflets",
+            "late-winter nodding bowl-shaped flowers, often speckled"
+        ],
+        "cooccurrence": [
+            "mulch or leaf litter",
+            "garden label stake",
+            "snowdrops",
+            "bumblebees",
+            "daffodil foliage"
+        ],
+        "background": [
+            "shaded woodland garden bed",
+            "understory beneath deciduous trees",
+            "rock garden edge",
+            "mulched border by a path",
+            "snow-dusted soil"
+        ]
+    },
+    "barbeton daisy": {
+        "action_or_pose": [
+            "tight bud",
+            "half-open bloom",
+            "full bloom facing light",
+            "drooping spent head",
+            "cut stem in vase"
+        ],
+        "invariant_features": [
+            "solitary capitulum on leafless hairy scape",
+            "basal rosette of lobed, woolly-backed leaves",
+            "broad strap-shaped ray florets in vivid solid hues",
+            "bilabiate disk florets forming a tight central eye",
+            "two-ranked involucral bracts forming a shallow cup"
+        ],
+        "cooccurrence": [
+            "honeybee",
+            "butterfly",
+            "terracotta pot",
+            "nursery plant tag",
+            "florist's wrapping paper"
+        ],
+        "background": [
+            "greenhouse bench",
+            "garden border",
+            "patio container",
+            "florist shop display",
+            "rocky grassland bed"
+        ]
+    },
+    "daffodil": {
+        "action_or_pose": [
+            "full bloom, corona forward-facing",
+            "partially opened bud",
+            "nodding head on upright stem",
+            "clustered clump of blooms",
+            "cut stem standing in a vase"
+        ],
+        "invariant_features": [
+            "trumpet-shaped central corona",
+            "six flat tepals around the corona",
+            "leafless hollow scape (flowering stem)",
+            "papery brown spathe at bloom base",
+            "frilled or scalloped corona rim"
+        ],
+        "cooccurrence": [
+            "strap-like basal leaves",
+            "spring grass",
+            "garden mulch or soil",
+            "bees and hoverflies",
+            "other spring bulbs (tulips, hyacinths)"
+        ],
+        "background": [
+            "spring garden bed",
+            "meadow lawn",
+            "woodland edge",
+            "rock garden",
+            "indoor tabletop with vase"
+        ]
+    },
+    "sword lily": {
+        "action_or_pose": [
+            "in tight buds along the spike",
+            "half-open florets ascending the stem",
+            "full bloom on a one-sided spike",
+            "drooping spike under flower weight",
+            "cut stems standing upright in a vase"
+        ],
+        "invariant_features": [
+            "fan of sword-shaped leaves from a corm",
+            "tall unbranched spike with unilateral florets",
+            "two green bracts subtending each floret",
+            "fibrous netted tunic covering the corm",
+            "six ruffled tepals forming a funnel-shaped bloom"
+        ],
+        "cooccurrence": [
+            "tall glass vase",
+            "cellophane bouquet wrap",
+            "garden stake with soft ties",
+            "floral foam block",
+            "honey bee"
+        ],
+        "background": [
+            "formal garden border",
+            "florist shop display",
+            "cut-flower market stall",
+            "wedding venue decor",
+            "greenhouse bench"
+        ]
+    },
+    "poinsettia": {
+        "action_or_pose": [
+            "upright potted specimen",
+            "multi-head pruned canopy",
+            "clustered in nursery rows",
+            "wrapped in decorative foil sleeve",
+            "table centerpiece arrangement"
+        ],
+        "invariant_features": [
+            "large colored bracts forming a star rosette",
+            "central ring of tiny yellow cup-shaped cyathia",
+            "crescent yellow-green nectar glands on cyathia",
+            "milky white latex sap from cuts",
+            "woody stems with opposite, ovate dark-green leaves"
+        ],
+        "cooccurrence": [
+            "decorative foil pot cover",
+            "plastic nursery pot",
+            "care tag or price label",
+            "holiday ribbon or bow",
+            "other holiday plants (amaryllis, Christmas cactus)"
+        ],
+        "background": [
+            "holiday-decorated living room",
+            "garden center greenhouse bench",
+            "church altar display",
+            "office lobby arrangement",
+            "tropical outdoor garden bed"
+        ]
+    },
+    "bolero deep blue": {
+        "action_or_pose": [
+            "fully open bloom facing forward",
+            "partially opened bud",
+            "drooping head after rain",
+            "clustered in a compact mound",
+            "potted in a nursery container"
+        ],
+        "invariant_features": [
+            "deep cobalt-blue velvety petals",
+            "dark face-like blotch at petal bases",
+            "tiny bright yellow central eye",
+            "five overlapping rounded petals",
+            "scalloped obovate leaves in a low rosette"
+        ],
+        "cooccurrence": [
+            "plant tag labeled \"Bolero Deep Blue\"",
+            "plastic nursery pot",
+            "greenhouse propagation tray",
+            "bees or hoverflies",
+            "primrose companions"
+        ],
+        "background": [
+            "greenhouse bench rows",
+            "garden bed border",
+            "window box planter",
+            "rock garden edging",
+            "retail nursery display"
+        ]
+    },
+    "wallflower": {
+        "action_or_pose": [
+            "in full bloom on upright racemes",
+            "tight bud stage at stem tips",
+            "spent flowers with elongating seed pods",
+            "leaning clump against a wall",
+            "low evergreen foliage mound"
+        ],
+        "invariant_features": [
+            "woody subshrub base with upright leafy shoots",
+            "cruciform four-petaled blooms in bronze-orange to russet",
+            "age-shifting petals from mauve buds to coppery tones",
+            "long ascending siliques after flowering",
+            "tetradynamous stamens (4 long, 2 short)"
+        ],
+        "cooccurrence": [
+            "tulips",
+            "daffodils",
+            "pansies",
+            "bees",
+            "stone wall"
+        ],
+        "background": [
+            "cottage garden border",
+            "old stone wall or masonry crevice",
+            "rock garden",
+            "terracotta planter",
+            "sunny courtyard bed"
+        ]
+    },
+    "marigold": {
+        "action_or_pose": [
+            "upright in full bloom",
+            "tight green bud",
+            "drooping, heat-wilted head",
+            "cluster of double flower heads on one plant",
+            "cut stem laid flat"
+        ],
+        "invariant_features": [
+            "spicy, resinous leaf scent (Tagetes)",
+            "pinnate leaves with sharply serrated leaflets",
+            "ruffled, crested double flower heads",
+            "orange petals with mahogany-brown banding",
+            "black needle-like seeds with a pale tuft"
+        ],
+        "cooccurrence": [
+            "bees",
+            "ladybugs",
+            "tomato plants",
+            "terracotta pots",
+            "watering can"
+        ],
+        "background": [
+            "sunny garden border",
+            "vegetable garden rows",
+            "patio planters",
+            "nursery bench at a garden center",
+            "Día de Muertos altar"
+        ]
+    },
+    "buttercup": {
+        "action_or_pose": [
+            "tight bud on stem",
+            "single bloom fully open",
+            "petals cupped upward",
+            "nodding head after rain",
+            "upright on slender stalk"
+        ],
+        "invariant_features": [
+            "mirror-gloss yellow petals",
+            "basal nectar pit with tiny scale",
+            "yellow chin reflection (buttercup test)",
+            "smooth beaked achenes in spherical head",
+            "five slightly notched petals"
+        ],
+        "cooccurrence": [
+            "meadow grasses",
+            "clover",
+            "daisies",
+            "honeybees",
+            "hoverflies"
+        ],
+        "background": [
+            "spring meadow",
+            "pasture field",
+            "stream bank",
+            "sunny lawn",
+            "hedgerow verge"
+        ]
+    },
+    "oxeye daisy": {
+        "action_or_pose": [
+            "upright solitary bloom on leafless stalk",
+            "partially opened bud",
+            "withered rays around developing seed head",
+            "bent stem after rain",
+            "dense patch of multiple blooms"
+        ],
+        "invariant_features": [
+            "single terminal capitulum 3–5 cm with 20–30 white rays and yellow disc",
+            "naked receptacle lacking chaff scales",
+            "black 10-ribbed achenes without pappus",
+            "basal leaves spatulate with petioles; upper leaves sessile, coarsely serrate",
+            "narrow green phyllaries with brown, scarious margins"
+        ],
+        "cooccurrence": [
+            "meadow grasses",
+            "hoverflies",
+            "honey bees",
+            "common buttercups",
+            "clover blossoms"
+        ],
+        "background": [
+            "wildflower meadow",
+            "roadside verge",
+            "pasture edge",
+            "field margin",
+            "open woodland clearing"
+        ]
+    },
+    "common dandelion": {
+        "action_or_pose": [
+            "upright yellow bloom open",
+            "closed green bud on hollow stem",
+            "intact white puffball seed head",
+            "partially blown seed head",
+            "flat basal rosette of leaves"
+        ],
+        "invariant_features": [
+            "hollow leafless stem exuding white latex",
+            "deeply toothed basal leaves with lobes pointing toward base",
+            "single golden-yellow head of only ligulate florets (no disc florets)",
+            "downward-reflexed outer involucral bracts",
+            "spherical white pappus puffball of beaked achenes"
+        ],
+        "cooccurrence": [
+            "grass blades",
+            "white clover",
+            "honeybee",
+            "ladybug",
+            "mown lawn clippings"
+        ],
+        "background": [
+            "urban sidewalk cracks",
+            "suburban lawn",
+            "meadow grassland",
+            "roadside verge",
+            "park edges"
+        ]
+    },
+    "petunia": {
+        "action_or_pose": [
+            "in full bloom with flared petals",
+            "tight bud before opening",
+            "wilting and drooping after heat",
+            "trailing over a hanging basket rim",
+            "compact mound in a planter"
+        ],
+        "invariant_features": [
+            "funnel-shaped, five-lobed corolla with dark radial veins",
+            "slightly sticky, fine-hairy leaves and stems",
+            "white starburst pattern across colored petals",
+            "galaxy-like white speckles on deep purple petals",
+            "long cascading stems in trailing cultivars"
+        ],
+        "cooccurrence": [
+            "hanging basket",
+            "window box",
+            "watering can",
+            "bee",
+            "plant label stake"
+        ],
+        "background": [
+            "sunny garden bed",
+            "porch or balcony",
+            "greenhouse bench",
+            "nursery display",
+            "street-side planter"
+        ]
+    },
+    "wild pansy": {
+        "action_or_pose": [
+            "fully open bloom facing upward",
+            "half-open bud",
+            "drooping head after rain",
+            "sun-facing orientation",
+            "single bloom on slender stalk above foliage"
+        ],
+        "invariant_features": [
+            "tri-colored face: violet upper, white lateral, yellow lower",
+            "dark nectar-guide lines on lower yellow petal",
+            "short blunt spur behind lower petal",
+            "deeply lobed, leaflike stipules at leaf bases",
+            "bearded lateral petals (fine hairs inside)"
+        ],
+        "cooccurrence": [
+            "honeybee",
+            "hoverfly",
+            "grass blades",
+            "clover leaves",
+            "buttercup flowers"
+        ],
+        "background": [
+            "sunny meadow",
+            "pasture edge",
+            "roadside verge",
+            "sandy coastal dune",
+            "garden bed"
+        ]
+    },
+    "primula": {
+        "action_or_pose": [
+            "basal rosette forming",
+            "open bloom on leafless scape",
+            "nodding flower heads after rain",
+            "tight bud stage",
+            "spent flowers setting seed capsules"
+        ],
+        "invariant_features": [
+            "pin-and-thrum heterostyly",
+            "powdery farina on leaves or calyx",
+            "wrinkled basal rosette with crenate margins",
+            "five-lobed salverform corolla with yellow eye",
+            "flowers borne on leafless scapes from rosette"
+        ],
+        "cooccurrence": [
+            "mossy stones",
+            "ferns",
+            "hellebores",
+            "snowdrops",
+            "plant label stake"
+        ],
+        "background": [
+            "shaded woodland floor",
+            "alpine rock garden",
+            "streamside bank",
+            "cool, moist garden border",
+            "spring meadow edge"
+        ]
+    },
+    "sunflower": {
+        "action_or_pose": [
+            "upright stalk with head facing the sun",
+            "fully open rays spread flat",
+            "bud enclosed by green bracts",
+            "heavy seed head drooping downward",
+            "mature head fixed east-facing"
+        ],
+        "invariant_features": [
+            "large circular capitulum with visible double-spiral seed pattern",
+            "mature head typically fixed east-facing",
+            "dark brown to black disk densely packed with achenes",
+            "bright golden-yellow ray florets forming a single outer ring",
+            "thick pithy ridged stem supporting a solitary terminal head"
+        ],
+        "cooccurrence": [
+            "honeybees",
+            "bumblebees",
+            "goldfinches",
+            "garden stakes",
+            "watering cans"
+        ],
+        "background": [
+            "vast agricultural sunflower fields",
+            "home garden beds",
+            "rural roadside verges",
+            "open prairie meadows",
+            "community garden plots"
+        ]
+    },
+    "pelargonium": {
+        "action_or_pose": [
+            "upright in pot with blooms",
+            "trailing over window box edge",
+            "tight bud clusters",
+            "deadheaded flower stalks",
+            "wilting leaves under midday sun"
+        ],
+        "invariant_features": [
+            "two larger, veined upper petals above three narrower lower petals",
+            "elongated rear nectar tube (hypanthium spur)",
+            "horseshoe-shaped dark zone on rounded leaves",
+            "fragrant oil-gland dotted leaves (rose or citrus scent)",
+            "seven fertile stamens with unequal curved filaments"
+        ],
+        "cooccurrence": [
+            "terracotta pot",
+            "window box planter",
+            "watering can",
+            "plant label",
+            "bees"
+        ],
+        "background": [
+            "sunny balcony",
+            "cottage garden border",
+            "greenhouse bench",
+            "urban windowsill",
+            "Mediterranean courtyard"
+        ]
+    },
+    "bishop of llandaff": {
+        "action_or_pose": [
+            "in full bloom",
+            "budding stage",
+            "wilting after flowering",
+            "deadheaded stems with new buds",
+            "cut flowers in a vase"
+        ],
+        "invariant_features": [
+            "scarlet single blooms against near-black foliage",
+            "mahogany-bronze, deeply divided leaves",
+            "exposed golden-yellow pollen ring",
+            "dark burgundy to black stems",
+            "tall upright habit around one meter"
+        ],
+        "cooccurrence": [
+            "bees",
+            "butterflies",
+            "bamboo stakes",
+            "plant labels",
+            "terracotta pots"
+        ],
+        "background": [
+            "sunny mixed border in a cottage garden",
+            "pollinator-friendly perennial bed",
+            "nursery greenhouse benches",
+            "allotment or cutting garden rows",
+            "patio containers on a terrace"
+        ]
+    },
+    "gaura": {
+        "action_or_pose": [
+            "basal rosette before flowering",
+            "upright wand-like inflorescences",
+            "open bloom with four petals",
+            "cluster of closed reddish buds",
+            "spent blooms forming beadlike pods"
+        ],
+        "invariant_features": [
+            "four obovate petals that age from white to pink",
+            "long exserted stamens and style beyond petals",
+            "four-branched X-shaped stigma",
+            "wiry reddish stems with widely spaced flowers",
+            "beadlike cylindrical seed pods along the spike"
+        ],
+        "cooccurrence": [
+            "ornamental grasses",
+            "salvia",
+            "echinacea",
+            "bees",
+            "plant label stakes"
+        ],
+        "background": [
+            "sunny cottage garden border",
+            "prairie-style meadow",
+            "xeric gravel bed",
+            "roadsides in Texas and the Southwest",
+            "rock garden edge"
+        ]
+    },
+    "geranium": {
+        "action_or_pose": [
+            "in terracotta pot",
+            "trailing from hanging basket",
+            "spilling over a window box",
+            "upright bloom clusters on long peduncles",
+            "pruned back after flowering"
+        ],
+        "invariant_features": [
+            "leaf with dark zonal band",
+            "larger patterned upper petals",
+            "stork's-bill beaked fruit with coiling awns",
+            "rear-pointing nectar spur fused to pedicel",
+            "succulent stems with swollen nodes"
+        ],
+        "cooccurrence": [
+            "terracotta pot",
+            "window box",
+            "hanging basket",
+            "watering can",
+            "potting soil"
+        ],
+        "background": [
+            "sunlit balcony",
+            "cottage garden border",
+            "Mediterranean courtyard",
+            "urban windowsill",
+            "greenhouse bench"
+        ]
+    },
+    "orange dahlia": {
+        "action_or_pose": [
+            "in full bloom facing forward",
+            "side-facing bloom on long stem",
+            "new bud about to open",
+            "freshly cut flower in vase",
+            "drooping head after rainfall"
+        ],
+        "invariant_features": [
+            "hollow, grooved stems arising from tuberous root clumps",
+            "opposite, pinnate leaves with serrated ovate leaflets",
+            "double capitulum with orange ray florets obscuring the disc",
+            "concentric, symmetrically overlapping petals forming a near-spherical head",
+            "two-tiered involucre with inner bracts and an outer leafy calyculus"
+        ],
+        "cooccurrence": [
+            "green foliage",
+            "garden stake or support",
+            "bees or butterflies",
+            "plant label or marker",
+            "terracotta pot or planter"
+        ],
+        "background": [
+            "ornamental garden bed",
+            "flower border with mixed perennials",
+            "cut-flower farm rows",
+            "greenhouse bench",
+            "florist workspace or studio"
+        ]
+    },
+    "pink-yellow dahlia": {
+        "action_or_pose": [
+            "fully open bloom facing the sun",
+            "half-open bud stage",
+            "drooping head after rainfall",
+            "cut stem arranged in a bouquet",
+            "single upright stem with leaves"
+        ],
+        "invariant_features": [
+            "pink margins fading to yellow petal bases",
+            "fully double flower with center completely obscured",
+            "concentric rosette of tightly packed ray florets",
+            "rounded, globular bloom profile",
+            "slightly cupped or quilled petal tips"
+        ],
+        "cooccurrence": [
+            "honeybees",
+            "butterflies",
+            "bamboo garden stake with tie",
+            "unopened dahlia buds",
+            "mulched garden soil"
+        ],
+        "background": [
+            "ornamental garden bed",
+            "cut-flower vase indoors",
+            "botanical garden border",
+            "greenhouse benches",
+            "cottage garden pathway"
+        ]
+    },
+    "cautleya spicata": {
+        "action_or_pose": [
+            "upright flowering spike",
+            "tight bud stage",
+            "spent inflorescence with exposed blue seeds",
+            "new shoot emerging from rhizome",
+            "leaves arching after rainfall"
+        ],
+        "invariant_features": [
+            "bright yellow flowers protruding from deep red bracts",
+            "long red tubular calyx extending beyond petals",
+            "metallic blue seeds displayed in split red-orange capsules",
+            "compact terminal spike held above pleated leaves",
+            "distichous pleated leaves on annual pseudostems"
+        ],
+        "cooccurrence": [
+            "ferns",
+            "hosta foliage",
+            "leaf mulch",
+            "bumblebees",
+            "plant label stake"
+        ],
+        "background": [
+            "moist woodland edge",
+            "part-shade garden bed",
+            "Himalayan understory slope",
+            "streamside border",
+            "shaded patio container"
+        ]
+    },
+    "japanese anemone": {
+        "action_or_pose": [
+            "single bloom fully open, facing forward",
+            "clustered blooms on tall wiry stems",
+            "nodding spherical buds before opening",
+            "semi-open flower with cupped sepals",
+            "spent bloom with fluffy seedhead"
+        ],
+        "invariant_features": [
+            "five to seven broad petaloid sepals (no true petals)",
+            "ring of bright yellow stamens around green button-like center",
+            "tall wiry branching stems bearing spaced blooms",
+            "deeply lobed ternate basal leaves with toothed margins",
+            "silky cottony seedheads after flowering"
+        ],
+        "cooccurrence": [
+            "bees",
+            "butterflies",
+            "plant label stake",
+            "support ring or garden stake",
+            "garden mulch"
+        ],
+        "background": [
+            "shaded garden border",
+            "woodland edge",
+            "cottage garden bed",
+            "mixed perennial border",
+            "beside a stone wall"
+        ]
+    },
+    "black-eyed susan": {
+        "action_or_pose": [
+            "upright bloom with petals radiating",
+            "drooping flower head after rain",
+            "tight green bud before opening",
+            "seed head exposed with petals spent",
+            "clustered patch of multiple stalks"
+        ],
+        "invariant_features": [
+            "dark almost-black domed central disk (black eye)",
+            "bright golden-yellow ray florets with slightly notched tips",
+            "sandpapery, bristly stems and leaves",
+            "single large daisy-like bloom per tall unbranched stem",
+            "cone-shaped dark seed head of tightly packed achenes"
+        ],
+        "cooccurrence": [
+            "honeybees",
+            "butterflies",
+            "purple coneflower",
+            "garden mulch",
+            "plant label stake"
+        ],
+        "background": [
+            "prairie meadow",
+            "roadside verge",
+            "backyard perennial border",
+            "wildflower field",
+            "community garden bed"
+        ]
+    },
+    "silverbush": {
+        "action_or_pose": [
+            "in full bloom",
+            "in tight bud",
+            "windswept",
+            "pruned compact",
+            "potted on patio"
+        ],
+        "invariant_features": [
+            "silky silver lanceolate leaves with dense tomentum",
+            "white funnelform blooms with bright yellow throat",
+            "pink-tinged buds that whiten on opening",
+            "compact dome-shaped evergreen subshrub habit",
+            "silky-hairy sepals tightly cupping the bud"
+        ],
+        "cooccurrence": [
+            "bees",
+            "butterflies",
+            "gravel mulch",
+            "terracotta pot",
+            "lavender"
+        ],
+        "background": [
+            "Mediterranean rock garden",
+            "coastal garden bed",
+            "sunny gravel border",
+            "patio container setting",
+            "well-drained sandy slope"
+        ]
+    },
+    "californian poppy": {
+        "action_or_pose": [
+            "fully open bloom facing sun",
+            "petals closed in cool/cloudy light",
+            "nodding bud with conical cap",
+            "half-open petals during early bloom",
+            "post-bloom with erect slender seed pod"
+        ],
+        "invariant_features": [
+            "calyptrate conical bud cap that detaches in one piece",
+            "satiny vivid orange petals with darker basal wedge",
+            "bluish-glaucous finely dissected basal leaves with threadlike lobes",
+            "slender beaked seed capsule that splits lengthwise and flings seeds",
+            "dense tuft of bright yellow stamens around a pale conical stigma"
+        ],
+        "cooccurrence": [
+            "honeybees",
+            "bumblebees",
+            "hoverflies",
+            "lupine flowers",
+            "garden plant label"
+        ],
+        "background": [
+            "coastal California hillside",
+            "roadside verge in spring",
+            "rock or xeriscape garden",
+            "oak woodland edge",
+            "desert wash with sandy gravel"
+        ]
+    },
+    "osteospermum": {
+        "action_or_pose": [
+            "fully open facing the sun",
+            "half-open in cool light",
+            "tight bud stage",
+            "wilting after bloom",
+            "clustered blooms in a potted mound"
+        ],
+        "invariant_features": [
+            "spoon-tipped ray florets",
+            "metallic blue-purple central disc with orange pollen dots",
+            "two-tone petals with darker purple underside",
+            "dark eye ring encircling blue center",
+            "pinwheel-twisted narrow rays"
+        ],
+        "cooccurrence": [
+            "honeybees",
+            "butterflies",
+            "terracotta pots",
+            "plant labels",
+            "garden mulch"
+        ],
+        "background": [
+            "nursery bench",
+            "patio container garden",
+            "flower bed border",
+            "rock garden",
+            "coastal garden"
+        ]
+    },
+    "spring crocus": {
+        "action_or_pose": [
+            "emerging through snow",
+            "tight bud above soil",
+            "fully open bloom facing the sun",
+            "closed bloom in cold or shade",
+            "clustered clump of blooms"
+        ],
+        "invariant_features": [
+            "grass-like leaves with a bright white midrib",
+            "three vivid orange stigma branches rising above three yellow anthers",
+            "ground-level, stemless-looking goblet flower from a long subterranean perianth tube",
+            "solitary six-tepal bloom borne from a small corm with a papery tunic",
+            "lilac to purple tepals marked with distinct darker longitudinal pinstripes"
+        ],
+        "cooccurrence": [
+            "honey bees",
+            "bumblebees",
+            "snow patches",
+            "grass blades",
+            "rock garden stones"
+        ],
+        "background": [
+            "mulched garden beds",
+            "grassy lawns",
+            "rock gardens",
+            "woodland edges with leaf litter",
+            "alpine meadows"
+        ]
+    },
+    "bearded iris": {
+        "action_or_pose": [
+            "full bloom with upright standards and drooping falls",
+            "closed bud within papery spathe",
+            "side profile showing bearded fall",
+            "dewdrops on petals after rain",
+            "multiple open blooms on a single stem"
+        ],
+        "invariant_features": [
+            "fuzzy beard of hairs along midline of each fall",
+            "three drooping falls each bearing a beard",
+            "colored beard hairs distinct from petal surface",
+            "signal patch encircling the beard on the fall",
+            "no crest; beard present as a dense hair tuft"
+        ],
+        "cooccurrence": [
+            "honeybee",
+            "bumblebee",
+            "garden mulch",
+            "plant label stake",
+            "rhizome divisions"
+        ],
+        "background": [
+            "perennial garden bed",
+            "cottage garden border",
+            "botanical garden display",
+            "rock garden edge",
+            "suburban yard fence line"
+        ]
+    },
+    "windflower": {
+        "action_or_pose": [
+            "single bloom fully open",
+            "bud just before opening",
+            "nodding flower in light breeze",
+            "closed flower in overcast or night",
+            "carpeting patch of multiple blooms"
+        ],
+        "invariant_features": [
+            "petaloid sepals only, no true petals",
+            "triple whorl of deeply lobed involucral bracts beneath bloom",
+            "solitary, star-shaped flower on a leafless peduncle",
+            "dense ring of bright yellow stamens at center",
+            "afterflowering cluster of beaked achenes"
+        ],
+        "cooccurrence": [
+            "honeybee",
+            "hoverfly",
+            "bluebells",
+            "ferns",
+            "leaf litter"
+        ],
+        "background": [
+            "shaded woodland floor",
+            "dappled sunlight under deciduous trees",
+            "rock garden border",
+            "meadow edge in spring",
+            "moss-covered forest ground"
+        ]
+    },
+    "tree poppy": {
+        "action_or_pose": [
+            "upright woody shrub form",
+            "multi-stemmed clump with arching branches",
+            "flowers fully open in bloom",
+            "post-bloom with spent petals dropping",
+            "fruiting with elongated seed pods"
+        ],
+        "invariant_features": [
+            "evergreen woody poppy shrub (Dendromecon)",
+            "lemon-yellow, saucer-shaped blooms with dense golden stamens",
+            "narrow glaucous blue-green leaves with smooth entire margins",
+            "long, slender beaked seed capsules borne along woody stems",
+            "rigid gray-green branching stems on an arborescent poppy"
+        ],
+        "cooccurrence": [
+            "native bees",
+            "hoverflies",
+            "chaparral shrubs (manzanita, ceanothus)",
+            "decomposed granite or rocky mulch",
+            "irrigation drip emitters or soaker hose"
+        ],
+        "background": [
+            "sunlit California chaparral hillside",
+            "coastal sage scrub slope",
+            "rocky roadside embankment",
+            "native plant garden bed",
+            "dry canyon wash or alluvial fan"
+        ]
+    },
+    "gazania": {
+        "action_or_pose": [
+            "fully open to bright sun",
+            "partially closed under clouds",
+            "tight flower bud",
+            "spent head going to seed",
+            "low rosette spreading outward"
+        ],
+        "invariant_features": [
+            "dark basal 'peacock' spots on each ray floret",
+            "silvery woolly undersides on narrow leaves",
+            "solitary long-stalked flower heads from a basal rosette",
+            "glossy, vividly banded petals in orange/yellow/bronze",
+            "pale halo ring encircling the golden disc"
+        ],
+        "cooccurrence": [
+            "bees",
+            "butterflies",
+            "gravel mulch",
+            "drip irrigation tubing",
+            "terracotta planter"
+        ],
+        "background": [
+            "sunny rock garden",
+            "coastal garden bed",
+            "roadside median",
+            "xeriscape landscape",
+            "patio container display"
+        ]
+    },
+    "azalea": {
+        "action_or_pose": [
+            "in full bloom",
+            "covered in buds",
+            "post-bloom with spent flowers",
+            "potted in nursery container",
+            "pruned as a low hedge"
+        ],
+        "invariant_features": [
+            "five exserted stamens",
+            "funnel-shaped, five-lobed corolla",
+            "terminal clusters at branch tips",
+            "elliptic, slightly hairy leaves (elepidote)",
+            "dorsal petal blotch (nectar guide)"
+        ],
+        "cooccurrence": [
+            "pine straw mulch",
+            "peat moss or acidic soil mix",
+            "shade trees",
+            "garden edging stones",
+            "bees and butterflies"
+        ],
+        "background": [
+            "woodland garden",
+            "Japanese garden",
+            "foundation planting by a house",
+            "botanical garden shrub border",
+            "park walkway planter"
+        ]
+    },
+    "water lily": {
+        "action_or_pose": [
+            "floating on still water",
+            "flower fully open at midday",
+            "flower closed at dusk",
+            "raindrops beading on leaf surface",
+            "overlapping lily pads"
+        ],
+        "invariant_features": [
+            "circular floating leaf with radial V-shaped notch",
+            "centrally attached petiole on leaf underside (peltate)",
+            "solitary flower floating at the water surface",
+            "numerous petaloid tepals in concentric layers",
+            "dense ring of yellow stamens around central stigma"
+        ],
+        "cooccurrence": [
+            "frogs",
+            "dragonflies",
+            "koi fish",
+            "pond snails",
+            "cattails"
+        ],
+        "background": [
+            "tranquil garden pond",
+            "botanical garden water feature",
+            "temple reflecting pool",
+            "still lake cove",
+            "backyard koi pond"
+        ]
+    },
+    "rose": {
+        "action_or_pose": [
+            "tight bud stage",
+            "half-open bloom",
+            "fully open rosette",
+            "drooping flower head",
+            "clustered spray of blossoms"
+        ],
+        "invariant_features": [
+            "recurved prickles along woody stems",
+            "pinnate leaves with serrated leaflets",
+            "high-centered spiral petal whorl",
+            "fleshy rose hip fruit with persistent sepals",
+            "paired stipules fused to petiole"
+        ],
+        "cooccurrence": [
+            "vase with water",
+            "bouquet ribbon",
+            "pruning shears",
+            "trellis or arbor",
+            "honeybee"
+        ],
+        "background": [
+            "formal rose garden beds",
+            "cottage garden border",
+            "florist shop display",
+            "greenhouse benches",
+            "wedding ceremony aisle"
+        ]
+    },
+    "thorn apple": {
+        "action_or_pose": [
+            "upright trumpet in full bloom",
+            "rolled flower bud at branch fork",
+            "night-closed corolla tube",
+            "fruiting with erect spiny capsule",
+            "wilted corolla drooping from fork"
+        ],
+        "invariant_features": [
+            "upright spiny seed capsule splitting into four valves",
+            "five-pointed white trumpet corolla opening at dusk",
+            "Y-forked branching with solitary flowers at stem forks",
+            "coarsely toothed, irregularly lobed leaves with mousy odor when crushed",
+            "tubular calyx that breaks off in a ring leaving a basal collar"
+        ],
+        "cooccurrence": [
+            "sphinx moths (hawkmoths)",
+            "weedy grasses",
+            "row crops (corn, soybeans)",
+            "fence posts and wire",
+            "roadside gravel and debris"
+        ],
+        "background": [
+            "roadsides and highway medians",
+            "vacant lots and waste ground",
+            "field margins and ditches",
+            "railway embankments",
+            "sunny disturbed soils near buildings"
+        ]
+    },
+    "morning glory": {
+        "action_or_pose": [
+            "twining around a trellis",
+            "climbing a fence",
+            "trailing along the ground",
+            "bloom fully open at dawn",
+            "flower closed and wilted by midday"
+        ],
+        "invariant_features": [
+            "trumpet-shaped corolla with five-point star venation",
+            "cordate leaves with long petioles",
+            "twining vine stems without tendrils",
+            "contrasting white throat inside colored funnel",
+            "three-valved capsule with hard black seeds"
+        ],
+        "cooccurrence": [
+            "trellis",
+            "chain-link fence",
+            "bamboo stake",
+            "hummingbird",
+            "bee"
+        ],
+        "background": [
+            "cottage garden along a picket fence",
+            "sunrise-lit backyard border",
+            "balcony planter on a railing",
+            "roadside verge in summer",
+            "pergola in a warm-climate garden"
+        ]
+    },
+    "passion flower": {
+        "action_or_pose": [
+            "flower fully open facing outward",
+            "partially opened bud with corona starting to fan",
+            "tendrils coiled tightly around support",
+            "vine climbing up a trellis",
+            "spent bloom with withered corona filaments"
+        ],
+        "invariant_features": [
+            "multi-ringed filamentous corona forming a clock-face",
+            "elevated central androgynophore with 5 anthers below 3 stigmas",
+            "three large green bracts forming an involucre beneath the flower",
+            "concentric purple and white bands across corona filaments",
+            "paired petiolar nectaries on leaf stalks"
+        ],
+        "cooccurrence": [
+            "trellis or arbor",
+            "Gulf fritillary caterpillars",
+            "hummingbirds",
+            "honeybees",
+            "green to orange passionfruit"
+        ],
+        "background": [
+            "sunny garden fence",
+            "tropical greenhouse",
+            "butterfly garden",
+            "woodland edge in warm climate",
+            "Mediterranean-style courtyard"
+        ]
+    },
+    "lotus": {
+        "action_or_pose": [
+            "tight bud held above water",
+            "full bloom facing upward",
+            "partially opened bloom at dawn",
+            "petals fallen, seed pod exposed",
+            "leaf elevated, water beading on surface"
+        ],
+        "invariant_features": [
+            "showerhead-like seed pod with evenly spaced round holes",
+            "perfectly round, notchless leaves held above water",
+            "superhydrophobic micro-rough leaf surface causing water beading",
+            "flowers borne on long stiff stalks rising clear of the water",
+            "thick segmented rhizomes with large air canals"
+        ],
+        "cooccurrence": [
+            "koi fish",
+            "dragonflies",
+            "honeybees",
+            "water lilies",
+            "reeds and cattails"
+        ],
+        "background": [
+            "still freshwater pond",
+            "temple garden pond",
+            "botanical garden water feature",
+            "flooded lotus field",
+            "shallow lake shoreline"
+        ]
+    },
+    "toad lily": {
+        "action_or_pose": [
+            "in bloom with open speckled tepals",
+            "tight bud at leaf axil",
+            "clustered blossoms on arching stem",
+            "drooping after rainfall",
+            "spent flower with forming seed capsule"
+        ],
+        "invariant_features": [
+            "six tepals densely freckled with purple spots",
+            "three-armed style arching above stamens",
+            "star-shaped, orchid-like blossom",
+            "alternate, clasping leaves with parallel veins",
+            "hairy stems and leaf surfaces"
+        ],
+        "cooccurrence": [
+            "hosta foliage",
+            "ferns",
+            "mossy stones",
+            "garden mulch",
+            "hoverflies"
+        ],
+        "background": [
+            "shaded woodland understory",
+            "dappled shade garden bed",
+            "north-facing border",
+            "streamside bank",
+            "Japanese-style garden"
+        ]
+    },
+    "anthurium": {
+        "action_or_pose": [
+            "potted plant with upright spadix",
+            "cut stem displayed in a vase",
+            "spathe facing forward toward viewer",
+            "single inflorescence arching downward",
+            "multiple blooms at staggered heights"
+        ],
+        "invariant_features": [
+            "waxy heart-shaped spathe",
+            "contrasting yellow or cream spadix on red spathe",
+            "pitted cylindrical spadix texture",
+            "petiole geniculum below leaf blade",
+            "spathe notch (sinus) where spadix emerges"
+        ],
+        "cooccurrence": [
+            "ceramic pot",
+            "glass vase",
+            "floral foam",
+            "monstera leaf filler",
+            "plant label stake"
+        ],
+        "background": [
+            "tropical greenhouse bench",
+            "rainforest understory foliage",
+            "florist shop display",
+            "modern living room interior",
+            "hotel lobby arrangement"
+        ]
+    },
+    "frangipani": {
+        "action_or_pose": [
+            "fully open pinwheel bloom at branch tip",
+            "tight flower buds clustered in a terminal umbel",
+            "single blossom threaded onto a lei",
+            "freshly fallen flower resting face-up on ground",
+            "drooping, dew-covered petals after rain"
+        ],
+        "invariant_features": [
+            "five thick, waxy, rounded petals in pinwheel",
+            "yellow star-shaped throat fading to white/pink",
+            "terminal umbels at branch tips",
+            "milky latex sap from cut stems",
+            "paired slender twin seed pods"
+        ],
+        "cooccurrence": [
+            "lei string or thread",
+            "offering tray with incense",
+            "bees",
+            "butterflies",
+            "hibiscus plants"
+        ],
+        "background": [
+            "tropical coastal garden",
+            "temple courtyard (Southeast Asia)",
+            "Hawaiian backyard lanai",
+            "resort poolside landscaping",
+            "sunny botanical garden bed"
+        ]
+    },
+    "clematis": {
+        "action_or_pose": [
+            "twined around trellis",
+            "draped over fence",
+            "in full bloom along vine",
+            "budded along stems",
+            "bearing feathery seedheads"
+        ],
+        "invariant_features": [
+            "leaf petioles acting as tendrils",
+            "star-shaped corolla of 4–8 tepals",
+            "central boss of numerous filamentous stamens",
+            "silky plumed achenes forming pom-poms",
+            "opposite paired leaves on a woody vine"
+        ],
+        "cooccurrence": [
+            "trellis",
+            "pergola",
+            "lattice panel",
+            "garden twine",
+            "bumblebee"
+        ],
+        "background": [
+            "cottage garden border",
+            "brick wall",
+            "wooden fence",
+            "pergola walkway",
+            "nursery greenhouse"
+        ]
+    },
+    "hibiscus": {
+        "action_or_pose": [
+            "in full bloom facing the sun",
+            "half-open bud with sepals visible",
+            "closed tight bud",
+            "wilted bloom with drooping petals",
+            "petals covered in morning dew"
+        ],
+        "invariant_features": [
+            "elongated staminal column protruding past petals",
+            "five-lobed stigma clustered at column tip",
+            "epicalyx ring of narrow bracts beneath sepals",
+            "funnel-shaped corolla of five overlapping petals",
+            "dark contrasting throat at petal base"
+        ],
+        "cooccurrence": [
+            "hummingbirds",
+            "butterflies",
+            "bees",
+            "terracotta flower pot",
+            "palm fronds"
+        ],
+        "background": [
+            "tropical garden beds",
+            "patio or balcony planter",
+            "botanical garden greenhouse",
+            "coastal resort landscaping",
+            "subtropical roadside hedge"
+        ]
+    },
+    "columbine": {
+        "action_or_pose": [
+            "nodding bloom",
+            "upright flowering stalk",
+            "in bud stage",
+            "fully open flower showing spurs",
+            "spent bloom with star-shaped seedpods"
+        ],
+        "invariant_features": [
+            "five backward-pointing nectar spurs, one per petal",
+            "five showy sepals alternating with spurred petals",
+            "pendant, bell-like flower with spurs arcing upward behind",
+            "bulbous spur tips holding nectar at ends",
+            "star cluster of 5 horned seed follicles after flowering"
+        ],
+        "cooccurrence": [
+            "hummingbirds",
+            "bumblebees",
+            "rock garden stones",
+            "fern fronds",
+            "garden plant label"
+        ],
+        "background": [
+            "woodland understory",
+            "mountain meadow",
+            "rocky alpine slope",
+            "shaded garden bed",
+            "streamside bank"
+        ]
+    },
+    "desert-rose": {
+        "action_or_pose": [
+            "full bloom clusters at branch tips",
+            "bud stage with closed flower buds",
+            "leafless dormancy showing bare caudex",
+            "fresh leaf flush at twig tips",
+            "recently pruned with emerging shoots"
+        ],
+        "invariant_features": [
+            "bulbous bottle-shaped caudex above soil",
+            "five-petaled salverform flowers with white throat and pink rim",
+            "smooth gray-green pachycaul bark",
+            "glossy obovate leaves crowded at branch tips",
+            "paired slender V-shaped seed pods"
+        ],
+        "cooccurrence": [
+            "terracotta pot",
+            "gravel top-dressing",
+            "bonsai wire",
+            "pruning shears",
+            "plant label stake"
+        ],
+        "background": [
+            "sunny patio",
+            "greenhouse bench",
+            "desert-themed rock garden",
+            "nursery display table",
+            "south-facing windowsill"
+        ]
+    },
+    "tree mallow": {
+        "action_or_pose": [
+            "in full bloom along leaf axils",
+            "budding with closed sepals",
+            "bearing dry cheese-wheel seed pods",
+            "standing upright, multi-stemmed",
+            "bent by coastal wind"
+        ],
+        "invariant_features": [
+            "mauve five-petaled blooms with dark purple radial stripes",
+            "prominent central staminal column of fused filaments",
+            "velvety palmate leaves with 5–7 shallow lobes",
+            "ring of narrow epicalyx bracts beneath the calyx",
+            "flattened, segmented \"cheese-wheel\" seed pods"
+        ],
+        "cooccurrence": [
+            "bees",
+            "butterflies",
+            "coastal grasses",
+            "garden fencing",
+            "salt-sprayed rocks"
+        ],
+        "background": [
+            "coastal cliffs",
+            "sandy dunes",
+            "rocky shorelines",
+            "seaside roadsides",
+            "cottage gardens"
+        ]
+    },
+    "magnolia": {
+        "action_or_pose": [
+            "fuzzy bud closed on branch",
+            "tepals unfurling",
+            "upright cup-shaped full bloom",
+            "star-shaped bloom fully open",
+            "spent flower with fallen tepals"
+        ],
+        "invariant_features": [
+            "encircling stipule scar around twig nodes",
+            "single silky bud scale on flower buds",
+            "cone-like aggregate fruit revealing dangling red arillate seeds",
+            "numerous spirally arranged stamens and carpels on elongated receptacle",
+            "thick, waxy tepals forming cup or saucer-shaped solitary blossoms"
+        ],
+        "cooccurrence": [
+            "woody branches",
+            "fuzzy flower buds",
+            "beetles on blossoms",
+            "fallen tepals on ground",
+            "seed cones with red seeds"
+        ],
+        "background": [
+            "ornamental garden beds",
+            "suburban front yards",
+            "arboretum or botanical garden",
+            "park lawns and pathways",
+            "woodland edge in temperate forests"
+        ]
+    },
+    "cyclamen": {
+        "action_or_pose": [
+            "in bloom with reflexed petals",
+            "nodding flower bud",
+            "dormant as bare tuber",
+            "leaves forming a low rosette",
+            "seed pod lowered to soil by coiled stem"
+        ],
+        "invariant_features": [
+            "five strongly reflexed petals creating an upside-down flower",
+            "heart-shaped leaves with silver marbling in a basal rosette",
+            "spiral-coiling pedicel that lowers the seed pod to the ground",
+            "flattened round subterranean tuber with concentric root scars",
+            "dark central eye at petal bases ('nose')"
+        ],
+        "cooccurrence": [
+            "terra-cotta pot",
+            "potting soil",
+            "plant saucer",
+            "ants",
+            "moss"
+        ],
+        "background": [
+            "shaded deciduous woodland floor",
+            "rock garden with limestone gravel",
+            "indoor windowsill with filtered light",
+            "alpine house bench",
+            "Mediterranean scrub understory"
+        ]
+    },
+    "watercress": {
+        "action_or_pose": [
+            "floating mat across stream surface",
+            "emergent stems rooting at nodes",
+            "submerged leafy shoots",
+            "upright flowering racemes above water",
+            "trailing along muddy bank"
+        ],
+        "invariant_features": [
+            "hollow, buoyant stems",
+            "pinnate leaves with rounded lobes",
+            "enlarged terminal leaflet",
+            "white 4-petaled raceme flowers",
+            "peppery cress aroma"
+        ],
+        "cooccurrence": [
+            "clear, flowing spring water",
+            "gravel or chalk streambed",
+            "duckweed patches",
+            "mossy rocks",
+            "hoverflies and bees"
+        ],
+        "background": [
+            "spring-fed brook",
+            "irrigation ditch",
+            "watercress cultivation beds",
+            "pond outflow",
+            "wet meadow margin"
+        ]
+    },
+    "canna lily": {
+        "action_or_pose": [
+            "upright clump with tall flowering stalks",
+            "in full bloom with open staminodes",
+            "in bud with tightly rolled leaf spear",
+            "leafy stage without blooms",
+            "spent flowers with developing seed pods"
+        ],
+        "invariant_features": [
+            "banana-like paddle leaves",
+            "showy petaloid staminodes",
+            "single fertile stamen with petaloid filament",
+            "warty seed capsules with hard black 'Indian shot' seeds",
+            "clasping leaf sheaths forming a pseudostem"
+        ],
+        "cooccurrence": [
+            "hummingbirds",
+            "butterflies",
+            "elephant ear (Colocasia)",
+            "banana plant (Musa)",
+            "mulch-covered garden beds"
+        ],
+        "background": [
+            "tropical-themed garden border",
+            "pond or water garden edge",
+            "sunny patio planters",
+            "municipal park flower beds",
+            "subtropical residential landscape"
+        ]
+    },
+    "hippeastrum": {
+        "action_or_pose": [
+            "dormant bulb stage",
+            "buds wrapped in papery spathes",
+            "upright scape in full bloom",
+            "spent flowers drooping",
+            "strap leaves emerging after flowering"
+        ],
+        "invariant_features": [
+            "leafless hollow scape bearing multiple blooms",
+            "two papery spathe bracts at scape apex",
+            "large six-tepaled funnel flowers without a central corona",
+            "bulb with brown papery tunics sold as 'amaryllis'",
+            "green throat with exserted stamens"
+        ],
+        "cooccurrence": [
+            "terracotta pot",
+            "potting mix",
+            "plant stake",
+            "watering can",
+            "plant label"
+        ],
+        "background": [
+            "indoor windowsill",
+            "holiday-decorated living room",
+            "greenhouse bench",
+            "subtropical garden bed",
+            "nursery retail shelf"
+        ]
+    },
+    "bee balm": {
+        "action_or_pose": [
+            "in full bloom with shaggy heads",
+            "tight bud clusters with colored bracts",
+            "dried seed heads post-bloom",
+            "upright multi-stemmed clump",
+            "rain-weighted blooms slightly drooping"
+        ],
+        "invariant_features": [
+            "shaggy pom-pom head of long narrow tubular florets",
+            "colored leafy bracts forming a collar just below the head",
+            "solitary terminal head on a tall square stem",
+            "exserted stamens arching beyond the corolla tubes",
+            "rounded spiky seed head persisting after flowering"
+        ],
+        "cooccurrence": [
+            "hummingbirds",
+            "bumblebees",
+            "butterflies",
+            "phlox",
+            "coneflower"
+        ],
+        "background": [
+            "cottage garden border",
+            "native pollinator garden",
+            "wildflower meadow edge",
+            "herb garden bed",
+            "woodland edge clearing"
+        ]
+    },
+    "ball moss": {
+        "action_or_pose": [
+            "attached to tree branch crotch",
+            "forming tight spherical clump",
+            "hanging from utility wire",
+            "blooming with tiny violet tubes",
+            "bearing slender seed capsules"
+        ],
+        "invariant_features": [
+            "tight gray-green spherical clumps 5–10 cm across",
+            "threadlike, strongly recurved leaves coated in silvery trichomes",
+            "tiny violet tubular flowers tucked near leaf bases",
+            "epiphytic holdfast pads gripping bark or wires without penetrating tissue",
+            "multiple small balls clustered along the same branch"
+        ],
+        "cooccurrence": [
+            "live oak branches",
+            "mesquite limbs",
+            "utility wires",
+            "fence posts and barbed wire",
+            "Spanish moss and resurrection fern"
+        ],
+        "background": [
+            "southern live-oak hammocks",
+            "dry subtropical woodlands",
+            "urban streetscapes with overhead lines",
+            "ranch fence lines in semi-arid rangeland",
+            "tree canopies over parking lots"
+        ]
+    },
+    "foxglove": {
+        "action_or_pose": [
+            "erect flowering spike",
+            "one-sided pendulous raceme",
+            "buds closed along upper spike",
+            "spent lower blooms forming seed capsules",
+            "leaning toward sunlight"
+        ],
+        "invariant_features": [
+            "tall, unbranched spike of drooping tubular bells",
+            "speckled throat with dark dots and pale halos",
+            "hooded upper lip over broad lower lip",
+            "one-sided (secund) flower arrangement on raceme",
+            "basal rosette of downy, serrated leaves with pronounced midrib"
+        ],
+        "cooccurrence": [
+            "bumblebees",
+            "garden plant label",
+            "fern fronds",
+            "lupines",
+            "stone pathway"
+        ],
+        "background": [
+            "woodland edge with dappled light",
+            "cottage garden border",
+            "forest clearing",
+            "hedgerow bank",
+            "meadow slope"
+        ]
+    },
+    "bougainvillea": {
+        "action_or_pose": [
+            "climbing a trellis",
+            "cascading over a wall",
+            "arching over a pergola",
+            "sprawling as groundcover",
+            "trained as a standard tree form"
+        ],
+        "invariant_features": [
+            "triads of tiny white tubular flowers encircled by three papery bracts",
+            "thin, tissue-paper bracts providing the color instead of petals",
+            "hooked woody thorns along long scrambling canes",
+            "climbs by snagging with thorns rather than tendrils or twining",
+            "bracts with prominent midrib and translucent, veined texture"
+        ],
+        "cooccurrence": [
+            "trellis",
+            "pergola",
+            "stucco wall",
+            "terracotta pot",
+            "butterflies"
+        ],
+        "background": [
+            "Mediterranean courtyard",
+            "tropical seaside garden",
+            "sunlit villa facade",
+            "urban balcony",
+            "garden archway entrance"
+        ]
+    },
+    "camellia": {
+        "action_or_pose": [
+            "tight bud stage",
+            "partially open bloom",
+            "full double bloom facing forward",
+            "drooping bloom after rain",
+            "spent flower with fallen petals"
+        ],
+        "invariant_features": [
+            "glossy evergreen leaves with fine serration and mucronate tips",
+            "rounded, imbricate flower buds with scale-like bracts",
+            "thick, satiny overlapping petals in a symmetrical rosette",
+            "dense central cluster of yellow stamens, often partly hidden",
+            "woody evergreen shrub bearing solitary blooms on short stalks"
+        ],
+        "cooccurrence": [
+            "bees",
+            "azalea shrubs",
+            "bark mulch",
+            "pruning shears",
+            "watering can"
+        ],
+        "background": [
+            "shaded woodland garden",
+            "Japanese garden courtyard",
+            "evergreen hedge border",
+            "patio containers",
+            "nursery greenhouse"
+        ]
+    },
+    "mallow": {
+        "action_or_pose": [
+            "full bloom facing upward",
+            "partially open axillary bud",
+            "spent flower with withering petals",
+            "seed head forming (cheese-wheel)",
+            "clustered blossoms along upright stem"
+        ],
+        "invariant_features": [
+            "epicalyx of three narrow bracteoles",
+            "cheese-wheel schizocarp seed head",
+            "central staminal column",
+            "five notched petals with dark radial stripes",
+            "palmately veined round-to-lobed leaves with scalloped margins"
+        ],
+        "cooccurrence": [
+            "honeybee",
+            "bumblebee",
+            "hoverfly",
+            "butterfly",
+            "ladybird beetle"
+        ],
+        "background": [
+            "wildflower meadow",
+            "hedgerow edge",
+            "roadside verge",
+            "cottage garden border",
+            "coastal salt marsh"
+        ]
+    },
+    "mexican petunia": {
+        "action_or_pose": [
+            "upright clump of multiple stems",
+            "in full bloom with open trumpet flowers",
+            "closed buds at leaf axils",
+            "spent blossoms dropped around base",
+            "seed capsules split after rain"
+        ],
+        "invariant_features": [
+            "crepe-textured purple, five-lobed funnel corolla (one-day bloom)",
+            "solitary axillary flowers on short pedicels",
+            "hygrochastic seed capsules that burst open when wet",
+            "flat disk seeds with sticky hygroscopic hairs",
+            "rhizomatous, clump-forming colonies of smooth upright stems"
+        ],
+        "cooccurrence": [
+            "butterflies",
+            "hummingbirds",
+            "bees",
+            "mulch",
+            "landscape edging stones"
+        ],
+        "background": [
+            "sunny garden border",
+            "pond or canal edge",
+            "wet roadside ditch",
+            "subtropical yard bed",
+            "patio container planting"
+        ]
+    },
+    "bromelia": {
+        "action_or_pose": [
+            "rosette spread with central cup filled",
+            "upright flowering spike with colorful bracts",
+            "mounted on tree bark",
+            "potted specimen",
+            "clumping with basal pups"
+        ],
+        "invariant_features": [
+            "watertight tank-forming leaf rosette",
+            "silvery peltate leaf scales",
+            "spiny leaf margins with hooked teeth",
+            "basal offsets called pups",
+            "long-lasting bracted inflorescence"
+        ],
+        "cooccurrence": [
+            "mossy tree bark",
+            "orchids",
+            "sphagnum moss substrate",
+            "wire mount",
+            "spray mister"
+        ],
+        "background": [
+            "humid tropical greenhouse",
+            "rainforest understory",
+            "moss-covered tree trunk",
+            "indoor bright-indirect windowsill",
+            "botanical garden bromeliad house"
+        ]
+    },
+    "blanket flower": {
+        "action_or_pose": [
+            "in full bloom facing the sun",
+            "tight bud stage",
+            "petals partially reflexed",
+            "drooping after rain",
+            "spherical seed head after petals drop"
+        ],
+        "invariant_features": [
+            "bi-color rays: red/orange centers with bright yellow tips",
+            "three-toothed, frilled ray tips",
+            "raised burgundy dome of disc florets",
+            "spiky green involucral bracts behind the rays",
+            "spherical, bristly seed head (pincushion-like)"
+        ],
+        "cooccurrence": [
+            "bumblebee",
+            "monarch butterfly",
+            "hoverfly",
+            "purple coneflower (Echinacea)",
+            "plant label stake"
+        ],
+        "background": [
+            "sunny prairie meadow",
+            "gravelly xeriscape garden",
+            "mulched garden border",
+            "roadside wildflower verge",
+            "rocky slope bed"
+        ]
+    },
+    "trumpet creeper": {
+        "action_or_pose": [
+            "clinging to a wall via aerial rootlets",
+            "draping over a fence",
+            "cascading from an arbor",
+            "in full bloom with trumpet clusters",
+            "bearing long dangling seed pods"
+        ],
+        "invariant_features": [
+            "orange-scarlet flared trumpet corollas",
+            "opposite pinnate leaves with 7–11 serrated leaflets",
+            "woody vine with adventitious aerial rootlets for adhesion",
+            "inflated ribbed calyx at flower base",
+            "slender dehiscent pods with flat winged seeds"
+        ],
+        "cooccurrence": [
+            "hummingbirds",
+            "carpenter bees",
+            "trellis",
+            "garden fence",
+            "brick wall"
+        ],
+        "background": [
+            "sunny backyard garden",
+            "woodland edge",
+            "rural fence line",
+            "riverside thicket",
+            "old brick building facade"
+        ]
+    },
+    "blackberry lily": {
+        "action_or_pose": [
+            "upright clump with fan-shaped leaves",
+            "in full bloom with flat, speckled stars",
+            "closed buds on branching stalks",
+            "seed capsules split open exposing black beads",
+            "stems gently bending in breeze"
+        ],
+        "invariant_features": [
+            "orange, flat, six-tepaled flowers densely freckled with red spots",
+            "split three-valved capsules revealing shiny black, blackberry-like seed clusters",
+            "basal fans of sword-shaped, equitant leaves",
+            "slender, branched wiry stems with widely spaced flowers",
+            "spent tepals twisting into corkscrew-like spirals"
+        ],
+        "cooccurrence": [
+            "pollinating bees",
+            "butterflies",
+            "garden mulch",
+            "plant labels",
+            "stone edging"
+        ],
+        "background": [
+            "sunny perennial border",
+            "rock garden",
+            "cottage garden bed",
+            "naturalized meadow edge",
+            "botanical garden planting"
+        ]
+    }
+}

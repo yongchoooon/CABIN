@@ -1,0 +1,3032 @@
+{
+    "accordion": {
+        "action_or_pose": [
+            "bellows fully expanded",
+            "bellows fully compressed",
+            "standing upright on its bass end",
+            "lying on its side",
+            "closed inside its carrying case"
+        ],
+        "invariant_features": [
+            "left-hand Stradella bass button matrix",
+            "bass hand strap with adjacent air-release lever",
+            "treble grille with register switches",
+            "paired treble manual and bass-button system",
+            "bellows locking straps with metal snap fasteners"
+        ],
+        "cooccurrence": [
+            "musician",
+            "microphone on stand",
+            "sheet music",
+            "music stand",
+            "accordion case"
+        ],
+        "background": [
+            "folk festival stage",
+            "street busking scene",
+            "living room practice space",
+            "concert hall stage",
+            "wedding reception dance floor"
+        ]
+    },
+    "airplanes": {
+        "action_or_pose": [
+            "parked at gate",
+            "taxiing on tarmac",
+            "takeoff rotation",
+            "landing flare",
+            "cruising in level flight"
+        ],
+        "invariant_features": [
+            "fixed wings with ailerons",
+            "horizontal stabilizer with elevators",
+            "vertical stabilizer with rudder",
+            "wingtip navigation lights",
+            "wing root fairings"
+        ],
+        "cooccurrence": [
+            "jet bridge",
+            "baggage carts",
+            "pushback tug",
+            "runway centerline markings",
+            "air traffic control tower"
+        ],
+        "background": [
+            "airport apron",
+            "runway threshold",
+            "taxiway with signage",
+            "blue sky with scattered clouds",
+            "hangar interior"
+        ]
+    },
+    "anchor": {
+        "action_or_pose": [
+            "dangling from hawsepipe",
+            "stowed on bow roller",
+            "lying flat on deck",
+            "half-buried in seabed",
+            "leaning upright against dock"
+        ],
+        "invariant_features": [
+            "rounded ring eye at shank top",
+            "long central shank ending at crown",
+            "two curved arms meeting at crown",
+            "pointed fluke bills at arm tips",
+            "transverse stock perpendicular to shank"
+        ],
+        "cooccurrence": [
+            "anchor chain",
+            "rope rode",
+            "ship bow",
+            "windlass",
+            "hawsepipe"
+        ],
+        "background": [
+            "sandy seabed",
+            "harbor water",
+            "marina dock",
+            "ship deck",
+            "boatyard"
+        ]
+    },
+    "ant": {
+        "action_or_pose": [
+            "foraging along a pheromone trail",
+            "carrying a crumb overhead",
+            "climbing a blade of grass",
+            "tending aphids for honeydew",
+            "excavating soil from nest entrance"
+        ],
+        "invariant_features": [
+            "elbowed antennae with elongated scape",
+            "constricted waist with one or two petiole nodes",
+            "metapleural gland slit on mesosoma",
+            "acidopore ring of hairs at gaster tip (formicines)",
+            "propodeum fused to thorax with gaster attached by petiole"
+        ],
+        "cooccurrence": [
+            "aphids",
+            "honeydew droplets",
+            "sugar granules",
+            "bread crumbs",
+            "dead insect"
+        ],
+        "background": [
+            "forest floor leaf litter",
+            "garden soil near plants",
+            "pavement or sidewalk",
+            "tree bark surface",
+            "desert sand around nest mound"
+        ]
+    },
+    "barrel": {
+        "action_or_pose": [
+            "standing upright",
+            "lying on its side",
+            "stacked in a rack",
+            "secured on a pallet",
+            "propped with chocks"
+        ],
+        "invariant_features": [
+            "coopered wooden staves bound by metal hoops",
+            "bulging midsection (bilge) narrower at ends",
+            "circular bunghole for filling and sealing",
+            "flat circular heads with raised chime rims",
+            "visible vertical stave seams around the body"
+        ],
+        "cooccurrence": [
+            "spigot or tap",
+            "bung plug",
+            "barrel rack",
+            "wooden pallet",
+            "transfer hose"
+        ],
+        "background": [
+            "wine cellar",
+            "distillery rickhouse",
+            "brewery storage room",
+            "dockside or ship hold",
+            "tavern backroom"
+        ]
+    },
+    "bass": {
+        "action_or_pose": [
+            "swimming",
+            "breaching the surface",
+            "striking a lure",
+            "hovering in ambush",
+            "schooling"
+        ],
+        "invariant_features": [
+            "upper jaw extending past eye",
+            "dark lateral stripe along flank",
+            "deep notch between spiny and soft dorsal fin",
+            "large bucket-shaped mouth",
+            "three spines on anal fin"
+        ],
+        "cooccurrence": [
+            "fishing lure",
+            "fishing line",
+            "hook",
+            "boat",
+            "aquatic vegetation"
+        ],
+        "background": [
+            "clear freshwater lake",
+            "weedy shoreline",
+            "lily pad cove",
+            "submerged timber",
+            "rocky riverbed"
+        ]
+    },
+    "beaver": {
+        "action_or_pose": [
+            "swimming at the surface",
+            "diving underwater",
+            "gnawing a tree trunk",
+            "carrying a branch in forepaws",
+            "tail-slapping the water"
+        ],
+        "invariant_features": [
+            "flat paddle-shaped scaly tail",
+            "bright orange iron-enamel incisors",
+            "webbed hind feet with split second toe (grooming claw)",
+            "lips that close behind incisors for underwater gnawing",
+            "eyes and ears set high on head"
+        ],
+        "cooccurrence": [
+            "beaver dam",
+            "beaver lodge",
+            "freshly gnawed tree stumps",
+            "willow or aspen branches",
+            "floating logs and sticks"
+        ],
+        "background": [
+            "forested pond",
+            "slow-moving riverbank",
+            "marshy wetland with cattails",
+            "snowy creek edge",
+            "mountain valley stream"
+        ]
+    },
+    "binocular": {
+        "action_or_pose": [
+            "lying flat with lenses up",
+            "hanging from neck strap",
+            "folded narrow at the central hinge",
+            "fully extended at the hinge",
+            "held to eyes in use"
+        ],
+        "invariant_features": [
+            "dual optical barrels joined by a central hinge",
+            "bridge-mounted central focus wheel between barrels",
+            "paired eyepieces with twist-up eyecups",
+            "right eyepiece diopter adjustment ring",
+            "strap lugs on both outer barrels"
+        ],
+        "cooccurrence": [
+            "neck strap",
+            "lens caps",
+            "carrying case",
+            "microfiber cleaning cloth",
+            "bird field guide"
+        ],
+        "background": [
+            "woodland birding trail",
+            "stadium bleachers",
+            "safari jeep in savanna",
+            "ship deck at sea",
+            "mountain lookout point"
+        ]
+    },
+    "bonsai": {
+        "action_or_pose": [
+            "formal upright (chokkan)",
+            "informal upright (moyogi)",
+            "slanting (shakan)",
+            "cascade (kengai)",
+            "windswept (fukinagashi)"
+        ],
+        "invariant_features": [
+            "miniature woody tree in shallow bonsai pot",
+            "exposed surface roots (nebari)",
+            "branches shaped with aluminum or copper wire",
+            "deadwood accents (jin or shari)",
+            "low, footed pot with tie-down wire holes"
+        ],
+        "cooccurrence": [
+            "bonsai pruning shears",
+            "concave branch cutters",
+            "aluminum training wire coil",
+            "humidity tray with pebbles",
+            "display stand (dai)"
+        ],
+        "background": [
+            "tokonoma alcove with shoji screens",
+            "exhibition table with neutral backdrop",
+            "greenhouse workbench",
+            "Japanese garden courtyard",
+            "patio or veranda"
+        ]
+    },
+    "brain": {
+        "action_or_pose": [
+            "sagittal sectioned",
+            "axial slice view",
+            "coronal slice view",
+            "hemispheres separated",
+            "preserved in jar"
+        ],
+        "invariant_features": [
+            "folded gyri and sulci surface",
+            "paired cerebral hemispheres",
+            "cerebellum with arbor vitae",
+            "brainstem continuous with spinal cord",
+            "corpus callosum arch on midline"
+        ],
+        "cooccurrence": [
+            "skull",
+            "spinal cord",
+            "cranial nerves",
+            "meninges (dura mater)",
+            "cerebral arteries and veins"
+        ],
+        "background": [
+            "operating room",
+            "anatomy lab dissection table",
+            "MRI scanner suite",
+            "medical textbook diagram background",
+            "museum specimen display case"
+        ]
+    },
+    "brontosaurus": {
+        "action_or_pose": [
+            "craning neck to browse treetops",
+            "striding with tail held aloft",
+            "tail sweeping sideways",
+            "rearing against a trunk to reach leaves",
+            "drinking with neck lowered at water's edge"
+        ],
+        "invariant_features": [
+            "extremely long, thick neck",
+            "small, boxy head with spoon-shaped teeth",
+            "deep, barrel-shaped torso",
+            "pillar-like limbs with a single large thumb claw",
+            "long, tapering whip tail"
+        ],
+        "cooccurrence": [
+            "ferns and cycads",
+            "conifer trees",
+            "other sauropods in herd",
+            "pterosaurs overhead",
+            "juvenile brontosaurus"
+        ],
+        "background": [
+            "prehistoric floodplain",
+            "riverbank or lakeshore",
+            "open conifer forest",
+            "muddy plain with trackways",
+            "rocky badlands with distant mesas"
+        ]
+    },
+    "buddha": {
+        "action_or_pose": [
+            "seated in lotus posture",
+            "standing with abhaya mudra",
+            "reclining on right side",
+            "seated with dhyana mudra",
+            "walking posture"
+        ],
+        "invariant_features": [
+            "ushnisha topknot on crown",
+            "urna dot between eyebrows",
+            "elongated earlobes",
+            "snail-shell curls hairstyle",
+            "monastic robe draped over one shoulder"
+        ],
+        "cooccurrence": [
+            "incense burner",
+            "altar candles",
+            "offering bowls",
+            "prayer beads (mala)",
+            "lotus flowers"
+        ],
+        "background": [
+            "temple altar",
+            "home shrine",
+            "meditation hall",
+            "garden shrine",
+            "cave temple"
+        ]
+    },
+    "butterfly": {
+        "action_or_pose": [
+            "flying with wings mid-flap",
+            "perched on flower with proboscis extended",
+            "basking with wings fully spread",
+            "roosting with wings closed upright",
+            "puddling on damp ground"
+        ],
+        "invariant_features": [
+            "clubbed antennae tips",
+            "coiled proboscis beneath head",
+            "four scaly wings with mirror-symmetric patterns",
+            "slender, hairless abdomen",
+            "powdery wing scales that rub off"
+        ],
+        "cooccurrence": [
+            "wildflowers",
+            "milkweed",
+            "green leaves",
+            "bees",
+            "spider webs"
+        ],
+        "background": [
+            "garden beds",
+            "meadow with wildflowers",
+            "forest edge",
+            "tropical foliage",
+            "butterfly conservatory"
+        ]
+    },
+    "camera": {
+        "action_or_pose": [
+            "mounted on tripod",
+            "handheld at eye level",
+            "hanging from neck strap",
+            "resting on table facing forward",
+            "stored in camera bag with lens cap on"
+        ],
+        "invariant_features": [
+            "hot shoe contact rail on top plate",
+            "mode dial labeled P/A/S/M",
+            "shutter release button beside grip",
+            "bayonet lens mount with release button",
+            "viewfinder eyecup with diopter slider"
+        ],
+        "cooccurrence": [
+            "tripod",
+            "interchangeable lens",
+            "memory card",
+            "camera strap",
+            "external flash"
+        ],
+        "background": [
+            "photography studio backdrop",
+            "tourist landmark plaza",
+            "wedding venue",
+            "press conference room",
+            "nature trail or park"
+        ]
+    },
+    "cannon": {
+        "action_or_pose": [
+            "barrel elevated upward",
+            "barrel depressed downward",
+            "mounted on wheeled field carriage",
+            "fixed on naval truck carriage",
+            "positioned in fort embrasure"
+        ],
+        "invariant_features": [
+            "flared muzzle ring",
+            "paired side trunnions",
+            "cascabel knob at breech",
+            "elevating screw beneath breech",
+            "wooden carriage with large spoke wheels and side cheeks"
+        ],
+        "cooccurrence": [
+            "cannonballs",
+            "powder keg",
+            "ramrod",
+            "gun crew",
+            "limber"
+        ],
+        "background": [
+            "stone fortress rampart",
+            "coastal battery",
+            "naval gun deck",
+            "battlefield position",
+            "museum exhibit hall"
+        ]
+    },
+    "car side": {
+        "action_or_pose": [
+            "parked parallel to curb",
+            "in motion with side-motion blur",
+            "near-side door open",
+            "windows partially lowered",
+            "side repeater indicator lit"
+        ],
+        "invariant_features": [
+            "two wheel arches with passenger-car tires",
+            "flush painted door handles along beltline",
+            "side windows divided by A/B/C pillars",
+            "color-matched side-view mirror on front door",
+            "fuel filler door on rear quarter panel"
+        ],
+        "cooccurrence": [
+            "other cars",
+            "road lane markings",
+            "curb and sidewalk",
+            "traffic signs",
+            "parking meter or pay station"
+        ],
+        "background": [
+            "city street",
+            "parking lot",
+            "suburban driveway",
+            "highway roadside",
+            "gas station forecourt"
+        ]
+    },
+    "ceiling fan": {
+        "action_or_pose": [
+            "stationary blades (power off)",
+            "rotating clockwise",
+            "rotating counterclockwise",
+            "high-speed rotation (motion blur)",
+            "wobbling while running"
+        ],
+        "invariant_features": [
+            "ceiling canopy with downrod suspending motor housing",
+            "blade irons connecting paddles to hub",
+            "pull-chain pair hanging from motor housing",
+            "reversible direction switch on motor housing",
+            "integrated light kit beneath hub"
+        ],
+        "cooccurrence": [
+            "remote control",
+            "wall light switch",
+            "smoke detector",
+            "light bulbs or glass dome",
+            "sofa or bed beneath"
+        ],
+        "background": [
+            "living room ceiling",
+            "bedroom ceiling",
+            "covered patio or porch",
+            "restaurant dining area ceiling",
+            "office or meeting room ceiling"
+        ]
+    },
+    "cellphone": {
+        "action_or_pose": [
+            "lying face up",
+            "lying face down",
+            "propped upright against object",
+            "held to ear",
+            "charging via cable"
+        ],
+        "invariant_features": [
+            "earpiece speaker slit above display",
+            "notch or hole-punch selfie camera",
+            "SIM card tray with eject pinhole",
+            "rear camera island with multiple lenses and LED flash",
+            "cellular signal bars in status bar"
+        ],
+        "cooccurrence": [
+            "charging cable",
+            "wall charger",
+            "protective phone case",
+            "wireless earbuds",
+            "power bank"
+        ],
+        "background": [
+            "office desk",
+            "bedside nightstand",
+            "car dashboard",
+            "coffee shop table",
+            "kitchen counter"
+        ]
+    },
+    "chair": {
+        "action_or_pose": [
+            "upright on all legs",
+            "stacked",
+            "folded flat",
+            "pushed under table",
+            "tilted back on rear legs"
+        ],
+        "invariant_features": [
+            "single-person seat pan with attached backrest",
+            "backrest rising from the rear edge of the seat",
+            "seat-back L-shaped junction sized for one sitter",
+            "backrest width matching a single seat width",
+            "rear support aligned beneath the backrest plane"
+        ],
+        "cooccurrence": [
+            "table",
+            "desk",
+            "person",
+            "cushion",
+            "rug"
+        ],
+        "background": [
+            "dining room",
+            "office workspace",
+            "classroom",
+            "living room",
+            "outdoor patio or cafe"
+        ]
+    },
+    "chandelier": {
+        "action_or_pose": [
+            "suspended from ceiling",
+            "illuminated at full brightness",
+            "dimmed glow",
+            "unlit",
+            "swaying slightly"
+        ],
+        "invariant_features": [
+            "radiating arms around a central column",
+            "tiered rings draped with crystal pendalogues",
+            "multi-arm candelabra with faux candles and bobeches",
+            "swagged bead strands linking the arms",
+            "bottom finial beneath a cascading crystal basket"
+        ],
+        "cooccurrence": [
+            "ceiling medallion",
+            "dimmer switch",
+            "dining table",
+            "ladder for maintenance",
+            "crystal cleaner spray"
+        ],
+        "background": [
+            "grand foyer",
+            "formal dining room",
+            "ballroom",
+            "hotel lobby",
+            "theater auditorium"
+        ]
+    },
+    "cougar body": {
+        "action_or_pose": [
+            "prowling low",
+            "crouching to pounce",
+            "leaping between rocks",
+            "stalking along a ridge",
+            "resting on a ledge"
+        ],
+        "invariant_features": [
+            "uniform tawny coat without spots or stripes",
+            "long slender tail with black tip and no tuft",
+            "hindquarters higher than shoulders",
+            "white muzzle and throat with dark lip line",
+            "small rounded ears on a small head"
+        ],
+        "cooccurrence": [
+            "mule deer",
+            "boulders",
+            "tree trunks",
+            "scrub brush",
+            "paw prints"
+        ],
+        "background": [
+            "rocky canyon",
+            "coniferous forest edge",
+            "desert scrubland",
+            "mountain ridge",
+            "snowy slope"
+        ]
+    },
+    "cougar face": {
+        "action_or_pose": [
+            "yowling",
+            "snarling with bared teeth",
+            "licking nose",
+            "ears flattened back",
+            "direct forward stare"
+        ],
+        "invariant_features": [
+            "uniform tawny facial fur without rosettes or stripes",
+            "white muzzle and chin bordered by a dark lip line",
+            "rounded ears with black backs and pale inner fur",
+            "pink nose leather outlined in black",
+            "prominent white whiskers on large rounded whisker pads"
+        ],
+        "cooccurrence": [
+            "rocky ledge",
+            "pine branches",
+            "snow",
+            "chain-link fence",
+            "deer"
+        ],
+        "background": [
+            "mountain forest",
+            "desert canyon",
+            "rocky cliffside",
+            "snowy alpine slope",
+            "zoo enclosure"
+        ]
+    },
+    "crab": {
+        "action_or_pose": [
+            "scuttling sideways",
+            "raising claws in threat display",
+            "burrowing into sand",
+            "clinging to rock against waves",
+            "feeding with pincers"
+        ],
+        "invariant_features": [
+            "abdomen folded tightly beneath body",
+            "carapace wider than long with serrated side margins",
+            "laterally splayed walking legs enabling sideways gait",
+            "stalked eyes positioned at carapace corners",
+            "broad ventral abdominal flap for egg brooding"
+        ],
+        "cooccurrence": [
+            "seaweed",
+            "barnacles",
+            "seashells",
+            "tide pool anemones",
+            "coastal rocks"
+        ],
+        "background": [
+            "rocky shoreline",
+            "sandy beach",
+            "tide pool",
+            "mudflat",
+            "mangrove roots"
+        ]
+    },
+    "crayfish": {
+        "action_or_pose": [
+            "crawling along the streambed",
+            "tail-flip swimming backward",
+            "raising claws in a threat display",
+            "burrowing into soft mud",
+            "feeding on leaf litter"
+        ],
+        "invariant_features": [
+            "two prominent chelae on the first walking legs",
+            "narrow pointed rostrum between stalked eyes",
+            "long antennae plus shorter antennules",
+            "tailfan of telson flanked by uropods",
+            "calcified carapace with a distinct cervical groove"
+        ],
+        "cooccurrence": [
+            "river pebbles",
+            "submerged leaf litter",
+            "aquatic plants",
+            "algae-coated rocks",
+            "crayfish trap"
+        ],
+        "background": [
+            "shallow stream bed",
+            "under-rock crevice",
+            "freshwater pond margin",
+            "muddy burrow entrance",
+            "home aquarium with gravel substrate"
+        ]
+    },
+    "crocodile": {
+        "action_or_pose": [
+            "basking with jaws agape",
+            "floating with eyes and nostrils above water",
+            "explosive lunge from shoreline",
+            "high-walk with tail lifted",
+            "death roll while gripping prey"
+        ],
+        "invariant_features": [
+            "narrow V-shaped snout",
+            "fourth lower tooth visible when mouth closed",
+            "rectangular, keeled osteoderm scutes",
+            "laterally compressed tail with double dorsal ridges",
+            "tiny sensory pits on most scales"
+        ],
+        "cooccurrence": [
+            "fish",
+            "reeds and papyrus",
+            "mangrove roots",
+            "nest mounds with eggs",
+            "hatchlings"
+        ],
+        "background": [
+            "tropical riverbank",
+            "swamp",
+            "mangrove estuary",
+            "muddy watering hole",
+            "sunlit sandbar"
+        ]
+    },
+    "crocodile head": {
+        "action_or_pose": [
+            "mouth agape in threat display",
+            "basking with jaws slightly open",
+            "surfacing with eyes and nostrils above water",
+            "side-profile stillness with jaws closed",
+            "snapping forward to bite"
+        ],
+        "invariant_features": [
+            "narrow V-shaped snout",
+            "fourth lower tooth exposed when mouth closed",
+            "interlocking upper and lower teeth visible along jawline",
+            "pronounced bony ridges from eyes toward snout",
+            "notch in upper jaw for enlarged fourth tooth"
+        ],
+        "cooccurrence": [
+            "reeds and marsh grass",
+            "fish near the waterline",
+            "turtles on nearby logs",
+            "wading birds (heron/egret)",
+            "sun-warmed rocks or driftwood"
+        ],
+        "background": [
+            "murky riverbank",
+            "swamp or marsh",
+            "mangrove lagoon",
+            "sandy shoreline",
+            "zoo or wildlife enclosure rockwork"
+        ]
+    },
+    "cup": {
+        "action_or_pose": [
+            "upright on a saucer",
+            "upside down for drying",
+            "nested inside another cup",
+            "tilted for pouring",
+            "lying on its side"
+        ],
+        "invariant_features": [
+            "ear-shaped single-finger handle loop",
+            "thin flared sipping rim",
+            "circular footring designed to nest into a saucer well",
+            "shallow bowl-like body proportion",
+            "small single-serving capacity (~150 ml)"
+        ],
+        "cooccurrence": [
+            "saucer",
+            "teaspoon",
+            "teapot",
+            "sugar bowl",
+            "milk jug (creamer)"
+        ],
+        "background": [
+            "cafe table",
+            "kitchen countertop",
+            "dining table setting",
+            "dish rack by the sink",
+            "cupboard shelf"
+        ]
+    },
+    "dalmatian": {
+        "action_or_pose": [
+            "running alongside handler",
+            "sitting alert with head up",
+            "trotting with tail level",
+            "leaping over an obstacle",
+            "lying in sphinx pose"
+        ],
+        "invariant_features": [
+            "short white coat with distinct round black or liver spots",
+            "nose leather matches spot color (black or liver)",
+            "fully spotted drop ears on a white base",
+            "spotted tail with smooth coat, no banding or brindle",
+            "clean, discrete spots across body, legs, and face (not merle or roaning)"
+        ],
+        "cooccurrence": [
+            "fire truck",
+            "fire hydrant",
+            "leash",
+            "collar with ID tag",
+            "firefighter or dog handler"
+        ],
+        "background": [
+            "fire station bay",
+            "city sidewalk",
+            "grassy park",
+            "suburban backyard",
+            "indoor living room"
+        ]
+    },
+    "dollar bill": {
+        "action_or_pose": [
+            "lying flat",
+            "folded in half",
+            "crumpled into a ball",
+            "stacked with other bills",
+            "partially tucked in a wallet"
+        ],
+        "invariant_features": [
+            "portrait of George Washington",
+            "Great Seal pyramid with Eye of Providence",
+            "large ornate ONE on reverse",
+            "green U.S. Treasury seal",
+            "\"Federal Reserve Note\" header text"
+        ],
+        "cooccurrence": [
+            "wallet",
+            "coins",
+            "cash register drawer",
+            "receipt",
+            "credit card"
+        ],
+        "background": [
+            "checkout counter",
+            "bank teller counter",
+            "wooden tabletop",
+            "restaurant table",
+            "office desk"
+        ]
+    },
+    "dolphin": {
+        "action_or_pose": [
+            "breaching out of water",
+            "porpoising through waves",
+            "spyhopping vertically",
+            "bow-riding beside a boat",
+            "tail-slapping on the surface"
+        ],
+        "invariant_features": [
+            "elongated beaklike rostrum",
+            "distinct beak-to-melon crease",
+            "rows of small conical teeth in both jaws",
+            "single crescent blowhole on crown",
+            "horizontal tail flukes with central notch"
+        ],
+        "cooccurrence": [
+            "other dolphins in a pod",
+            "schooling fish",
+            "boat wake or bow",
+            "seabirds overhead",
+            "ocean buoys or markers"
+        ],
+        "background": [
+            "open ocean blue water",
+            "coastal surf zone",
+            "tropical coral reef",
+            "harbor or bay waters",
+            "marine park or aquarium pool"
+        ]
+    },
+    "dragonfly": {
+        "action_or_pose": [
+            "hovering over water",
+            "perching on a reed with wings spread",
+            "mating wheel formation",
+            "ovipositing on water surface",
+            "emerging from exuvia"
+        ],
+        "invariant_features": [
+            "hindwings broader at base than forewings",
+            "wings held horizontally when perched",
+            "boot-shaped anal loop in hindwing venation",
+            "triangular discoidal cell near wing base",
+            "enormous compound eyes occupying most of head"
+        ],
+        "cooccurrence": [
+            "reeds",
+            "cattails",
+            "lily pads",
+            "mosquito swarms",
+            "exuviae on stems"
+        ],
+        "background": [
+            "pond edge",
+            "marsh wetland",
+            "lake shoreline",
+            "slow-moving stream bank",
+            "rice paddy"
+        ]
+    },
+    "electric guitar": {
+        "action_or_pose": [
+            "on a floor stand",
+            "hanging on a wall hanger",
+            "lying flat on a table",
+            "propped against an amp",
+            "nestled in an open case"
+        ],
+        "invariant_features": [
+            "magnetic pickups",
+            "1/4-inch output jack",
+            "volume and tone knobs",
+            "adjustable metal bridge saddles",
+            "solid or semi-hollow body without round soundhole"
+        ],
+        "cooccurrence": [
+            "guitar amplifier",
+            "instrument cable",
+            "effects pedals",
+            "guitar strap",
+            "plectrum"
+        ],
+        "background": [
+            "live concert stage",
+            "recording studio",
+            "rehearsal room",
+            "music store display wall",
+            "bedroom practice area"
+        ]
+    },
+    "elephant": {
+        "action_or_pose": [
+            "walking with trunk swinging",
+            "trumpeting with raised trunk",
+            "spraying dust over back",
+            "foraging by stripping bark",
+            "bathing in a waterhole"
+        ],
+        "invariant_features": [
+            "prehensile trunk with finger-like tip(s)",
+            "ivory tusks from upper incisors",
+            "columnar legs with large cushioned footpads and toenails",
+            "temporal gland opening between eye and ear",
+            "lamellar enamel-plate molars for grinding"
+        ],
+        "cooccurrence": [
+            "calf",
+            "herd matriarch",
+            "safari jeep",
+            "egrets",
+            "watering hole"
+        ],
+        "background": [
+            "African savanna grassland",
+            "riverbank or marsh edge",
+            "tropical forest clearing",
+            "wildlife reserve dirt road",
+            "mud wallow"
+        ]
+    },
+    "emu": {
+        "action_or_pose": [
+            "running",
+            "foraging with head down",
+            "pecking at ground",
+            "preening",
+            "dust bathing"
+        ],
+        "invariant_features": [
+            "shaggy brown-gray double-shafted plumage",
+            "long bare neck with bluish skin patches",
+            "small vestigial wings hidden in plumage",
+            "dark feathered crown on head",
+            "three-toed feet with large padded soles"
+        ],
+        "cooccurrence": [
+            "tall wire fence",
+            "dry grass tussocks",
+            "large dark green emu egg",
+            "striped emu chicks",
+            "water trough"
+        ],
+        "background": [
+            "Australian scrubland",
+            "open grassland pasture",
+            "zoo enclosure",
+            "farm paddock",
+            "sandy outback track"
+        ]
+    },
+    "euphonium": {
+        "action_or_pose": [
+            "held by musician in playing position",
+            "resting upright on an instrument stand",
+            "lying flat in an open case",
+            "propped against a chair with bell up",
+            "with mute inserted in the bell"
+        ],
+        "invariant_features": [
+            "3+1 compensating valve layout",
+            "left-hand side-mounted fourth valve",
+            "compact oval wrap with wide conical bore",
+            "upward-facing 11–12 inch flared bell",
+            "large-shank tenor mouthpiece receiver"
+        ],
+        "cooccurrence": [
+            "musician in concert attire",
+            "music stand",
+            "sheet music",
+            "valve oil bottle",
+            "hard case or gig bag"
+        ],
+        "background": [
+            "concert stage",
+            "school band room",
+            "marching field sidelines",
+            "recording studio",
+            "home practice room"
+        ]
+    },
+    "ewer": {
+        "action_or_pose": [
+            "standing upright on washstand",
+            "tilted forward to pour",
+            "lying on its side",
+            "held by handle mid-pour",
+            "displayed upright on pedestal"
+        ],
+        "invariant_features": [
+            "high-arching S-handle from rim to shoulder",
+            "narrow neck with flared everted lip",
+            "bulbous ovoid body with pronounced shoulder",
+            "integral rim-formed spout",
+            "pedestal footed base"
+        ],
+        "cooccurrence": [
+            "washbasin",
+            "hand towel",
+            "soap dish",
+            "washstand",
+            "tray"
+        ],
+        "background": [
+            "bedroom washstand",
+            "museum gallery display",
+            "antique shop",
+            "church sacristy",
+            "dining room sideboard"
+        ]
+    },
+    "faces": {
+        "action_or_pose": [
+            "smiling",
+            "frowning",
+            "blinking",
+            "speaking with mouth open",
+            "turning to profile"
+        ],
+        "invariant_features": [
+            "paired eyebrows above eye sockets",
+            "philtrum groove between nose and upper lip",
+            "vermillion border defining lips",
+            "nostrils separated by columella",
+            "nasolabial folds from nose to mouth corners"
+        ],
+        "cooccurrence": [
+            "eyeglasses",
+            "face mask",
+            "hat or cap",
+            "earrings",
+            "smartphone"
+        ],
+        "background": [
+            "plain studio backdrop",
+            "car interior",
+            "bathroom mirror",
+            "office setting",
+            "street or sidewalk"
+        ]
+    },
+    "faces easy": {
+        "action_or_pose": [
+            "smiling",
+            "neutral frontal gaze",
+            "head slightly tilted",
+            "looking sideways (three-quarter view)",
+            "mouth open as if speaking"
+        ],
+        "invariant_features": [
+            "two forward-facing eyes with round irises and visible white sclera",
+            "arched eyebrows above each eye",
+            "central nose with bridge, tip, and paired nostrils",
+            "upper lip with a defined Cupid's bow",
+            "vertical philtrum groove between nose and upper lip"
+        ],
+        "cooccurrence": [
+            "hairline and hairstyle",
+            "eyeglasses",
+            "earrings",
+            "beard or mustache",
+            "shirt collar or neckline"
+        ],
+        "background": [
+            "plain studio backdrop",
+            "solid-colored wall",
+            "passport-style photo background",
+            "indoor office or home setting",
+            "outdoor background with blurred foliage or buildings"
+        ]
+    },
+    "ferry": {
+        "action_or_pose": [
+            "docked at terminal",
+            "boarding vehicles via ramp",
+            "departing from pier",
+            "moored with lines fastened",
+            "underway across channel"
+        ],
+        "invariant_features": [
+            "double-ended hull with wheelhouses at both ends",
+            "roll-on/roll-off car ramp with striped safety edges",
+            "open vehicle deck with painted lane arrows",
+            "vehicle height clearance bar above ramp entrance",
+            "traffic light signals controlling car loading"
+        ],
+        "cooccurrence": [
+            "cars in loading queue",
+            "foot passengers in queue",
+            "ferry terminal staff",
+            "mooring bollards and lines",
+            "gangway bridge"
+        ],
+        "background": [
+            "harbor dock",
+            "river crossing",
+            "island port",
+            "coastal bay",
+            "urban waterfront"
+        ]
+    },
+    "flamingo": {
+        "action_or_pose": [
+            "standing on one leg",
+            "filter-feeding with head upside down",
+            "wading in shallow water",
+            "flying with neck and legs outstretched",
+            "preening feathers"
+        ],
+        "invariant_features": [
+            "sharply kinked, downward-curved bill with black tip",
+            "two-tone bill: pale pink base and black distal half",
+            "stilt-like pink legs with fully webbed feet",
+            "bright pink wing coverts with contrasting black primaries",
+            "serrated lamellae along bill edges for filter-feeding"
+        ],
+        "cooccurrence": [
+            "brine shrimp",
+            "algae mats",
+            "mud nest mounds",
+            "reed beds",
+            "other flamingos"
+        ],
+        "background": [
+            "salt flats",
+            "alkaline soda lakes",
+            "coastal lagoons",
+            "mudflats and wetlands",
+            "zoo aviaries"
+        ]
+    },
+    "flamingo head": {
+        "action_or_pose": [
+            "filter-feeding with beak submerged",
+            "preening neck feathers",
+            "head tucked on back while resting",
+            "head tilted sideways, scanning",
+            "calling with beak open"
+        ],
+        "invariant_features": [
+            "sharply kinked, downturned bill",
+            "two-tone bill: pale pink base with black distal third",
+            "fine lamellae filter comb along bill margins",
+            "golden-yellow iris set against pink facial feathers",
+            "slender S-curved neck junction directly behind head"
+        ],
+        "cooccurrence": [
+            "other flamingos in a flock",
+            "shallow saline water ripples",
+            "brine shrimp or algae bloom",
+            "water droplets on beak",
+            "reeds or shoreline vegetation"
+        ],
+        "background": [
+            "salt lagoon or soda lake",
+            "coastal salt flats",
+            "wetland marsh",
+            "zoo aviary enclosure",
+            "muddy playa shoreline"
+        ]
+    },
+    "garfield": {
+        "action_or_pose": [
+            "lounging on a couch armrest",
+            "napping with half-lidded eyes",
+            "devouring a pan of lasagna",
+            "standing upright with arms crossed",
+            "smirking while holding a coffee mug"
+        ],
+        "invariant_features": [
+            "orange cartoon tabby with bold black back stripes and ringed tail",
+            "heavy-lidded oval eyes giving a bored look",
+            "broad rounded muzzle with prominent cheek pads and small triangular nose",
+            "rotund belly with short stumpy legs, often shown bipedal",
+            "three thick whiskers per cheek from large whisker pads"
+        ],
+        "cooccurrence": [
+            "lasagna",
+            "Pooky teddy bear",
+            "Odie the dog",
+            "Jon Arbuckle",
+            "coffee mug"
+        ],
+        "background": [
+            "living room sofa",
+            "kitchen countertop",
+            "newspaper comic strip panel",
+            "suburban backyard with fence",
+            "TV room with side table and remote"
+        ]
+    },
+    "gerenuk": {
+        "action_or_pose": [
+            "standing bipedally on hind legs to browse",
+            "stretching neck upward to reach leaves",
+            "alert stance with ears forward",
+            "walking through thorn scrub",
+            "bounding away in a short sprint"
+        ],
+        "invariant_features": [
+            "unusually long, slender neck on a gazelle-sized antelope",
+            "male's heavy, ringed, S-curved lyre-shaped horns with inward-tilted tips",
+            "small wedge-shaped head with very narrow muzzle",
+            "large oval ears nearly head-length with dark rim and pale inner fur",
+            "plain, unstriped face and flanks with sharp white belly demarcation"
+        ],
+        "cooccurrence": [
+            "acacia shrubs",
+            "thorny branches",
+            "dry grass tufts",
+            "cheetah",
+            "safari vehicle"
+        ],
+        "background": [
+            "arid thornbush savanna",
+            "semi-desert scrubland",
+            "acacia-dotted plains",
+            "dry riverbed banks",
+            "East African wildlife reserve"
+        ]
+    },
+    "gramophone": {
+        "action_or_pose": [
+            "turntable spinning",
+            "record loaded on spindle",
+            "needle resting on groove",
+            "tonearm parked on cradle",
+            "horn angled to the side"
+        ],
+        "invariant_features": [
+            "large flared external horn speaker",
+            "side-mounted hand-crank winding key",
+            "spring-driven turntable motor",
+            "soundbox with mica diaphragm",
+            "replaceable steel needle stylus"
+        ],
+        "cooccurrence": [
+            "78 rpm shellac records",
+            "record sleeves",
+            "needle tins",
+            "record cleaning brush",
+            "wooden side table"
+        ],
+        "background": [
+            "antique shop display",
+            "vintage living room",
+            "museum exhibit gallery",
+            "Victorian-era study",
+            "retro-themed café interior"
+        ]
+    },
+    "grand piano": {
+        "action_or_pose": [
+            "lid fully open on long prop",
+            "lid half-stick (short prop)",
+            "lid closed",
+            "fallboard closed over keys",
+            "fallboard open with keys visible"
+        ],
+        "invariant_features": [
+            "wing-shaped horizontal body with curved rim and straight spine",
+            "side-hinged top lid with prop stick",
+            "three legs with brass casters",
+            "harp-shaped cast-iron plate visible under open lid",
+            "three pedals with middle sostenuto"
+        ],
+        "cooccurrence": [
+            "piano bench",
+            "sheet music",
+            "metronome",
+            "microphone boom stand",
+            "piano cover"
+        ],
+        "background": [
+            "concert hall stage",
+            "recording studio live room",
+            "living room or parlor",
+            "school auditorium",
+            "jazz club"
+        ]
+    },
+    "hawksbill": {
+        "action_or_pose": [
+            "swimming mid-water",
+            "gliding over reef",
+            "foraging among sponges",
+            "surfacing to breathe",
+            "resting under coral ledge"
+        ],
+        "invariant_features": [
+            "sharp, hooked hawk-like beak",
+            "overlapping (imbricated) carapace scutes",
+            "serrated sawtooth posterior shell edge",
+            "amber-and-brown tortoiseshell pattern on scutes",
+            "radiating sunburst streaks within carapace scutes"
+        ],
+        "cooccurrence": [
+            "coral heads",
+            "barrel sponges",
+            "sea fans (gorgonians)",
+            "reef fish schools",
+            "remoras"
+        ],
+        "background": [
+            "tropical coral reef slope",
+            "clear turquoise lagoon",
+            "shallow reef flat",
+            "blue open water backdrop",
+            "sandy tropical nesting beach"
+        ]
+    },
+    "headphone": {
+        "action_or_pose": [
+            "worn over ears",
+            "hanging on stand",
+            "resting flat on desk with earcups down",
+            "folded with earcups rotated inward",
+            "around neck with earcups facing outward"
+        ],
+        "invariant_features": [
+            "twin earcups connected by an arched headband",
+            "circular driver grille centered inside each earcup",
+            "annular cushioned earpads surrounding the driver opening",
+            "telescoping headband sliders with click detents",
+            "L and R channel markings on the earcups"
+        ],
+        "cooccurrence": [
+            "smartphone",
+            "laptop",
+            "audio interface",
+            "headphone amplifier",
+            "3.5mm-to-6.35mm adapter"
+        ],
+        "background": [
+            "recording studio control room",
+            "home office desk setup",
+            "commuter train interior",
+            "airplane cabin seat",
+            "electronics store display wall"
+        ]
+    },
+    "hedgehog": {
+        "action_or_pose": [
+            "foraging in leaf litter",
+            "sniffing with nose close to ground",
+            "curled into a tight ball",
+            "trotting with spines flattened",
+            "self-anointing with frothy saliva"
+        ],
+        "invariant_features": [
+            "dense coat of short, non-barbed spines on back and flanks",
+            "soft, spineless belly distinctly lighter than dorsum",
+            "short conical snout with black button nose",
+            "extremely short tail hidden beneath spines",
+            "ability to curl into near-spherical shape, hiding feet and face"
+        ],
+        "cooccurrence": [
+            "fallen leaves and twigs",
+            "earthworms and beetles",
+            "garden hedges and shrubs",
+            "shallow water dish or pet food bowl",
+            "hedgerow gaps or garden fence lines"
+        ],
+        "background": [
+            "woodland floor with leaf litter",
+            "suburban garden lawn at dusk",
+            "field or meadow edge",
+            "underbrush along a hedgerow",
+            "roadside verge with grass"
+        ]
+    },
+    "helicopter": {
+        "action_or_pose": [
+            "hovering in place",
+            "taking off from helipad",
+            "landing approach",
+            "banking in a turn",
+            "parked with rotors idling"
+        ],
+        "invariant_features": [
+            "top-mounted main rotor hub with long blades",
+            "elongated tail boom ending in anti-torque tail rotor",
+            "twin skid landing gear under fuselage",
+            "swashplate and pitch links beneath rotor hub",
+            "cockpit with cyclic and collective controls"
+        ],
+        "cooccurrence": [
+            "helipad H marking",
+            "pilot in flight suit",
+            "ground crew with marshalling wands",
+            "windsock",
+            "hangar or maintenance shed"
+        ],
+        "background": [
+            "rooftop hospital helipad",
+            "airport or airbase apron",
+            "offshore oil platform",
+            "mountain rescue zone",
+            "ship deck landing pad"
+        ]
+    },
+    "ibis": {
+        "action_or_pose": [
+            "wading in shallow water",
+            "probing mud with downcurved bill",
+            "flying with neck and legs fully extended",
+            "preening feathers with bill",
+            "standing on one leg while resting"
+        ],
+        "invariant_features": [
+            "long downcurved bill longer than head",
+            "bare lores and facial skin at bill base",
+            "neck and legs fully extended in flight profile",
+            "partially webbed front toes",
+            "short tail with long legs giving high stilted stance"
+        ],
+        "cooccurrence": [
+            "reeds and marsh grasses",
+            "other wading birds (herons, egrets)",
+            "small fish",
+            "crabs and crayfish",
+            "mangrove roots"
+        ],
+        "background": [
+            "marsh wetland",
+            "estuary mudflat at low tide",
+            "mangrove swamp",
+            "rice paddy or irrigated field",
+            "lake or lagoon shoreline"
+        ]
+    },
+    "inline skate": {
+        "action_or_pose": [
+            "standing upright on wheels",
+            "lying on its side",
+            "paired together heel-to-toe",
+            "worn on foot, mid-stride",
+            "hanging by cuff strap from a hook"
+        ],
+        "invariant_features": [
+            "single row of 3–5 in-line polyurethane wheels",
+            "rear heel brake pad on one skate",
+            "high ankle cuff with ratchet buckle and power strap",
+            "aluminum/composite frame bolted under boot",
+            "exposed wheel axles secured by Allen bolts"
+        ],
+        "cooccurrence": [
+            "helmet",
+            "knee pads",
+            "elbow pads",
+            "wrist guards",
+            "slalom cones"
+        ],
+        "background": [
+            "urban sidewalk or promenade",
+            "indoor roller rink",
+            "skate park plaza",
+            "bike path or greenway",
+            "sporting goods store aisle"
+        ]
+    },
+    "joshua tree": {
+        "action_or_pose": [
+            "standing upright solitary",
+            "silhouetted against sunset",
+            "leaning with wind-sculpted trunk",
+            "branching arms spread wide",
+            "close-up of terminal leaf rosette"
+        ],
+        "invariant_features": [
+            "tree-form yucca with Y-forked arms",
+            "dagger-like leaf rosettes only at branch tips",
+            "fibrous, shaggy brown trunk bark",
+            "tufted pom-pom crowns atop each arm",
+            "cream-white panicle blooms above rosettes"
+        ],
+        "cooccurrence": [
+            "desert boulders",
+            "creosote bush",
+            "cholla cactus",
+            "sandy gravelly soil",
+            "park trail sign"
+        ],
+        "background": [
+            "Mojave Desert plain",
+            "Joshua Tree National Park",
+            "rocky monzogranite formations",
+            "desert roadside pullout",
+            "star-filled night sky"
+        ]
+    },
+    "kangaroo": {
+        "action_or_pose": [
+            "hopping mid-air",
+            "standing upright tail-supported",
+            "grazing with head down",
+            "boxing with forepaws",
+            "kicking with hind legs"
+        ],
+        "invariant_features": [
+            "hindfoot with oversized fourth toe, no hallux",
+            "syndactylous second and third hind toes (grooming claw)",
+            "thick muscular balancing tail used as third leg",
+            "forward-opening abdominal pouch (joey carrier)",
+            "long narrow hind feet with rough hairless soles"
+        ],
+        "cooccurrence": [
+            "joey",
+            "other kangaroos",
+            "grass tussocks",
+            "eucalyptus trees",
+            "wire farm fence"
+        ],
+        "background": [
+            "Australian outback plain",
+            "open grassland",
+            "red desert scrub",
+            "bushland with eucalyptus grove",
+            "zoo enclosure"
+        ]
+    },
+    "ketch": {
+        "action_or_pose": [
+            "under full sail",
+            "reefed and heeling",
+            "at anchor with sails furled",
+            "moored alongside a dock",
+            "on stands in a boatyard"
+        ],
+        "invariant_features": [
+            "two masts with shorter aft mizzen and taller forward mainmast",
+            "mizzen mast stepped forward of the rudderpost",
+            "separate mizzen boom extending over the aft cockpit",
+            "sail plan of headsail, mainsail, and mizzen sail",
+            "dedicated mizzen shrouds and sheets leading to the stern"
+        ],
+        "cooccurrence": [
+            "dinghy tender",
+            "mooring buoy",
+            "dock lines and cleats",
+            "fenders",
+            "life ring"
+        ],
+        "background": [
+            "open sea with whitecaps",
+            "marina harbor slips",
+            "sheltered anchorage cove",
+            "boatyard or dry dock",
+            "coastal bay during regatta"
+        ]
+    },
+    "lamp": {
+        "action_or_pose": [
+            "upright on weighted base",
+            "turned on, emitting warm light",
+            "turned off, unlit",
+            "gooseneck bent toward surface",
+            "shade tilted at an angle"
+        ],
+        "invariant_features": [
+            "harp-and-finial shade mount",
+            "pull-chain switch on socket collar",
+            "E26/E27 bulb socket atop vertical stem",
+            "weighted base with felt underside",
+            "torchiere-style upward bowl shade"
+        ],
+        "cooccurrence": [
+            "nightstand",
+            "desk",
+            "books",
+            "power outlet",
+            "alarm clock"
+        ],
+        "background": [
+            "bedroom nightstand",
+            "living room corner",
+            "office workspace",
+            "hotel bedside table",
+            "reading nook"
+        ]
+    },
+    "laptop": {
+        "action_or_pose": [
+            "lid closed on table",
+            "lid half open",
+            "lid fully open on desk",
+            "screen tilted back",
+            "upside down showing underside"
+        ],
+        "invariant_features": [
+            "clamshell hinge joining display lid to keyboard base",
+            "centered touchpad below spacebar",
+            "integrated palm rest around touchpad",
+            "webcam centered in top bezel of display lid",
+            "underside rubber feet with cooling vents"
+        ],
+        "cooccurrence": [
+            "power adapter",
+            "mouse",
+            "external monitor",
+            "USB-C cable",
+            "smartphone"
+        ],
+        "background": [
+            "office desk",
+            "home office",
+            "coffee shop table",
+            "classroom desk",
+            "airport lounge"
+        ]
+    },
+    "leopards": {
+        "action_or_pose": [
+            "stalking low through grass",
+            "climbing a tree trunk",
+            "resting draped over a branch",
+            "sprinting after prey",
+            "carrying prey in jaws"
+        ],
+        "invariant_features": [
+            "golden-tan coat with irregular black rosettes lacking central spots",
+            "small solid black spots concentrated on head, neck, and lower limbs",
+            "dense, closely spaced rosettes on shoulders transitioning to larger rosettes on flanks",
+            "white throat and belly with sparse edge spotting",
+            "long, slender tail marked with multiple dark rings and a pale underside tip"
+        ],
+        "cooccurrence": [
+            "tree branches",
+            "antelope carcass",
+            "tall savanna grass",
+            "rocky boulders",
+            "safari vehicle"
+        ],
+        "background": [
+            "African savanna woodland",
+            "forest edge thicket",
+            "rocky kopje or outcrop",
+            "rainforest understory",
+            "riverine bushland at dusk"
+        ]
+    },
+    "llama": {
+        "action_or_pose": [
+            "grazing with head down",
+            "kushing (legs tucked under)",
+            "trotting with neck upright",
+            "spitting at a rival",
+            "carrying a pack on a trail"
+        ],
+        "invariant_features": [
+            "banana-shaped inward-curving ears",
+            "long, narrow face with sparse facial wool",
+            "coarse double coat with long guard hairs",
+            "sparse wool on lower legs",
+            "two-toed padded feet with curved nails"
+        ],
+        "cooccurrence": [
+            "halter",
+            "lead rope",
+            "pack saddlebags",
+            "hay bale",
+            "water trough"
+        ],
+        "background": [
+            "Andean highland pasture",
+            "grassy farm paddock with fence",
+            "mountain trekking trail",
+            "rural barnyard",
+            "livestock show ring"
+        ]
+    },
+    "lobster": {
+        "action_or_pose": [
+            "crawling along seafloor",
+            "tail-flip escape backward",
+            "raising claws defensively",
+            "hiding in rock crevice",
+            "grasping food with chelae"
+        ],
+        "invariant_features": [
+            "asymmetrical crusher and cutter claws",
+            "muscular segmented tail with broad tail fan",
+            "long stout antennae extending forward",
+            "hard mottled carapace over cephalothorax",
+            "swimmerets lining underside of abdomen"
+        ],
+        "cooccurrence": [
+            "kelp or seaweed fronds",
+            "rocky crevices and boulders",
+            "lobster trap pot with rope",
+            "bait fish or fish heads",
+            "ice bed on seafood counter"
+        ],
+        "background": [
+            "rocky seabed on continental shelf",
+            "kelp forest underwater",
+            "sandy bottom with scattered shells",
+            "fishing dock or boat deck",
+            "glass restaurant holding tank"
+        ]
+    },
+    "lotus": {
+        "action_or_pose": [
+            "fully bloomed above waterline",
+            "closed bud on upright stalk",
+            "petals half-open at dawn",
+            "seed pod exposed after petal fall",
+            "leaves elevated, beading water droplets"
+        ],
+        "invariant_features": [
+            "showerhead-like seed head with evenly spaced holes",
+            "peltate leaves held above water on long central petioles",
+            "superhydrophobic leaf surface causing strong water beading",
+            "tall emergent flower stalk lifting bloom above leaves",
+            "segmented rhizome with large radial air canals"
+        ],
+        "cooccurrence": [
+            "large round lotus leaves",
+            "muddy pond water",
+            "koi fish",
+            "dragonflies",
+            "bees"
+        ],
+        "background": [
+            "temple pond",
+            "ornamental water garden",
+            "natural wetland marsh",
+            "calm lake shallows",
+            "flooded lotus field"
+        ]
+    },
+    "mandolin": {
+        "action_or_pose": [
+            "lying flat on its back",
+            "resting on a floor stand",
+            "hanging on a wall hook",
+            "propped against a chair",
+            "inside an open hard case"
+        ],
+        "invariant_features": [
+            "eight strings arranged as four close-spaced pairs",
+            "A-style teardrop body with oval soundhole",
+            "F-style scroll with two projecting points",
+            "floating adjustable ebony bridge with thumbwheels",
+            "metal tailpiece with decorative cover"
+        ],
+        "cooccurrence": [
+            "plectrum (pick)",
+            "clip-on tuner",
+            "instrument strap",
+            "hard shell case",
+            "sheet music or tablature"
+        ],
+        "background": [
+            "bluegrass festival stage",
+            "folk club performance",
+            "home practice room",
+            "recording studio",
+            "music store wall display"
+        ]
+    },
+    "mayfly": {
+        "action_or_pose": [
+            "swarming in mating flight",
+            "resting on vertical surface with wings upright",
+            "emerging from water surface",
+            "molting from subimago to imago",
+            "ovipositing on water surface"
+        ],
+        "invariant_features": [
+            "two or three long caudal filaments (cerci)",
+            "winged subimago stage with dull, opaque wings",
+            "hindwings minute or absent",
+            "nonfunctional adult mouthparts (does not feed)",
+            "male turbinate dorsal eyes"
+        ],
+        "cooccurrence": [
+            "water surface ripples",
+            "trout",
+            "dry-fly fishing lure",
+            "river stones",
+            "reeds"
+        ],
+        "background": [
+            "fast-flowing stream riffles",
+            "calm lake shoreline",
+            "riverbank with overhanging vegetation",
+            "under bridge lights at night",
+            "wet rock or leaf near water"
+        ]
+    },
+    "menorah": {
+        "action_or_pose": [
+            "unlit, empty holders",
+            "candles inserted, unlit",
+            "shamash only lit",
+            "partially lit (some candles burning)",
+            "fully lit with all candles burning"
+        ],
+        "invariant_features": [
+            "nine aligned candle sockets",
+            "elevated or offset shamash holder",
+            "continuous drip tray beneath all holders",
+            "thin-taper candle cups sized for Hanukkah",
+            "straight horizontal arrangement on a single base"
+        ],
+        "cooccurrence": [
+            "Hanukkah candles",
+            "matches or lighter",
+            "dreidel",
+            "chocolate gelt coins",
+            "Hanukkah blessings card"
+        ],
+        "background": [
+            "home windowsill at night",
+            "dining table during Hanukkah",
+            "synagogue interior",
+            "living room mantel or sideboard",
+            "community center holiday display"
+        ]
+    },
+    "metronome": {
+        "action_or_pose": [
+            "pendulum centered at rest",
+            "pendulum mid-swing left",
+            "pendulum mid-swing right",
+            "cover removed, pendulum exposed",
+            "tempo weight set to 120 BPM"
+        ],
+        "invariant_features": [
+            "vertical BPM scale 40–208",
+            "sliding brass weight on pendulum rod",
+            "beat bell selector 0/2/3/4/6",
+            "pyramid Maelzel-style wooden case",
+            "wind-up escapement tick synced to BPM"
+        ],
+        "cooccurrence": [
+            "piano",
+            "sheet music",
+            "music stand",
+            "conductor's baton",
+            "violin"
+        ],
+        "background": [
+            "music practice room",
+            "atop a piano",
+            "classroom music room",
+            "home studio desk",
+            "rehearsal hall stage"
+        ]
+    },
+    "minaret": {
+        "action_or_pose": [
+            "standing upright",
+            "attached to mosque structure",
+            "freestanding in courtyard",
+            "silhouetted against the sky",
+            "encircled by restoration scaffolding"
+        ],
+        "invariant_features": [
+            "ring-shaped sherefe balcony for call to prayer",
+            "crescent-topped finial crowning a conical cap",
+            "slender, tapering shaft attached to a mosque complex",
+            "muqarnas corbeling beneath the balcony ring",
+            "circular array of loudspeakers mounted on the sherefe"
+        ],
+        "cooccurrence": [
+            "mosque dome",
+            "prayer hall facade",
+            "ablution fountain (sadirvan)",
+            "courtyard colonnades",
+            "date palm trees"
+        ],
+        "background": [
+            "historic Islamic city skyline",
+            "mosque courtyard",
+            "desert townscape",
+            "coastal Mediterranean skyline",
+            "mountain village setting"
+        ]
+    },
+    "motorbikes": {
+        "action_or_pose": [
+            "parked on side stand",
+            "on center stand",
+            "leaning into a turn",
+            "front wheel lifted (wheelie)",
+            "upright on paddock stand"
+        ],
+        "invariant_features": [
+            "exposed engine block beneath fuel tank",
+            "sculpted fuel tank ahead of seat",
+            "twin telescopic front forks clamping the front axle",
+            "right-hand twist throttle grip on handlebar",
+            "large rear sprocket and chain on swingarm"
+        ],
+        "cooccurrence": [
+            "rider with helmet",
+            "passenger (pillion)",
+            "cars",
+            "traffic signs",
+            "gas station pump"
+        ],
+        "background": [
+            "city street",
+            "mountain road",
+            "racetrack",
+            "garage or workshop",
+            "parking lot"
+        ]
+    },
+    "nautilus": {
+        "action_or_pose": [
+            "jet-propelling backward",
+            "hovering midwater with tentacles splayed",
+            "retracting into shell and sealing hood",
+            "cruising along a reef wall",
+            "ascending or descending by buoyancy control"
+        ],
+        "invariant_features": [
+            "externally chambered planispiral shell with brown-white bands",
+            "dozens of slender cirri-like tentacles without suckers",
+            "leathery hood (operculum) that seals the shell aperture",
+            "pinhole eyes without lenses",
+            "central siphuncle linking gas-filled shell chambers"
+        ],
+        "cooccurrence": [
+            "coral heads",
+            "reef fish",
+            "baited trap cage",
+            "underwater camera rig",
+            "small crustaceans"
+        ],
+        "background": [
+            "steep reef slope",
+            "dim pelagic midwater",
+            "limestone ledge or cave overhang",
+            "sandy seafloor near a drop-off",
+            "public aquarium exhibit tank"
+        ]
+    },
+    "octopus": {
+        "action_or_pose": [
+            "jetting backward",
+            "crawling across seafloor",
+            "camouflaging against rock",
+            "squeezing through a crevice",
+            "hovering with arms curled"
+        ],
+        "invariant_features": [
+            "eight equal-length arms only (no long tentacles), each with smooth circular suckers",
+            "soft, boneless bulbous mantle with no lateral fins",
+            "skin that raises papillae and shifts color for camouflage",
+            "large lateral eyes with horizontal slit pupils",
+            "interbrachial webbing connecting arms near their bases"
+        ],
+        "cooccurrence": [
+            "crabs",
+            "seashells and barnacles",
+            "coral heads",
+            "kelp or seaweed",
+            "scuba diver"
+        ],
+        "background": [
+            "coral reef",
+            "rocky seafloor",
+            "kelp forest",
+            "sandy seabed",
+            "underwater cave or den"
+        ]
+    },
+    "okapi": {
+        "action_or_pose": [
+            "browsing leaves with tongue extended",
+            "walking quietly through forest understory",
+            "standing alert with ears swiveling",
+            "grooming by licking foreleg or eyelid",
+            "nursing a calf"
+        ],
+        "invariant_features": [
+            "horizontal white stripes confined to rump and upper legs; torso unstriped",
+            "banding continues onto upper forelegs with lower legs as white 'stockings'",
+            "short skin-covered ossicones present only in adult males",
+            "mahogany-brown velvety torso contrasting with white ankles and cheek patches",
+            "large rounded ears with pale rims and distinct white cheek markings on a dark face"
+        ],
+        "cooccurrence": [
+            "broadleaf branches and twigs",
+            "saplings and ferns in understory",
+            "mineral or salt lick",
+            "wooden fence or mesh enclosure (zoo)",
+            "okapi calf alongside adult"
+        ],
+        "background": [
+            "dense Congo rainforest understory",
+            "dappled light through closed canopy",
+            "zoo paddock with earthen floor",
+            "muddy forest clearing with leaf litter",
+            "shaded browse yard with logs and browse racks"
+        ]
+    },
+    "pagoda": {
+        "action_or_pose": [
+            "standing upright",
+            "silhouetted at dusk",
+            "illuminated at night",
+            "snow-covered",
+            "surrounded by scaffolding"
+        ],
+        "invariant_features": [
+            "multi-tiered tower with diminishing roofs",
+            "upturned eaves on each tier",
+            "central finial spire with stacked rings",
+            "ringed balconies encircling each level",
+            "wind bells hanging from the corners of every tier"
+        ],
+        "cooccurrence": [
+            "stone lanterns",
+            "guardian lion statues",
+            "incense burner",
+            "temple gate",
+            "koi pond"
+        ],
+        "background": [
+            "temple courtyard",
+            "mountainside monastery",
+            "lakeside garden",
+            "historic city park",
+            "forest hillside"
+        ]
+    },
+    "panda": {
+        "action_or_pose": [
+            "eating bamboo",
+            "climbing a tree",
+            "sitting with legs splayed",
+            "rolling down a slope",
+            "sleeping on a branch"
+        ],
+        "invariant_features": [
+            "large black eye patches on white face",
+            "cat-like vertical slit pupils in a bear",
+            "black shoulder-and-forelimb 'cape' pattern",
+            "rounded black ears on a white head",
+            "white torso with solid black limbs"
+        ],
+        "cooccurrence": [
+            "bamboo stalks",
+            "bamboo leaves",
+            "tree trunks",
+            "wooden platforms",
+            "zookeepers"
+        ],
+        "background": [
+            "bamboo forest understory",
+            "mountain reserve in Sichuan",
+            "zoo enclosure with glass barrier",
+            "snowy temperate forest hillside",
+            "indoor nursery pen with straw bedding"
+        ]
+    },
+    "pigeon": {
+        "action_or_pose": [
+            "strutting with head-bob",
+            "pecking at ground",
+            "perched on a ledge",
+            "preening wing feathers",
+            "taking off mid-flap"
+        ],
+        "invariant_features": [
+            "two dark wing bars on pale gray wings",
+            "iridescent green-purple neck patch",
+            "white fleshy cere at bill base",
+            "orange-red eyes with thin pale eye ring",
+            "short black bill with pale tip"
+        ],
+        "cooccurrence": [
+            "bread crumbs",
+            "park bench",
+            "public square statue",
+            "rooftop ledge",
+            "fountain basin"
+        ],
+        "background": [
+            "urban plaza or city square",
+            "train station platform",
+            "park pathway and lawn",
+            "alleyway with brick walls",
+            "building rooftop skyline"
+        ]
+    },
+    "pizza": {
+        "action_or_pose": [
+            "whole pie unsliced",
+            "sliced into triangular wedges",
+            "single slice folded lengthwise",
+            "slice being lifted with cheese stretch",
+            "in an open delivery box"
+        ],
+        "invariant_features": [
+            "circular cornicione rim",
+            "radial cut lines to center",
+            "mottled mozzarella blisters",
+            "tomato-sauce halo under cheese edge",
+            "toppings embedded across flat dough disk"
+        ],
+        "cooccurrence": [
+            "pizza box",
+            "pizza cutter wheel",
+            "parmesan cheese shaker",
+            "crushed red pepper shaker",
+            "paper napkins"
+        ],
+        "background": [
+            "pizzeria counter",
+            "wooden dining table",
+            "open delivery box interior",
+            "kitchen countertop",
+            "living room coffee table"
+        ]
+    },
+    "platypus": {
+        "action_or_pose": [
+            "swimming at surface",
+            "diving with eyes closed",
+            "foraging with bill in riverbed silt",
+            "paddling with webbed forefeet",
+            "resting at burrow entrance"
+        ],
+        "invariant_features": [
+            "soft leathery duck-like bill with dorsal nostrils",
+            "electroreceptive pore fields on bill",
+            "flat furred tail storing fat",
+            "webbed forefeet with retractable webbing and claws",
+            "male hind-leg venomous ankle spur"
+        ],
+        "cooccurrence": [
+            "river stones",
+            "reeds and rushes",
+            "submerged logs",
+            "burrow entrance in muddy bank",
+            "yabbies (freshwater crayfish)"
+        ],
+        "background": [
+            "Australian freshwater stream",
+            "tea-tree lined billabong",
+            "Tasmanian rainforest creek",
+            "quiet river pool beneath gum trees",
+            "undercut muddy riverbank"
+        ]
+    },
+    "pyramid": {
+        "action_or_pose": [
+            "standing upright on base",
+            "partially buried in sand",
+            "ruined with collapsed outer casing",
+            "scaffolded for restoration",
+            "silhouetted against sunset"
+        ],
+        "invariant_features": [
+            "square base with four triangular faces",
+            "single apex pyramidion",
+            "four straight ridgelines from base corners to apex",
+            "internal passageways to central burial chamber",
+            "stacked relieving chambers above main chamber"
+        ],
+        "cooccurrence": [
+            "sphinx statue",
+            "camels",
+            "tourist groups",
+            "informational signage",
+            "scaffolding"
+        ],
+        "background": [
+            "desert plateau under blue sky",
+            "Giza archaeological site",
+            "Louvre museum courtyard",
+            "jungle clearing at a Mayan site",
+            "night sky with floodlights"
+        ]
+    },
+    "revolver": {
+        "action_or_pose": [
+            "lying flat with cylinder closed",
+            "cylinder swung out",
+            "holstered on a belt",
+            "displayed in a glass case",
+            "muzzle down on a range bench"
+        ],
+        "invariant_features": [
+            "multi-chamber rotating cylinder",
+            "cylinder stop notches around the cylinder",
+            "star-shaped extractor at the cylinder rear",
+            "barrel–cylinder gap at the forcing cone",
+            "fixed top-strap frame over the cylinder"
+        ],
+        "cooccurrence": [
+            "holster",
+            "ammunition box of cartridges",
+            "speedloader",
+            "cleaning rod and brush",
+            "paper shooting target"
+        ],
+        "background": [
+            "indoor shooting range lane",
+            "gun shop display counter",
+            "police evidence table",
+            "western-style saloon set",
+            "garage workbench"
+        ]
+    },
+    "rhino": {
+        "action_or_pose": [
+            "charging",
+            "grazing with head down",
+            "wallowing in mud",
+            "standing alert with head raised",
+            "trotting along a game trail"
+        ],
+        "invariant_features": [
+            "midline keratin nose horn(s) without bony core",
+            "three-toed rounded hooves on each foot",
+            "heavy hairless gray hide with deep skin folds",
+            "elongated nasal bridge supporting horn base",
+            "pronounced shoulder hump over the withers"
+        ],
+        "cooccurrence": [
+            "oxpecker birds",
+            "rhino calf",
+            "safari vehicle",
+            "mud wallow",
+            "watering hole"
+        ],
+        "background": [
+            "savanna grassland",
+            "dry thorn scrub",
+            "riverbank or waterhole",
+            "open woodland edge",
+            "wildlife reserve track"
+        ]
+    },
+    "rooster": {
+        "action_or_pose": [
+            "crowing",
+            "strutting",
+            "scratching the ground",
+            "perching on a fence",
+            "pecking at feed"
+        ],
+        "invariant_features": [
+            "iridescent green-black sickle tail feathers",
+            "large red single comb",
+            "elongated pointed saddle hackles",
+            "paired drooping red wattles",
+            "sharp tarsal spurs on legs"
+        ],
+        "cooccurrence": [
+            "hens",
+            "chicks",
+            "chicken coop",
+            "feed trough",
+            "waterer"
+        ],
+        "background": [
+            "barnyard",
+            "rural farmyard",
+            "chicken run",
+            "grassy pasture edge",
+            "sunrise over fields"
+        ]
+    },
+    "saxophone": {
+        "action_or_pose": [
+            "on instrument stand",
+            "held by musician",
+            "hanging from neck strap",
+            "resting on its bell",
+            "inside an open case"
+        ],
+        "invariant_features": [
+            "conical brass body with cup-style keys",
+            "left-hand pinky spatula cluster (G#, low C#, B, Bb)",
+            "palm keys above left-hand stack (high D/Eb/E/F)",
+            "tilting low Bb/B table with rollers",
+            "guarded bell keys over low C/Eb/B/Bb"
+        ],
+        "cooccurrence": [
+            "ligature",
+            "reeds",
+            "neck strap",
+            "music stand",
+            "microphone"
+        ],
+        "background": [
+            "jazz club stage",
+            "school band room",
+            "recording studio booth",
+            "marching band field",
+            "street busking corner"
+        ]
+    },
+    "schooner": {
+        "action_or_pose": [
+            "under full sail",
+            "anchored offshore",
+            "moored alongside pier",
+            "heeling to leeward",
+            "becalmed with slack canvas"
+        ],
+        "invariant_features": [
+            "aft mainmast taller than foremast",
+            "fore-and-aft sails on all masts",
+            "fisherman staysail set between masts",
+            "multiple headsails on an extended bowsprit",
+            "gaff-rigged mainsail with peak and throat halyards"
+        ],
+        "cooccurrence": [
+            "dinghy tender",
+            "coiled rigging lines",
+            "anchor and chain",
+            "crew on deck",
+            "harbor buoys"
+        ],
+        "background": [
+            "marina or harbor",
+            "open sea horizon",
+            "regatta course",
+            "rocky coastal bay",
+            "shipyard or pier"
+        ]
+    },
+    "scissors": {
+        "action_or_pose": [
+            "blades fully closed",
+            "blades half-open",
+            "blades fully open",
+            "lying flat with handles left",
+            "standing upright on handle rings"
+        ],
+        "invariant_features": [
+            "two crossing blades joined by a single pivot screw",
+            "one small thumb ring and one larger finger ring",
+            "sharpened inner edges that shear past each other",
+            "tapered twin tips that meet precisely when closed",
+            "flat, planar handles and blades aligned in the same plane"
+        ],
+        "cooccurrence": [
+            "paper sheets",
+            "fabric pieces",
+            "thread spool",
+            "cutting mat",
+            "tape measure"
+        ],
+        "background": [
+            "office desk",
+            "classroom table",
+            "crafting workstation",
+            "sewing station",
+            "kitchen drawer"
+        ]
+    },
+    "scorpion": {
+        "action_or_pose": [
+            "crawling across sand",
+            "tail arched over back, stinger poised",
+            "pincers spread in threat display",
+            "burrowing beneath a rock",
+            "carrying young on back"
+        ],
+        "invariant_features": [
+            "five-segmented metasoma curved over dorsum",
+            "bulbous telson with curved aculeus stinger",
+            "robust chelate pedipalps larger than walking legs",
+            "ventral comb-like pectines between middle legs",
+            "four pairs of slit-like spiracles on ventral mesosoma"
+        ],
+        "cooccurrence": [
+            "rocks",
+            "sand",
+            "leaf litter",
+            "tree bark",
+            "cricket"
+        ],
+        "background": [
+            "desert night with sandy ground",
+            "rocky outcrop or crevice",
+            "arid scrubland with shrubs",
+            "forest floor leaf litter",
+            "under bark of a fallen log"
+        ]
+    },
+    "sea horse": {
+        "action_or_pose": [
+            "hovering upright in the water column",
+            "tail-wrapping onto seagrass or coral",
+            "courtship dance with synchronized head-bobbing",
+            "snout-suction feeding on tiny prey",
+            "male expelling fry from brood pouch"
+        ],
+        "invariant_features": [
+            "upright body with head bent at right angle to trunk",
+            "prehensile, spiral-curled tail for gripping",
+            "bony coronet (crown) atop the head",
+            "fully enclosed ventral brood pouch in males",
+            "no caudal fin; propulsion by rapid dorsal fin flutter"
+        ],
+        "cooccurrence": [
+            "seagrass blades",
+            "gorgonian sea fans",
+            "macroalgae or seaweed fronds",
+            "mysid shrimp schools",
+            "scuba divers and underwater cameras"
+        ],
+        "background": [
+            "shallow seagrass meadows",
+            "coral reef outcrops",
+            "mangrove root thickets",
+            "floating sargassum mats",
+            "sandy or silty seabeds with sparse algae"
+        ]
+    },
+    "snoopy": {
+        "action_or_pose": [
+            "sleeping on back atop red doghouse roof",
+            "happy dance on hind legs",
+            "typing on a typewriter",
+            "WWI flying ace pose with goggles and scarf",
+            "hugging Woodstock"
+        ],
+        "invariant_features": [
+            "Peanuts-style white beagle silhouette with smooth ink outline",
+            "both ears solid black and floppy",
+            "single black oval patch on back",
+            "large round black nose with tiny dot eyes",
+            "mouth absent at rest; simple curved smile when shown"
+        ],
+        "cooccurrence": [
+            "red doghouse",
+            "Woodstock",
+            "typewriter",
+            "Charlie Brown",
+            "blue dog bowl"
+        ],
+        "background": [
+            "suburban backyard lawn with picket fence",
+            "comic strip panel layout",
+            "school hallway or campus steps",
+            "cloudy sky and rooftops (flying ace daydreams)",
+            "snow-covered yard in winter"
+        ]
+    },
+    "soccer ball": {
+        "action_or_pose": [
+            "resting on grass",
+            "rolling across pitch",
+            "mid-air after a kick",
+            "wedged in goal net",
+            "placed on corner arc"
+        ],
+        "invariant_features": [
+            "black-and-white pentagon–hexagon paneling",
+            "32-panel truncated icosahedron layout",
+            "12 black pentagons among white hexagons",
+            "FIFA Quality or IMS certification stamp",
+            "\"Size 5\" marking"
+        ],
+        "cooccurrence": [
+            "goal net",
+            "soccer cleats",
+            "shin guards",
+            "corner flag",
+            "goalkeeper gloves"
+        ],
+        "background": [
+            "green soccer pitch",
+            "stadium stands",
+            "indoor futsal court",
+            "training field",
+            "school playground"
+        ]
+    },
+    "stapler": {
+        "action_or_pose": [
+            "closed on desk",
+            "open for refilling",
+            "hinged fully open for tacking",
+            "standing vertically on its end",
+            "pressed down onto paper stack"
+        ],
+        "invariant_features": [
+            "rotating anvil with clinch selector",
+            "staple magazine channel with follower spring",
+            "staple exit slot aligned to anvil nose",
+            "paper throat opening defining staple reach",
+            "crimping grooves on metal anvil"
+        ],
+        "cooccurrence": [
+            "staple remover",
+            "loose staples box",
+            "paper stack",
+            "notepad",
+            "tape dispenser"
+        ],
+        "background": [
+            "office desk surface",
+            "classroom table",
+            "reception counter",
+            "copy room workstation",
+            "home office desk"
+        ]
+    },
+    "starfish": {
+        "action_or_pose": [
+            "crawling across seafloor with tube feet extended",
+            "clinging to a rock in tidal surge",
+            "righting itself from an upside-down position",
+            "arching body to lift central disc",
+            "feeding on a mussel with stomach everted"
+        ],
+        "invariant_features": [
+            "rows of suction-cup tube feet in open ambulacral grooves",
+            "eversible stomach emerging from central underside mouth",
+            "sieve-like madreporite off-center on aboral disc",
+            "eyespots at the tips of each arm",
+            "broad star-shaped body with arms continuous with central disc"
+        ],
+        "cooccurrence": [
+            "mussels and clams",
+            "barnacle-covered rocks",
+            "sea urchins",
+            "algae or kelp fronds",
+            "coral heads"
+        ],
+        "background": [
+            "rocky tide pool",
+            "sandy seafloor",
+            "coral reef",
+            "kelp forest",
+            "subtidal rocky reef"
+        ]
+    },
+    "stegosaurus": {
+        "action_or_pose": [
+            "quadrupedal walking",
+            "tail-swinging defense",
+            "grazing on low vegetation",
+            "side-on plate display",
+            "head-low defensive crouch"
+        ],
+        "invariant_features": [
+            "double row of large alternating dorsal plates",
+            "four-spiked thagomizer tail",
+            "very small narrow beaked head",
+            "hind legs noticeably longer than forelegs",
+            "deep barrel-shaped torso with arched back"
+        ],
+        "cooccurrence": [
+            "ferns and cycads",
+            "conifer shrubs",
+            "allosaurus",
+            "juvenile stegosaurus",
+            "museum information plaque"
+        ],
+        "background": [
+            "natural history museum hall",
+            "Jurassic floodplain diorama",
+            "open woodland with conifers",
+            "rocky badlands excavation site",
+            "prehistoric riverbank scene"
+        ]
+    },
+    "stop sign": {
+        "action_or_pose": [
+            "mounted upright on pole",
+            "slightly tilted on post",
+            "partially obscured by foliage",
+            "lying flat on pavement (removed)",
+            "face angled toward approaching traffic"
+        ],
+        "invariant_features": [
+            "red octagonal traffic sign face",
+            "white uppercase \"STOP\" lettering",
+            "white border following octagon edges",
+            "octagon silhouette reserved for stop control",
+            "R1-1 designation on rear (MUTCD)"
+        ],
+        "cooccurrence": [
+            "stop line (solid white bar)",
+            "crosswalk markings",
+            "traffic lights",
+            "street name signs",
+            "vehicles"
+        ],
+        "background": [
+            "urban intersection",
+            "suburban residential street",
+            "rural roadside",
+            "school zone approach",
+            "parking lot exit"
+        ]
+    },
+    "strawberry": {
+        "action_or_pose": [
+            "lying flat on a surface",
+            "standing on calyx end",
+            "halved lengthwise exposing white core",
+            "sliced into cross-sectional rounds",
+            "stacked in a small pyramid"
+        ],
+        "invariant_features": [
+            "surface studded with external achenes",
+            "star-shaped green calyx at broad end",
+            "conical heart-shaped silhouette",
+            "pale longitudinal core when cut",
+            "spiral rows of seed pits"
+        ],
+        "cooccurrence": [
+            "whipped cream",
+            "shortcake",
+            "chocolate sauce",
+            "cutting board",
+            "fruit basket"
+        ],
+        "background": [
+            "kitchen countertop",
+            "farmers’ market stall",
+            "supermarket produce section",
+            "garden strawberry bed",
+            "dessert plate"
+        ]
+    },
+    "sunflower": {
+        "action_or_pose": [
+            "upright bloom facing the sun",
+            "tight green bud before opening",
+            "mature head drooping under seed weight",
+            "cut flower standing upright in a vase",
+            "wilted petals curling around the disk"
+        ],
+        "invariant_features": [
+            "dark central disk with spiral seed pattern",
+            "single ring of bright yellow ray florets",
+            "tall rough hairy stem",
+            "heart-shaped serrated leaves with sandpapery texture",
+            "spiky green bracts cupping the flower head"
+        ],
+        "cooccurrence": [
+            "honeybees collecting pollen",
+            "butterflies",
+            "goldfinches feeding on seeds",
+            "watering can",
+            "wooden fence"
+        ],
+        "background": [
+            "expansive field under blue sky",
+            "backyard garden bed",
+            "rustic farm with barn and silo",
+            "roadside meadow edge",
+            "florist shop display"
+        ]
+    },
+    "tick": {
+        "action_or_pose": [
+            "questing with forelegs raised",
+            "crawling on fur",
+            "biting and attaching",
+            "engorging on blood",
+            "dropping from host"
+        ],
+        "invariant_features": [
+            "Haller's organ on foreleg",
+            "barbed hypostome mouthpart",
+            "dorsal scutum (hard shield)",
+            "balloon-like engorged abdomen",
+            "posterior festoons along body edge"
+        ],
+        "cooccurrence": [
+            "deer",
+            "dog",
+            "human skin",
+            "grass blade",
+            "leaf litter"
+        ],
+        "background": [
+            "woodland leaf litter",
+            "tall meadow grass",
+            "brushy field edge",
+            "pet bedding or carpet",
+            "hiking clothing or socks"
+        ]
+    },
+    "trilobite": {
+        "action_or_pose": [
+            "crawling along seafloor",
+            "enrolled into a tight ball",
+            "burrowing into sediment",
+            "swimming with pleural strokes",
+            "molting exoskeleton"
+        ],
+        "invariant_features": [
+            "three longitudinal lobes (axial and two pleural)",
+            "prominent cephalic glabella",
+            "holochroal or schizochroal calcite eyes",
+            "cephalon–thorax–pygidium segmentation",
+            "facial sutures on cephalon for molting"
+        ],
+        "cooccurrence": [
+            "rock hammer",
+            "scale bar",
+            "museum label",
+            "brachiopod shell",
+            "ammonite fossil fragment"
+        ],
+        "background": [
+            "Paleozoic shallow seafloor",
+            "shale bedding plane",
+            "limestone slab",
+            "museum display case",
+            "paleontology lab bench"
+        ]
+    },
+    "umbrella": {
+        "action_or_pose": [
+            "open and overhead",
+            "closed with strap",
+            "partially open",
+            "wind-inverted",
+            "hanging from hook"
+        ],
+        "invariant_features": [
+            "domed canopy with stitched gores",
+            "radial ribs and stretchers",
+            "sliding runner lock on shaft",
+            "top ferrule at canopy apex",
+            "canopy tie strap"
+        ],
+        "cooccurrence": [
+            "raincoat",
+            "rain boots",
+            "puddle",
+            "umbrella stand",
+            "handbag"
+        ],
+        "background": [
+            "rainy city street",
+            "bus stop shelter",
+            "building lobby entrance",
+            "park walkway",
+            "train platform"
+        ]
+    },
+    "watch": {
+        "action_or_pose": [
+            "worn on wrist under a shirt cuff",
+            "lying face-up on a tabletop",
+            "lying face-down with strap unbuckled",
+            "propped at an angle on a watch stand",
+            "attached to a magnetic charging puck"
+        ],
+        "invariant_features": [
+            "wrist-sized case with transparent crystal",
+            "side crown at the case edge (often at 3 o'clock)",
+            "paired lugs accepting spring bars",
+            "hour–minute time display on a compact dial or screen",
+            "clasped strap or metal bracelet integrated to the case"
+        ],
+        "cooccurrence": [
+            "human wrist and hand",
+            "shirt cuff or jacket sleeve",
+            "bracelet or bangle",
+            "watch box with pillow",
+            "charging cable or puck"
+        ],
+        "background": [
+            "retail jewelry display counter",
+            "wooden desk or tabletop",
+            "velvet-lined watch box interior",
+            "on-wrist close-up with clothing sleeve",
+            "bedside or nightstand surface"
+        ]
+    },
+    "water lilly": {
+        "action_or_pose": [
+            "floating bloom fully open",
+            "closed flower bud at the surface",
+            "petals partially open at dawn",
+            "overlapping lilypad cluster",
+            "spent flower head sinking underwater"
+        ],
+        "invariant_features": [
+            "round lilypad leaf with V-shaped radial notch",
+            "floating starburst blossom on the water surface",
+            "dense ring of yellow stamens without central seed pod",
+            "waxy hydrophobic leaf with beaded droplets",
+            "submerged rhizome anchoring long petioles"
+        ],
+        "cooccurrence": [
+            "frogs",
+            "dragonflies",
+            "koi fish",
+            "turtles",
+            "cattails"
+        ],
+        "background": [
+            "garden pond",
+            "still freshwater lake",
+            "marshy wetland",
+            "botanical garden water feature",
+            "courtyard or temple pond"
+        ]
+    },
+    "wheelchair": {
+        "action_or_pose": [
+            "folded for storage",
+            "unfolded and unoccupied",
+            "occupied with user seated",
+            "parked with brakes engaged",
+            "positioned beside bed for transfer"
+        ],
+        "invariant_features": [
+            "circular handrims attached to large rear wheels",
+            "rear anti-tip bars or small casters behind wheels",
+            "swing-away or removable footrests with heel loops",
+            "folding X-brace under sling seat",
+            "push-to-lock wheel brakes beside rear wheels"
+        ],
+        "cooccurrence": [
+            "caregiver",
+            "hospital bed",
+            "access ramp",
+            "transfer board",
+            "accessibility sign (wheelchair symbol)"
+        ],
+        "background": [
+            "hospital corridor",
+            "rehabilitation clinic",
+            "sidewalk with curb ramp",
+            "airport terminal",
+            "nursing home room"
+        ]
+    },
+    "wild cat": {
+        "action_or_pose": [
+            "stalking low through grass",
+            "crouching before pounce",
+            "leaping onto prey",
+            "climbing a tree trunk",
+            "standing alert on a rock"
+        ],
+        "invariant_features": [
+            "bushy cylindrical tail with 3–5 black rings",
+            "blunt solid-black tail tip",
+            "dorsal stripe halting at tail base",
+            "two dark shoulder stripes on nape",
+            "dense grey-brown tabby coat without white patches"
+        ],
+        "cooccurrence": [
+            "mouse",
+            "rabbit",
+            "bird carcass",
+            "tree stump",
+            "paw prints in mud"
+        ],
+        "background": [
+            "temperate forest undergrowth",
+            "woodland edge",
+            "scrubland thicket",
+            "rocky hillside",
+            "meadow near forest"
+        ]
+    },
+    "windsor chair": {
+        "action_or_pose": [
+            "front-facing upright",
+            "three-quarter view angled",
+            "side profile orientation",
+            "back view displaying spindle fan",
+            "pushed under table"
+        ],
+        "invariant_features": [
+            "solid wooden saddle seat",
+            "multiple slender back spindles socketed into seat",
+            "splayed turned legs mortised through the seat",
+            "visible wedged through-tenons on seat top",
+            "arched bow or comb crest above spindle fan"
+        ],
+        "cooccurrence": [
+            "wooden dining table",
+            "ceramic mug",
+            "seat cushion",
+            "tablecloth",
+            "woven area rug"
+        ],
+        "background": [
+            "farmhouse kitchen",
+            "colonial-style dining room",
+            "country porch",
+            "antique shop interior",
+            "rustic cafe"
+        ]
+    },
+    "wrench": {
+        "action_or_pose": [
+            "lying flat on a workbench",
+            "hanging from a pegboard hook",
+            "resting inside a toolbox drawer",
+            "positioned on a bolt head",
+            "propped against an engine block"
+        ],
+        "invariant_features": [
+            "open U-shaped jaw with smooth parallel flats",
+            "dual-ended open/box combination layout",
+            "15-degree offset at the open end",
+            "thin flat beam handle with rounded edges",
+            "worm-gear thumbwheel for adjustable jaw"
+        ],
+        "cooccurrence": [
+            "bolt",
+            "nut",
+            "socket set",
+            "penetrating oil can",
+            "mechanic's gloves"
+        ],
+        "background": [
+            "garage workbench",
+            "automotive engine bay",
+            "pegboard tool wall",
+            "toolbox drawer foam liner",
+            "under-sink plumbing area"
+        ]
+    },
+    "yin yang": {
+        "action_or_pose": [
+            "centered and upright",
+            "rotated 90 degrees",
+            "lying flat on a surface",
+            "engraved in relief",
+            "printed on a circular badge"
+        ],
+        "invariant_features": [
+            "two interlocking comma-shaped lobes, one black and one white",
+            "central S-curve dividing the circle into equal halves",
+            "white dot centered within the black lobe",
+            "black dot centered within the white lobe",
+            "lobes tapering to opposite poles inside a circle"
+        ],
+        "cooccurrence": [
+            "I Ching trigrams",
+            "calligraphy brush and inkstone",
+            "incense burner",
+            "meditation beads (mala)",
+            "tai chi uniform"
+        ],
+        "background": [
+            "martial arts studio wall",
+            "temple or meditation hall",
+            "white flag backdrop",
+            "jewelry display case",
+            "parchment scroll background"
+        ]
+    }
+}
