@@ -1,7 +1,6 @@
 # CABIN: Controlling Augmentations for Balancing Invariance and Diversification in One-Shot Image Classification
 
-**Official implementation of our paper published in _Neurocomputing_.**  
-[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231226017200) [[DOI]](https://doi.org/10.1016/j.neucom.2026.134322)
+**Official implementation of our paper published in _Neurocomputing_.** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0925231226017200)
 
 <div align="center">
     <img width="100%" alt="cabin framework" src="imgs/main.png">
